@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/affichage.cpp.o CMakeFiles/main.dir/enveloppe.cpp.o CMakeFiles/main.dir/point.cpp.o CMakeFiles/main.dir/polygone.cpp.o -o main  -lSDL2 

@@ -1,0 +1,18 @@
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - ERROR (version 9.4.0.0-343, build 0.0 from 2022-11-08 07.50.27 by buildguy) : Could not open a browser
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - ERROR (version 9.4.0.0-343, build 0.0 from 2022-11-08 07.50.27 by buildguy) : org.eclipse.swt.SWTError: No more handles because no underlying browser available.
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 -    SWT on GTK 2.x detected. It is reccomended to use SWT on GTK 3.x and Webkit2 API.
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at org.eclipse.swt.SWT.error(SWT.java:4621)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at org.eclipse.swt.browser.Browser.<init>(Browser.java:128)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at org.pentaho.di.ui.util.EnvironmentUtils.getUserAgent(EnvironmentUtils.java:81)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at org.pentaho.di.ui.util.EnvironmentUtils.getBrowserName(EnvironmentUtils.java:183)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at org.pentaho.di.ui.spoon.Spoon.checkEnvironment(Spoon.java:9462)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at org.pentaho.di.ui.spoon.Spoon.start(Spoon.java:9538)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at org.pentaho.di.ui.spoon.Spoon.main(Spoon.java:722)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+2023/11/10 10:10:09 - org.pentaho.di.ui.util.EnvironmentUtils@733534f9 - 	at org.pentaho.commons.launcher.Launcher.main(Launcher.java:92)
+2023/11/10 10:11:04 - Pentaho Data Integration - Pentaho Data Integration  a terminé.
+stopping
