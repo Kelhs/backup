@@ -1,0 +1,8322 @@
+newmtl material0
+Kd 0 191 255
+newmtl material1
+Kd 0 191 255
+newmtl material2
+Kd 0 191 255
+newmtl material3
+Kd 255 250 205
+newmtl material4
+Kd 0 191 255
+newmtl material5
+Kd 154 205 50
+newmtl material6
+Kd 0 191 255
+newmtl material7
+Kd 0 191 255
+newmtl material8
+Kd 154 205 50
+newmtl material9
+Kd 154 205 50
+newmtl material10
+Kd 0 191 255
+newmtl material11
+Kd 0 191 255
+newmtl material12
+Kd 154 205 50
+newmtl material13
+Kd 255 250 205
+newmtl material14
+Kd 0 191 255
+newmtl material15
+Kd 0 191 255
+newmtl material16
+Kd 154 205 50
+newmtl material17
+Kd 205 133 63
+newmtl material18
+Kd 0 191 255
+newmtl material19
+Kd 0 191 255
+newmtl material20
+Kd 205 133 63
+newmtl material21
+Kd 154 205 50
+newmtl material22
+Kd 154 205 50
+newmtl material23
+Kd 154 205 50
+newmtl material24
+Kd 205 133 63
+newmtl material25
+Kd 154 205 50
+newmtl material26
+Kd 255 250 205
+newmtl material27
+Kd 154 205 50
+newmtl material28
+Kd 0 191 255
+newmtl material29
+Kd 0 191 255
+newmtl material30
+Kd 255 250 205
+newmtl material31
+Kd 0 191 255
+newmtl material32
+Kd 154 205 50
+newmtl material33
+Kd 205 133 63
+newmtl material34
+Kd 255 250 205
+newmtl material35
+Kd 205 133 63
+newmtl material36
+Kd 205 133 63
+newmtl material37
+Kd 0 191 255
+newmtl material38
+Kd 205 133 63
+newmtl material39
+Kd 205 133 63
+newmtl material40
+Kd 154 205 50
+newmtl material41
+Kd 154 205 50
+newmtl material42
+Kd 205 133 63
+newmtl material43
+Kd 0 191 255
+newmtl material44
+Kd 0 191 255
+newmtl material45
+Kd 205 133 63
+newmtl material46
+Kd 154 205 50
+newmtl material47
+Kd 240 248 255
+newmtl material48
+Kd 154 205 50
+newmtl material49
+Kd 0 191 255
+newmtl material50
+Kd 205 133 63
+newmtl material51
+Kd 154 205 50
+newmtl material52
+Kd 154 205 50
+newmtl material53
+Kd 240 248 255
+newmtl material54
+Kd 240 248 255
+newmtl material55
+Kd 0 191 255
+newmtl material56
+Kd 240 248 255
+newmtl material57
+Kd 205 133 63
+newmtl material58
+Kd 240 248 255
+newmtl material59
+Kd 154 205 50
+newmtl material60
+Kd 0 191 255
+newmtl material61
+Kd 0 191 255
+newmtl material62
+Kd 240 248 255
+newmtl material63
+Kd 154 205 50
+newmtl material64
+Kd 154 205 50
+newmtl material65
+Kd 0 191 255
+newmtl material66
+Kd 0 191 255
+newmtl material67
+Kd 240 248 255
+newmtl material68
+Kd 240 248 255
+newmtl material69
+Kd 255 250 205
+newmtl material70
+Kd 0 191 255
+newmtl material71
+Kd 154 205 50
+newmtl material72
+Kd 240 248 255
+newmtl material73
+Kd 154 205 50
+newmtl material74
+Kd 154 205 50
+newmtl material75
+Kd 240 248 255
+newmtl material76
+Kd 205 133 63
+newmtl material77
+Kd 205 133 63
+newmtl material78
+Kd 240 248 255
+newmtl material79
+Kd 240 248 255
+newmtl material80
+Kd 205 133 63
+newmtl material81
+Kd 205 133 63
+newmtl material82
+Kd 0 191 255
+newmtl material83
+Kd 154 205 50
+newmtl material84
+Kd 240 248 255
+newmtl material85
+Kd 240 248 255
+newmtl material86
+Kd 240 248 255
+newmtl material87
+Kd 205 133 63
+newmtl material88
+Kd 205 133 63
+newmtl material89
+Kd 240 248 255
+newmtl material90
+Kd 205 133 63
+newmtl material91
+Kd 205 133 63
+newmtl material92
+Kd 255 250 205
+newmtl material93
+Kd 240 248 255
+newmtl material94
+Kd 240 248 255
+newmtl material95
+Kd 205 133 63
+newmtl material96
+Kd 205 133 63
+newmtl material97
+Kd 0 191 255
+newmtl material98
+Kd 0 191 255
+newmtl material99
+Kd 0 191 255
+newmtl material100
+Kd 255 250 205
+newmtl material101
+Kd 240 248 255
+newmtl material102
+Kd 240 248 255
+newmtl material103
+Kd 240 248 255
+newmtl material104
+Kd 240 248 255
+newmtl material105
+Kd 240 248 255
+newmtl material106
+Kd 205 133 63
+newmtl material107
+Kd 240 248 255
+newmtl material108
+Kd 154 205 50
+newmtl material109
+Kd 255 250 205
+newmtl material110
+Kd 0 191 255
+newmtl material111
+Kd 154 205 50
+newmtl material112
+Kd 240 248 255
+newmtl material113
+Kd 240 248 255
+newmtl material114
+Kd 240 248 255
+newmtl material115
+Kd 240 248 255
+newmtl material116
+Kd 205 133 63
+newmtl material117
+Kd 240 248 255
+newmtl material118
+Kd 240 248 255
+newmtl material119
+Kd 240 248 255
+newmtl material120
+Kd 240 248 255
+newmtl material121
+Kd 205 133 63
+newmtl material122
+Kd 205 133 63
+newmtl material123
+Kd 240 248 255
+newmtl material124
+Kd 240 248 255
+newmtl material125
+Kd 240 248 255
+newmtl material126
+Kd 240 248 255
+newmtl material127
+Kd 240 248 255
+newmtl material128
+Kd 240 248 255
+newmtl material129
+Kd 240 248 255
+newmtl material130
+Kd 240 248 255
+newmtl material131
+Kd 154 205 50
+newmtl material132
+Kd 240 248 255
+newmtl material133
+Kd 240 248 255
+newmtl material134
+Kd 240 248 255
+newmtl material135
+Kd 240 248 255
+newmtl material136
+Kd 240 248 255
+newmtl material137
+Kd 240 248 255
+newmtl material138
+Kd 240 248 255
+newmtl material139
+Kd 0 191 255
+newmtl material140
+Kd 255 250 205
+newmtl material141
+Kd 240 248 255
+newmtl material142
+Kd 240 248 255
+newmtl material143
+Kd 240 248 255
+newmtl material144
+Kd 240 248 255
+newmtl material145
+Kd 240 248 255
+newmtl material146
+Kd 240 248 255
+newmtl material147
+Kd 240 248 255
+newmtl material148
+Kd 240 248 255
+newmtl material149
+Kd 240 248 255
+newmtl material150
+Kd 240 248 255
+newmtl material151
+Kd 240 248 255
+newmtl material152
+Kd 240 248 255
+newmtl material153
+Kd 240 248 255
+newmtl material154
+Kd 240 248 255
+newmtl material155
+Kd 240 248 255
+newmtl material156
+Kd 240 248 255
+newmtl material157
+Kd 240 248 255
+newmtl material158
+Kd 240 248 255
+newmtl material159
+Kd 240 248 255
+newmtl material160
+Kd 240 248 255
+newmtl material161
+Kd 240 248 255
+newmtl material162
+Kd 240 248 255
+newmtl material163
+Kd 240 248 255
+newmtl material164
+Kd 205 133 63
+newmtl material165
+Kd 154 205 50
+newmtl material166
+Kd 240 248 255
+newmtl material167
+Kd 240 248 255
+newmtl material168
+Kd 240 248 255
+newmtl material169
+Kd 240 248 255
+newmtl material170
+Kd 240 248 255
+newmtl material171
+Kd 240 248 255
+newmtl material172
+Kd 240 248 255
+newmtl material173
+Kd 240 248 255
+newmtl material174
+Kd 240 248 255
+newmtl material175
+Kd 240 248 255
+newmtl material176
+Kd 240 248 255
+newmtl material177
+Kd 240 248 255
+newmtl material178
+Kd 240 248 255
+newmtl material179
+Kd 205 133 63
+newmtl material180
+Kd 0 191 255
+newmtl material181
+Kd 240 248 255
+newmtl material182
+Kd 240 248 255
+newmtl material183
+Kd 240 248 255
+newmtl material184
+Kd 240 248 255
+newmtl material185
+Kd 240 248 255
+newmtl material186
+Kd 240 248 255
+newmtl material187
+Kd 240 248 255
+newmtl material188
+Kd 240 248 255
+newmtl material189
+Kd 255 250 205
+newmtl material190
+Kd 0 191 255
+newmtl material191
+Kd 154 205 50
+newmtl material192
+Kd 240 248 255
+newmtl material193
+Kd 240 248 255
+newmtl material194
+Kd 240 248 255
+newmtl material195
+Kd 240 248 255
+newmtl material196
+Kd 240 248 255
+newmtl material197
+Kd 240 248 255
+newmtl material198
+Kd 240 248 255
+newmtl material199
+Kd 240 248 255
+newmtl material200
+Kd 240 248 255
+newmtl material201
+Kd 240 248 255
+newmtl material202
+Kd 240 248 255
+newmtl material203
+Kd 240 248 255
+newmtl material204
+Kd 240 248 255
+newmtl material205
+Kd 240 248 255
+newmtl material206
+Kd 240 248 255
+newmtl material207
+Kd 240 248 255
+newmtl material208
+Kd 240 248 255
+newmtl material209
+Kd 240 248 255
+newmtl material210
+Kd 240 248 255
+newmtl material211
+Kd 240 248 255
+newmtl material212
+Kd 240 248 255
+newmtl material213
+Kd 240 248 255
+newmtl material214
+Kd 240 248 255
+newmtl material215
+Kd 205 133 63
+newmtl material216
+Kd 240 248 255
+newmtl material217
+Kd 240 248 255
+newmtl material218
+Kd 240 248 255
+newmtl material219
+Kd 240 248 255
+newmtl material220
+Kd 240 248 255
+newmtl material221
+Kd 240 248 255
+newmtl material222
+Kd 240 248 255
+newmtl material223
+Kd 240 248 255
+newmtl material224
+Kd 240 248 255
+newmtl material225
+Kd 240 248 255
+newmtl material226
+Kd 0 191 255
+newmtl material227
+Kd 154 205 50
+newmtl material228
+Kd 240 248 255
+newmtl material229
+Kd 240 248 255
+newmtl material230
+Kd 240 248 255
+newmtl material231
+Kd 240 248 255
+newmtl material232
+Kd 240 248 255
+newmtl material233
+Kd 240 248 255
+newmtl material234
+Kd 240 248 255
+newmtl material235
+Kd 240 248 255
+newmtl material236
+Kd 240 248 255
+newmtl material237
+Kd 240 248 255
+newmtl material238
+Kd 240 248 255
+newmtl material239
+Kd 240 248 255
+newmtl material240
+Kd 240 248 255
+newmtl material241
+Kd 240 248 255
+newmtl material242
+Kd 240 248 255
+newmtl material243
+Kd 240 248 255
+newmtl material244
+Kd 240 248 255
+newmtl material245
+Kd 240 248 255
+newmtl material246
+Kd 240 248 255
+newmtl material247
+Kd 240 248 255
+newmtl material248
+Kd 240 248 255
+newmtl material249
+Kd 240 248 255
+newmtl material250
+Kd 240 248 255
+newmtl material251
+Kd 240 248 255
+newmtl material252
+Kd 240 248 255
+newmtl material253
+Kd 240 248 255
+newmtl material254
+Kd 0 191 255
+newmtl material255
+Kd 240 248 255
+newmtl material256
+Kd 240 248 255
+newmtl material257
+Kd 240 248 255
+newmtl material258
+Kd 240 248 255
+newmtl material259
+Kd 240 248 255
+newmtl material260
+Kd 240 248 255
+newmtl material261
+Kd 240 248 255
+newmtl material262
+Kd 240 248 255
+newmtl material263
+Kd 240 248 255
+newmtl material264
+Kd 240 248 255
+newmtl material265
+Kd 240 248 255
+newmtl material266
+Kd 240 248 255
+newmtl material267
+Kd 240 248 255
+newmtl material268
+Kd 240 248 255
+newmtl material269
+Kd 240 248 255
+newmtl material270
+Kd 240 248 255
+newmtl material271
+Kd 240 248 255
+newmtl material272
+Kd 154 205 50
+newmtl material273
+Kd 240 248 255
+newmtl material274
+Kd 240 248 255
+newmtl material275
+Kd 240 248 255
+newmtl material276
+Kd 240 248 255
+newmtl material277
+Kd 240 248 255
+newmtl material278
+Kd 240 248 255
+newmtl material279
+Kd 240 248 255
+newmtl material280
+Kd 240 248 255
+newmtl material281
+Kd 240 248 255
+newmtl material282
+Kd 240 248 255
+newmtl material283
+Kd 240 248 255
+newmtl material284
+Kd 240 248 255
+newmtl material285
+Kd 240 248 255
+newmtl material286
+Kd 0 191 255
+newmtl material287
+Kd 0 191 255
+newmtl material288
+Kd 0 191 255
+newmtl material289
+Kd 240 248 255
+newmtl material290
+Kd 240 248 255
+newmtl material291
+Kd 240 248 255
+newmtl material292
+Kd 240 248 255
+newmtl material293
+Kd 240 248 255
+newmtl material294
+Kd 240 248 255
+newmtl material295
+Kd 240 248 255
+newmtl material296
+Kd 240 248 255
+newmtl material297
+Kd 240 248 255
+newmtl material298
+Kd 240 248 255
+newmtl material299
+Kd 240 248 255
+newmtl material300
+Kd 240 248 255
+newmtl material301
+Kd 240 248 255
+newmtl material302
+Kd 205 133 63
+newmtl material303
+Kd 0 191 255
+newmtl material304
+Kd 240 248 255
+newmtl material305
+Kd 240 248 255
+newmtl material306
+Kd 240 248 255
+newmtl material307
+Kd 240 248 255
+newmtl material308
+Kd 240 248 255
+newmtl material309
+Kd 240 248 255
+newmtl material310
+Kd 240 248 255
+newmtl material311
+Kd 240 248 255
+newmtl material312
+Kd 240 248 255
+newmtl material313
+Kd 240 248 255
+newmtl material314
+Kd 240 248 255
+newmtl material315
+Kd 240 248 255
+newmtl material316
+Kd 240 248 255
+newmtl material317
+Kd 154 205 50
+newmtl material318
+Kd 0 191 255
+newmtl material319
+Kd 0 191 255
+newmtl material320
+Kd 240 248 255
+newmtl material321
+Kd 240 248 255
+newmtl material322
+Kd 240 248 255
+newmtl material323
+Kd 240 248 255
+newmtl material324
+Kd 240 248 255
+newmtl material325
+Kd 240 248 255
+newmtl material326
+Kd 240 248 255
+newmtl material327
+Kd 240 248 255
+newmtl material328
+Kd 240 248 255
+newmtl material329
+Kd 240 248 255
+newmtl material330
+Kd 240 248 255
+newmtl material331
+Kd 240 248 255
+newmtl material332
+Kd 240 248 255
+newmtl material333
+Kd 240 248 255
+newmtl material334
+Kd 240 248 255
+newmtl material335
+Kd 240 248 255
+newmtl material336
+Kd 240 248 255
+newmtl material337
+Kd 240 248 255
+newmtl material338
+Kd 240 248 255
+newmtl material339
+Kd 240 248 255
+newmtl material340
+Kd 240 248 255
+newmtl material341
+Kd 205 133 63
+newmtl material342
+Kd 154 205 50
+newmtl material343
+Kd 205 133 63
+newmtl material344
+Kd 240 248 255
+newmtl material345
+Kd 240 248 255
+newmtl material346
+Kd 240 248 255
+newmtl material347
+Kd 240 248 255
+newmtl material348
+Kd 240 248 255
+newmtl material349
+Kd 240 248 255
+newmtl material350
+Kd 240 248 255
+newmtl material351
+Kd 240 248 255
+newmtl material352
+Kd 240 248 255
+newmtl material353
+Kd 240 248 255
+newmtl material354
+Kd 240 248 255
+newmtl material355
+Kd 240 248 255
+newmtl material356
+Kd 240 248 255
+newmtl material357
+Kd 255 250 205
+newmtl material358
+Kd 154 205 50
+newmtl material359
+Kd 205 133 63
+newmtl material360
+Kd 240 248 255
+newmtl material361
+Kd 240 248 255
+newmtl material362
+Kd 240 248 255
+newmtl material363
+Kd 240 248 255
+newmtl material364
+Kd 240 248 255
+newmtl material365
+Kd 240 248 255
+newmtl material366
+Kd 240 248 255
+newmtl material367
+Kd 240 248 255
+newmtl material368
+Kd 240 248 255
+newmtl material369
+Kd 240 248 255
+newmtl material370
+Kd 240 248 255
+newmtl material371
+Kd 240 248 255
+newmtl material372
+Kd 240 248 255
+newmtl material373
+Kd 240 248 255
+newmtl material374
+Kd 240 248 255
+newmtl material375
+Kd 240 248 255
+newmtl material376
+Kd 240 248 255
+newmtl material377
+Kd 205 133 63
+newmtl material378
+Kd 154 205 50
+newmtl material379
+Kd 0 191 255
+newmtl material380
+Kd 240 248 255
+newmtl material381
+Kd 240 248 255
+newmtl material382
+Kd 240 248 255
+newmtl material383
+Kd 240 248 255
+newmtl material384
+Kd 240 248 255
+newmtl material385
+Kd 240 248 255
+newmtl material386
+Kd 240 248 255
+newmtl material387
+Kd 240 248 255
+newmtl material388
+Kd 240 248 255
+newmtl material389
+Kd 240 248 255
+newmtl material390
+Kd 240 248 255
+newmtl material391
+Kd 240 248 255
+newmtl material392
+Kd 154 205 50
+newmtl material393
+Kd 205 133 63
+newmtl material394
+Kd 240 248 255
+newmtl material395
+Kd 240 248 255
+newmtl material396
+Kd 240 248 255
+newmtl material397
+Kd 240 248 255
+newmtl material398
+Kd 240 248 255
+newmtl material399
+Kd 240 248 255
+newmtl material400
+Kd 240 248 255
+newmtl material401
+Kd 240 248 255
+newmtl material402
+Kd 240 248 255
+newmtl material403
+Kd 240 248 255
+newmtl material404
+Kd 240 248 255
+newmtl material405
+Kd 240 248 255
+newmtl material406
+Kd 240 248 255
+newmtl material407
+Kd 240 248 255
+newmtl material408
+Kd 154 205 50
+newmtl material409
+Kd 205 133 63
+newmtl material410
+Kd 205 133 63
+newmtl material411
+Kd 240 248 255
+newmtl material412
+Kd 240 248 255
+newmtl material413
+Kd 240 248 255
+newmtl material414
+Kd 240 248 255
+newmtl material415
+Kd 240 248 255
+newmtl material416
+Kd 240 248 255
+newmtl material417
+Kd 240 248 255
+newmtl material418
+Kd 240 248 255
+newmtl material419
+Kd 240 248 255
+newmtl material420
+Kd 240 248 255
+newmtl material421
+Kd 240 248 255
+newmtl material422
+Kd 240 248 255
+newmtl material423
+Kd 240 248 255
+newmtl material424
+Kd 240 248 255
+newmtl material425
+Kd 240 248 255
+newmtl material426
+Kd 205 133 63
+newmtl material427
+Kd 205 133 63
+newmtl material428
+Kd 205 133 63
+newmtl material429
+Kd 154 205 50
+newmtl material430
+Kd 154 205 50
+newmtl material431
+Kd 205 133 63
+newmtl material432
+Kd 205 133 63
+newmtl material433
+Kd 240 248 255
+newmtl material434
+Kd 240 248 255
+newmtl material435
+Kd 240 248 255
+newmtl material436
+Kd 240 248 255
+newmtl material437
+Kd 240 248 255
+newmtl material438
+Kd 240 248 255
+newmtl material439
+Kd 240 248 255
+newmtl material440
+Kd 240 248 255
+newmtl material441
+Kd 240 248 255
+newmtl material442
+Kd 240 248 255
+newmtl material443
+Kd 240 248 255
+newmtl material444
+Kd 240 248 255
+newmtl material445
+Kd 240 248 255
+newmtl material446
+Kd 240 248 255
+newmtl material447
+Kd 240 248 255
+newmtl material448
+Kd 240 248 255
+newmtl material449
+Kd 240 248 255
+newmtl material450
+Kd 240 248 255
+newmtl material451
+Kd 205 133 63
+newmtl material452
+Kd 205 133 63
+newmtl material453
+Kd 240 248 255
+newmtl material454
+Kd 240 248 255
+newmtl material455
+Kd 240 248 255
+newmtl material456
+Kd 240 248 255
+newmtl material457
+Kd 240 248 255
+newmtl material458
+Kd 240 248 255
+newmtl material459
+Kd 240 248 255
+newmtl material460
+Kd 240 248 255
+newmtl material461
+Kd 240 248 255
+newmtl material462
+Kd 240 248 255
+newmtl material463
+Kd 240 248 255
+newmtl material464
+Kd 240 248 255
+newmtl material465
+Kd 240 248 255
+newmtl material466
+Kd 240 248 255
+newmtl material467
+Kd 240 248 255
+newmtl material468
+Kd 240 248 255
+newmtl material469
+Kd 205 133 63
+newmtl material470
+Kd 0 191 255
+newmtl material471
+Kd 240 248 255
+newmtl material472
+Kd 240 248 255
+newmtl material473
+Kd 240 248 255
+newmtl material474
+Kd 240 248 255
+newmtl material475
+Kd 240 248 255
+newmtl material476
+Kd 240 248 255
+newmtl material477
+Kd 240 248 255
+newmtl material478
+Kd 240 248 255
+newmtl material479
+Kd 240 248 255
+newmtl material480
+Kd 240 248 255
+newmtl material481
+Kd 240 248 255
+newmtl material482
+Kd 240 248 255
+newmtl material483
+Kd 240 248 255
+newmtl material484
+Kd 240 248 255
+newmtl material485
+Kd 240 248 255
+newmtl material486
+Kd 255 250 205
+newmtl material487
+Kd 255 250 205
+newmtl material488
+Kd 154 205 50
+newmtl material489
+Kd 154 205 50
+newmtl material490
+Kd 205 133 63
+newmtl material491
+Kd 240 248 255
+newmtl material492
+Kd 240 248 255
+newmtl material493
+Kd 240 248 255
+newmtl material494
+Kd 240 248 255
+newmtl material495
+Kd 240 248 255
+newmtl material496
+Kd 240 248 255
+newmtl material497
+Kd 240 248 255
+newmtl material498
+Kd 240 248 255
+newmtl material499
+Kd 240 248 255
+newmtl material500
+Kd 240 248 255
+newmtl material501
+Kd 240 248 255
+newmtl material502
+Kd 240 248 255
+newmtl material503
+Kd 240 248 255
+newmtl material504
+Kd 240 248 255
+newmtl material505
+Kd 240 248 255
+newmtl material506
+Kd 240 248 255
+newmtl material507
+Kd 240 248 255
+newmtl material508
+Kd 240 248 255
+newmtl material509
+Kd 154 205 50
+newmtl material510
+Kd 240 248 255
+newmtl material511
+Kd 240 248 255
+newmtl material512
+Kd 240 248 255
+newmtl material513
+Kd 240 248 255
+newmtl material514
+Kd 240 248 255
+newmtl material515
+Kd 240 248 255
+newmtl material516
+Kd 240 248 255
+newmtl material517
+Kd 240 248 255
+newmtl material518
+Kd 240 248 255
+newmtl material519
+Kd 240 248 255
+newmtl material520
+Kd 240 248 255
+newmtl material521
+Kd 240 248 255
+newmtl material522
+Kd 240 248 255
+newmtl material523
+Kd 240 248 255
+newmtl material524
+Kd 240 248 255
+newmtl material525
+Kd 240 248 255
+newmtl material526
+Kd 240 248 255
+newmtl material527
+Kd 240 248 255
+newmtl material528
+Kd 240 248 255
+newmtl material529
+Kd 240 248 255
+newmtl material530
+Kd 240 248 255
+newmtl material531
+Kd 240 248 255
+newmtl material532
+Kd 240 248 255
+newmtl material533
+Kd 240 248 255
+newmtl material534
+Kd 240 248 255
+newmtl material535
+Kd 240 248 255
+newmtl material536
+Kd 240 248 255
+newmtl material537
+Kd 240 248 255
+newmtl material538
+Kd 240 248 255
+newmtl material539
+Kd 240 248 255
+newmtl material540
+Kd 240 248 255
+newmtl material541
+Kd 240 248 255
+newmtl material542
+Kd 240 248 255
+newmtl material543
+Kd 240 248 255
+newmtl material544
+Kd 240 248 255
+newmtl material545
+Kd 240 248 255
+newmtl material546
+Kd 240 248 255
+newmtl material547
+Kd 240 248 255
+newmtl material548
+Kd 240 248 255
+newmtl material549
+Kd 240 248 255
+newmtl material550
+Kd 240 248 255
+newmtl material551
+Kd 240 248 255
+newmtl material552
+Kd 240 248 255
+newmtl material553
+Kd 240 248 255
+newmtl material554
+Kd 240 248 255
+newmtl material555
+Kd 240 248 255
+newmtl material556
+Kd 240 248 255
+newmtl material557
+Kd 240 248 255
+newmtl material558
+Kd 240 248 255
+newmtl material559
+Kd 240 248 255
+newmtl material560
+Kd 240 248 255
+newmtl material561
+Kd 205 133 63
+newmtl material562
+Kd 0 191 255
+newmtl material563
+Kd 205 133 63
+newmtl material564
+Kd 240 248 255
+newmtl material565
+Kd 240 248 255
+newmtl material566
+Kd 240 248 255
+newmtl material567
+Kd 240 248 255
+newmtl material568
+Kd 240 248 255
+newmtl material569
+Kd 240 248 255
+newmtl material570
+Kd 240 248 255
+newmtl material571
+Kd 240 248 255
+newmtl material572
+Kd 240 248 255
+newmtl material573
+Kd 240 248 255
+newmtl material574
+Kd 240 248 255
+newmtl material575
+Kd 240 248 255
+newmtl material576
+Kd 240 248 255
+newmtl material577
+Kd 240 248 255
+newmtl material578
+Kd 240 248 255
+newmtl material579
+Kd 240 248 255
+newmtl material580
+Kd 240 248 255
+newmtl material581
+Kd 240 248 255
+newmtl material582
+Kd 240 248 255
+newmtl material583
+Kd 240 248 255
+newmtl material584
+Kd 240 248 255
+newmtl material585
+Kd 240 248 255
+newmtl material586
+Kd 240 248 255
+newmtl material587
+Kd 240 248 255
+newmtl material588
+Kd 240 248 255
+newmtl material589
+Kd 240 248 255
+newmtl material590
+Kd 240 248 255
+newmtl material591
+Kd 240 248 255
+newmtl material592
+Kd 240 248 255
+newmtl material593
+Kd 240 248 255
+newmtl material594
+Kd 240 248 255
+newmtl material595
+Kd 240 248 255
+newmtl material596
+Kd 240 248 255
+newmtl material597
+Kd 240 248 255
+newmtl material598
+Kd 240 248 255
+newmtl material599
+Kd 240 248 255
+newmtl material600
+Kd 240 248 255
+newmtl material601
+Kd 240 248 255
+newmtl material602
+Kd 240 248 255
+newmtl material603
+Kd 240 248 255
+newmtl material604
+Kd 240 248 255
+newmtl material605
+Kd 240 248 255
+newmtl material606
+Kd 240 248 255
+newmtl material607
+Kd 240 248 255
+newmtl material608
+Kd 240 248 255
+newmtl material609
+Kd 240 248 255
+newmtl material610
+Kd 240 248 255
+newmtl material611
+Kd 240 248 255
+newmtl material612
+Kd 240 248 255
+newmtl material613
+Kd 240 248 255
+newmtl material614
+Kd 240 248 255
+newmtl material615
+Kd 240 248 255
+newmtl material616
+Kd 240 248 255
+newmtl material617
+Kd 240 248 255
+newmtl material618
+Kd 205 133 63
+newmtl material619
+Kd 240 248 255
+newmtl material620
+Kd 240 248 255
+newmtl material621
+Kd 240 248 255
+newmtl material622
+Kd 240 248 255
+newmtl material623
+Kd 240 248 255
+newmtl material624
+Kd 240 248 255
+newmtl material625
+Kd 240 248 255
+newmtl material626
+Kd 240 248 255
+newmtl material627
+Kd 240 248 255
+newmtl material628
+Kd 240 248 255
+newmtl material629
+Kd 240 248 255
+newmtl material630
+Kd 240 248 255
+newmtl material631
+Kd 240 248 255
+newmtl material632
+Kd 240 248 255
+newmtl material633
+Kd 240 248 255
+newmtl material634
+Kd 240 248 255
+newmtl material635
+Kd 240 248 255
+newmtl material636
+Kd 240 248 255
+newmtl material637
+Kd 240 248 255
+newmtl material638
+Kd 240 248 255
+newmtl material639
+Kd 240 248 255
+newmtl material640
+Kd 240 248 255
+newmtl material641
+Kd 240 248 255
+newmtl material642
+Kd 240 248 255
+newmtl material643
+Kd 240 248 255
+newmtl material644
+Kd 240 248 255
+newmtl material645
+Kd 240 248 255
+newmtl material646
+Kd 240 248 255
+newmtl material647
+Kd 240 248 255
+newmtl material648
+Kd 240 248 255
+newmtl material649
+Kd 240 248 255
+newmtl material650
+Kd 240 248 255
+newmtl material651
+Kd 240 248 255
+newmtl material652
+Kd 240 248 255
+newmtl material653
+Kd 240 248 255
+newmtl material654
+Kd 240 248 255
+newmtl material655
+Kd 240 248 255
+newmtl material656
+Kd 240 248 255
+newmtl material657
+Kd 205 133 63
+newmtl material658
+Kd 154 205 50
+newmtl material659
+Kd 205 133 63
+newmtl material660
+Kd 240 248 255
+newmtl material661
+Kd 240 248 255
+newmtl material662
+Kd 240 248 255
+newmtl material663
+Kd 240 248 255
+newmtl material664
+Kd 240 248 255
+newmtl material665
+Kd 240 248 255
+newmtl material666
+Kd 240 248 255
+newmtl material667
+Kd 240 248 255
+newmtl material668
+Kd 240 248 255
+newmtl material669
+Kd 240 248 255
+newmtl material670
+Kd 240 248 255
+newmtl material671
+Kd 240 248 255
+newmtl material672
+Kd 240 248 255
+newmtl material673
+Kd 240 248 255
+newmtl material674
+Kd 240 248 255
+newmtl material675
+Kd 240 248 255
+newmtl material676
+Kd 240 248 255
+newmtl material677
+Kd 240 248 255
+newmtl material678
+Kd 240 248 255
+newmtl material679
+Kd 240 248 255
+newmtl material680
+Kd 240 248 255
+newmtl material681
+Kd 240 248 255
+newmtl material682
+Kd 205 133 63
+newmtl material683
+Kd 240 248 255
+newmtl material684
+Kd 240 248 255
+newmtl material685
+Kd 240 248 255
+newmtl material686
+Kd 240 248 255
+newmtl material687
+Kd 240 248 255
+newmtl material688
+Kd 240 248 255
+newmtl material689
+Kd 240 248 255
+newmtl material690
+Kd 240 248 255
+newmtl material691
+Kd 240 248 255
+newmtl material692
+Kd 240 248 255
+newmtl material693
+Kd 240 248 255
+newmtl material694
+Kd 240 248 255
+newmtl material695
+Kd 240 248 255
+newmtl material696
+Kd 240 248 255
+newmtl material697
+Kd 240 248 255
+newmtl material698
+Kd 154 205 50
+newmtl material699
+Kd 0 191 255
+newmtl material700
+Kd 0 191 255
+newmtl material701
+Kd 240 248 255
+newmtl material702
+Kd 240 248 255
+newmtl material703
+Kd 240 248 255
+newmtl material704
+Kd 240 248 255
+newmtl material705
+Kd 240 248 255
+newmtl material706
+Kd 240 248 255
+newmtl material707
+Kd 240 248 255
+newmtl material708
+Kd 240 248 255
+newmtl material709
+Kd 240 248 255
+newmtl material710
+Kd 240 248 255
+newmtl material711
+Kd 240 248 255
+newmtl material712
+Kd 240 248 255
+newmtl material713
+Kd 240 248 255
+newmtl material714
+Kd 240 248 255
+newmtl material715
+Kd 240 248 255
+newmtl material716
+Kd 240 248 255
+newmtl material717
+Kd 240 248 255
+newmtl material718
+Kd 240 248 255
+newmtl material719
+Kd 240 248 255
+newmtl material720
+Kd 240 248 255
+newmtl material721
+Kd 240 248 255
+newmtl material722
+Kd 240 248 255
+newmtl material723
+Kd 240 248 255
+newmtl material724
+Kd 240 248 255
+newmtl material725
+Kd 205 133 63
+newmtl material726
+Kd 205 133 63
+newmtl material727
+Kd 0 191 255
+newmtl material728
+Kd 240 248 255
+newmtl material729
+Kd 240 248 255
+newmtl material730
+Kd 240 248 255
+newmtl material731
+Kd 240 248 255
+newmtl material732
+Kd 240 248 255
+newmtl material733
+Kd 240 248 255
+newmtl material734
+Kd 240 248 255
+newmtl material735
+Kd 240 248 255
+newmtl material736
+Kd 240 248 255
+newmtl material737
+Kd 240 248 255
+newmtl material738
+Kd 240 248 255
+newmtl material739
+Kd 240 248 255
+newmtl material740
+Kd 240 248 255
+newmtl material741
+Kd 240 248 255
+newmtl material742
+Kd 240 248 255
+newmtl material743
+Kd 240 248 255
+newmtl material744
+Kd 240 248 255
+newmtl material745
+Kd 240 248 255
+newmtl material746
+Kd 240 248 255
+newmtl material747
+Kd 154 205 50
+newmtl material748
+Kd 0 191 255
+newmtl material749
+Kd 240 248 255
+newmtl material750
+Kd 240 248 255
+newmtl material751
+Kd 240 248 255
+newmtl material752
+Kd 240 248 255
+newmtl material753
+Kd 240 248 255
+newmtl material754
+Kd 240 248 255
+newmtl material755
+Kd 240 248 255
+newmtl material756
+Kd 240 248 255
+newmtl material757
+Kd 240 248 255
+newmtl material758
+Kd 240 248 255
+newmtl material759
+Kd 240 248 255
+newmtl material760
+Kd 240 248 255
+newmtl material761
+Kd 240 248 255
+newmtl material762
+Kd 240 248 255
+newmtl material763
+Kd 240 248 255
+newmtl material764
+Kd 240 248 255
+newmtl material765
+Kd 240 248 255
+newmtl material766
+Kd 240 248 255
+newmtl material767
+Kd 240 248 255
+newmtl material768
+Kd 240 248 255
+newmtl material769
+Kd 240 248 255
+newmtl material770
+Kd 240 248 255
+newmtl material771
+Kd 240 248 255
+newmtl material772
+Kd 240 248 255
+newmtl material773
+Kd 240 248 255
+newmtl material774
+Kd 240 248 255
+newmtl material775
+Kd 240 248 255
+newmtl material776
+Kd 240 248 255
+newmtl material777
+Kd 240 248 255
+newmtl material778
+Kd 240 248 255
+newmtl material779
+Kd 240 248 255
+newmtl material780
+Kd 240 248 255
+newmtl material781
+Kd 240 248 255
+newmtl material782
+Kd 240 248 255
+newmtl material783
+Kd 240 248 255
+newmtl material784
+Kd 240 248 255
+newmtl material785
+Kd 240 248 255
+newmtl material786
+Kd 240 248 255
+newmtl material787
+Kd 240 248 255
+newmtl material788
+Kd 240 248 255
+newmtl material789
+Kd 240 248 255
+newmtl material790
+Kd 240 248 255
+newmtl material791
+Kd 240 248 255
+newmtl material792
+Kd 240 248 255
+newmtl material793
+Kd 240 248 255
+newmtl material794
+Kd 240 248 255
+newmtl material795
+Kd 240 248 255
+newmtl material796
+Kd 240 248 255
+newmtl material797
+Kd 240 248 255
+newmtl material798
+Kd 240 248 255
+newmtl material799
+Kd 240 248 255
+newmtl material800
+Kd 240 248 255
+newmtl material801
+Kd 240 248 255
+newmtl material802
+Kd 240 248 255
+newmtl material803
+Kd 240 248 255
+newmtl material804
+Kd 240 248 255
+newmtl material805
+Kd 240 248 255
+newmtl material806
+Kd 240 248 255
+newmtl material807
+Kd 240 248 255
+newmtl material808
+Kd 240 248 255
+newmtl material809
+Kd 240 248 255
+newmtl material810
+Kd 240 248 255
+newmtl material811
+Kd 240 248 255
+newmtl material812
+Kd 240 248 255
+newmtl material813
+Kd 240 248 255
+newmtl material814
+Kd 240 248 255
+newmtl material815
+Kd 240 248 255
+newmtl material816
+Kd 240 248 255
+newmtl material817
+Kd 240 248 255
+newmtl material818
+Kd 240 248 255
+newmtl material819
+Kd 240 248 255
+newmtl material820
+Kd 240 248 255
+newmtl material821
+Kd 240 248 255
+newmtl material822
+Kd 240 248 255
+newmtl material823
+Kd 240 248 255
+newmtl material824
+Kd 240 248 255
+newmtl material825
+Kd 240 248 255
+newmtl material826
+Kd 240 248 255
+newmtl material827
+Kd 240 248 255
+newmtl material828
+Kd 240 248 255
+newmtl material829
+Kd 205 133 63
+newmtl material830
+Kd 0 191 255
+newmtl material831
+Kd 240 248 255
+newmtl material832
+Kd 240 248 255
+newmtl material833
+Kd 240 248 255
+newmtl material834
+Kd 240 248 255
+newmtl material835
+Kd 240 248 255
+newmtl material836
+Kd 240 248 255
+newmtl material837
+Kd 240 248 255
+newmtl material838
+Kd 240 248 255
+newmtl material839
+Kd 240 248 255
+newmtl material840
+Kd 240 248 255
+newmtl material841
+Kd 240 248 255
+newmtl material842
+Kd 240 248 255
+newmtl material843
+Kd 240 248 255
+newmtl material844
+Kd 240 248 255
+newmtl material845
+Kd 240 248 255
+newmtl material846
+Kd 240 248 255
+newmtl material847
+Kd 240 248 255
+newmtl material848
+Kd 240 248 255
+newmtl material849
+Kd 240 248 255
+newmtl material850
+Kd 240 248 255
+newmtl material851
+Kd 205 133 63
+newmtl material852
+Kd 240 248 255
+newmtl material853
+Kd 240 248 255
+newmtl material854
+Kd 240 248 255
+newmtl material855
+Kd 240 248 255
+newmtl material856
+Kd 240 248 255
+newmtl material857
+Kd 240 248 255
+newmtl material858
+Kd 240 248 255
+newmtl material859
+Kd 240 248 255
+newmtl material860
+Kd 240 248 255
+newmtl material861
+Kd 240 248 255
+newmtl material862
+Kd 240 248 255
+newmtl material863
+Kd 240 248 255
+newmtl material864
+Kd 240 248 255
+newmtl material865
+Kd 240 248 255
+newmtl material866
+Kd 240 248 255
+newmtl material867
+Kd 240 248 255
+newmtl material868
+Kd 240 248 255
+newmtl material869
+Kd 240 248 255
+newmtl material870
+Kd 240 248 255
+newmtl material871
+Kd 240 248 255
+newmtl material872
+Kd 240 248 255
+newmtl material873
+Kd 240 248 255
+newmtl material874
+Kd 240 248 255
+newmtl material875
+Kd 240 248 255
+newmtl material876
+Kd 240 248 255
+newmtl material877
+Kd 240 248 255
+newmtl material878
+Kd 240 248 255
+newmtl material879
+Kd 240 248 255
+newmtl material880
+Kd 240 248 255
+newmtl material881
+Kd 154 205 50
+newmtl material882
+Kd 240 248 255
+newmtl material883
+Kd 240 248 255
+newmtl material884
+Kd 240 248 255
+newmtl material885
+Kd 240 248 255
+newmtl material886
+Kd 240 248 255
+newmtl material887
+Kd 240 248 255
+newmtl material888
+Kd 240 248 255
+newmtl material889
+Kd 240 248 255
+newmtl material890
+Kd 240 248 255
+newmtl material891
+Kd 240 248 255
+newmtl material892
+Kd 240 248 255
+newmtl material893
+Kd 240 248 255
+newmtl material894
+Kd 240 248 255
+newmtl material895
+Kd 240 248 255
+newmtl material896
+Kd 240 248 255
+newmtl material897
+Kd 240 248 255
+newmtl material898
+Kd 240 248 255
+newmtl material899
+Kd 240 248 255
+newmtl material900
+Kd 240 248 255
+newmtl material901
+Kd 240 248 255
+newmtl material902
+Kd 240 248 255
+newmtl material903
+Kd 240 248 255
+newmtl material904
+Kd 240 248 255
+newmtl material905
+Kd 0 191 255
+newmtl material906
+Kd 240 248 255
+newmtl material907
+Kd 240 248 255
+newmtl material908
+Kd 240 248 255
+newmtl material909
+Kd 240 248 255
+newmtl material910
+Kd 240 248 255
+newmtl material911
+Kd 240 248 255
+newmtl material912
+Kd 240 248 255
+newmtl material913
+Kd 240 248 255
+newmtl material914
+Kd 240 248 255
+newmtl material915
+Kd 240 248 255
+newmtl material916
+Kd 240 248 255
+newmtl material917
+Kd 240 248 255
+newmtl material918
+Kd 240 248 255
+newmtl material919
+Kd 240 248 255
+newmtl material920
+Kd 240 248 255
+newmtl material921
+Kd 240 248 255
+newmtl material922
+Kd 240 248 255
+newmtl material923
+Kd 240 248 255
+newmtl material924
+Kd 240 248 255
+newmtl material925
+Kd 240 248 255
+newmtl material926
+Kd 240 248 255
+newmtl material927
+Kd 240 248 255
+newmtl material928
+Kd 255 250 205
+newmtl material929
+Kd 240 248 255
+newmtl material930
+Kd 240 248 255
+newmtl material931
+Kd 240 248 255
+newmtl material932
+Kd 240 248 255
+newmtl material933
+Kd 240 248 255
+newmtl material934
+Kd 240 248 255
+newmtl material935
+Kd 240 248 255
+newmtl material936
+Kd 240 248 255
+newmtl material937
+Kd 240 248 255
+newmtl material938
+Kd 240 248 255
+newmtl material939
+Kd 240 248 255
+newmtl material940
+Kd 240 248 255
+newmtl material941
+Kd 240 248 255
+newmtl material942
+Kd 240 248 255
+newmtl material943
+Kd 240 248 255
+newmtl material944
+Kd 240 248 255
+newmtl material945
+Kd 240 248 255
+newmtl material946
+Kd 240 248 255
+newmtl material947
+Kd 240 248 255
+newmtl material948
+Kd 240 248 255
+newmtl material949
+Kd 240 248 255
+newmtl material950
+Kd 240 248 255
+newmtl material951
+Kd 240 248 255
+newmtl material952
+Kd 240 248 255
+newmtl material953
+Kd 240 248 255
+newmtl material954
+Kd 240 248 255
+newmtl material955
+Kd 240 248 255
+newmtl material956
+Kd 205 133 63
+newmtl material957
+Kd 205 133 63
+newmtl material958
+Kd 240 248 255
+newmtl material959
+Kd 240 248 255
+newmtl material960
+Kd 240 248 255
+newmtl material961
+Kd 240 248 255
+newmtl material962
+Kd 240 248 255
+newmtl material963
+Kd 240 248 255
+newmtl material964
+Kd 240 248 255
+newmtl material965
+Kd 240 248 255
+newmtl material966
+Kd 240 248 255
+newmtl material967
+Kd 240 248 255
+newmtl material968
+Kd 240 248 255
+newmtl material969
+Kd 240 248 255
+newmtl material970
+Kd 240 248 255
+newmtl material971
+Kd 240 248 255
+newmtl material972
+Kd 240 248 255
+newmtl material973
+Kd 240 248 255
+newmtl material974
+Kd 240 248 255
+newmtl material975
+Kd 240 248 255
+newmtl material976
+Kd 240 248 255
+newmtl material977
+Kd 240 248 255
+newmtl material978
+Kd 240 248 255
+newmtl material979
+Kd 240 248 255
+newmtl material980
+Kd 240 248 255
+newmtl material981
+Kd 240 248 255
+newmtl material982
+Kd 240 248 255
+newmtl material983
+Kd 240 248 255
+newmtl material984
+Kd 205 133 63
+newmtl material985
+Kd 154 205 50
+newmtl material986
+Kd 0 191 255
+newmtl material987
+Kd 205 133 63
+newmtl material988
+Kd 240 248 255
+newmtl material989
+Kd 240 248 255
+newmtl material990
+Kd 240 248 255
+newmtl material991
+Kd 240 248 255
+newmtl material992
+Kd 240 248 255
+newmtl material993
+Kd 240 248 255
+newmtl material994
+Kd 240 248 255
+newmtl material995
+Kd 240 248 255
+newmtl material996
+Kd 240 248 255
+newmtl material997
+Kd 240 248 255
+newmtl material998
+Kd 240 248 255
+newmtl material999
+Kd 240 248 255
+newmtl material1000
+Kd 240 248 255
+newmtl material1001
+Kd 240 248 255
+newmtl material1002
+Kd 240 248 255
+newmtl material1003
+Kd 240 248 255
+newmtl material1004
+Kd 240 248 255
+newmtl material1005
+Kd 240 248 255
+newmtl material1006
+Kd 240 248 255
+newmtl material1007
+Kd 240 248 255
+newmtl material1008
+Kd 240 248 255
+newmtl material1009
+Kd 240 248 255
+newmtl material1010
+Kd 240 248 255
+newmtl material1011
+Kd 240 248 255
+newmtl material1012
+Kd 240 248 255
+newmtl material1013
+Kd 240 248 255
+newmtl material1014
+Kd 240 248 255
+newmtl material1015
+Kd 240 248 255
+newmtl material1016
+Kd 240 248 255
+newmtl material1017
+Kd 240 248 255
+newmtl material1018
+Kd 240 248 255
+newmtl material1019
+Kd 240 248 255
+newmtl material1020
+Kd 240 248 255
+newmtl material1021
+Kd 240 248 255
+newmtl material1022
+Kd 205 133 63
+newmtl material1023
+Kd 154 205 50
+newmtl material1024
+Kd 240 248 255
+newmtl material1025
+Kd 240 248 255
+newmtl material1026
+Kd 240 248 255
+newmtl material1027
+Kd 240 248 255
+newmtl material1028
+Kd 240 248 255
+newmtl material1029
+Kd 240 248 255
+newmtl material1030
+Kd 240 248 255
+newmtl material1031
+Kd 240 248 255
+newmtl material1032
+Kd 240 248 255
+newmtl material1033
+Kd 240 248 255
+newmtl material1034
+Kd 240 248 255
+newmtl material1035
+Kd 240 248 255
+newmtl material1036
+Kd 240 248 255
+newmtl material1037
+Kd 240 248 255
+newmtl material1038
+Kd 240 248 255
+newmtl material1039
+Kd 240 248 255
+newmtl material1040
+Kd 240 248 255
+newmtl material1041
+Kd 240 248 255
+newmtl material1042
+Kd 240 248 255
+newmtl material1043
+Kd 240 248 255
+newmtl material1044
+Kd 240 248 255
+newmtl material1045
+Kd 240 248 255
+newmtl material1046
+Kd 240 248 255
+newmtl material1047
+Kd 240 248 255
+newmtl material1048
+Kd 240 248 255
+newmtl material1049
+Kd 240 248 255
+newmtl material1050
+Kd 240 248 255
+newmtl material1051
+Kd 240 248 255
+newmtl material1052
+Kd 240 248 255
+newmtl material1053
+Kd 240 248 255
+newmtl material1054
+Kd 240 248 255
+newmtl material1055
+Kd 240 248 255
+newmtl material1056
+Kd 240 248 255
+newmtl material1057
+Kd 240 248 255
+newmtl material1058
+Kd 240 248 255
+newmtl material1059
+Kd 240 248 255
+newmtl material1060
+Kd 255 250 205
+newmtl material1061
+Kd 0 191 255
+newmtl material1062
+Kd 0 191 255
+newmtl material1063
+Kd 240 248 255
+newmtl material1064
+Kd 240 248 255
+newmtl material1065
+Kd 240 248 255
+newmtl material1066
+Kd 240 248 255
+newmtl material1067
+Kd 240 248 255
+newmtl material1068
+Kd 240 248 255
+newmtl material1069
+Kd 240 248 255
+newmtl material1070
+Kd 240 248 255
+newmtl material1071
+Kd 240 248 255
+newmtl material1072
+Kd 240 248 255
+newmtl material1073
+Kd 240 248 255
+newmtl material1074
+Kd 240 248 255
+newmtl material1075
+Kd 240 248 255
+newmtl material1076
+Kd 240 248 255
+newmtl material1077
+Kd 240 248 255
+newmtl material1078
+Kd 240 248 255
+newmtl material1079
+Kd 240 248 255
+newmtl material1080
+Kd 240 248 255
+newmtl material1081
+Kd 240 248 255
+newmtl material1082
+Kd 240 248 255
+newmtl material1083
+Kd 240 248 255
+newmtl material1084
+Kd 240 248 255
+newmtl material1085
+Kd 240 248 255
+newmtl material1086
+Kd 240 248 255
+newmtl material1087
+Kd 240 248 255
+newmtl material1088
+Kd 240 248 255
+newmtl material1089
+Kd 240 248 255
+newmtl material1090
+Kd 240 248 255
+newmtl material1091
+Kd 240 248 255
+newmtl material1092
+Kd 240 248 255
+newmtl material1093
+Kd 205 133 63
+newmtl material1094
+Kd 240 248 255
+newmtl material1095
+Kd 240 248 255
+newmtl material1096
+Kd 205 133 63
+newmtl material1097
+Kd 0 191 255
+newmtl material1098
+Kd 240 248 255
+newmtl material1099
+Kd 240 248 255
+newmtl material1100
+Kd 240 248 255
+newmtl material1101
+Kd 240 248 255
+newmtl material1102
+Kd 240 248 255
+newmtl material1103
+Kd 240 248 255
+newmtl material1104
+Kd 240 248 255
+newmtl material1105
+Kd 240 248 255
+newmtl material1106
+Kd 240 248 255
+newmtl material1107
+Kd 240 248 255
+newmtl material1108
+Kd 240 248 255
+newmtl material1109
+Kd 240 248 255
+newmtl material1110
+Kd 240 248 255
+newmtl material1111
+Kd 240 248 255
+newmtl material1112
+Kd 240 248 255
+newmtl material1113
+Kd 240 248 255
+newmtl material1114
+Kd 240 248 255
+newmtl material1115
+Kd 240 248 255
+newmtl material1116
+Kd 240 248 255
+newmtl material1117
+Kd 240 248 255
+newmtl material1118
+Kd 240 248 255
+newmtl material1119
+Kd 240 248 255
+newmtl material1120
+Kd 240 248 255
+newmtl material1121
+Kd 240 248 255
+newmtl material1122
+Kd 240 248 255
+newmtl material1123
+Kd 240 248 255
+newmtl material1124
+Kd 240 248 255
+newmtl material1125
+Kd 240 248 255
+newmtl material1126
+Kd 240 248 255
+newmtl material1127
+Kd 240 248 255
+newmtl material1128
+Kd 240 248 255
+newmtl material1129
+Kd 154 205 50
+newmtl material1130
+Kd 0 191 255
+newmtl material1131
+Kd 205 133 63
+newmtl material1132
+Kd 240 248 255
+newmtl material1133
+Kd 240 248 255
+newmtl material1134
+Kd 240 248 255
+newmtl material1135
+Kd 240 248 255
+newmtl material1136
+Kd 240 248 255
+newmtl material1137
+Kd 240 248 255
+newmtl material1138
+Kd 240 248 255
+newmtl material1139
+Kd 240 248 255
+newmtl material1140
+Kd 240 248 255
+newmtl material1141
+Kd 240 248 255
+newmtl material1142
+Kd 240 248 255
+newmtl material1143
+Kd 240 248 255
+newmtl material1144
+Kd 240 248 255
+newmtl material1145
+Kd 240 248 255
+newmtl material1146
+Kd 240 248 255
+newmtl material1147
+Kd 240 248 255
+newmtl material1148
+Kd 240 248 255
+newmtl material1149
+Kd 240 248 255
+newmtl material1150
+Kd 240 248 255
+newmtl material1151
+Kd 240 248 255
+newmtl material1152
+Kd 240 248 255
+newmtl material1153
+Kd 240 248 255
+newmtl material1154
+Kd 240 248 255
+newmtl material1155
+Kd 240 248 255
+newmtl material1156
+Kd 240 248 255
+newmtl material1157
+Kd 240 248 255
+newmtl material1158
+Kd 240 248 255
+newmtl material1159
+Kd 240 248 255
+newmtl material1160
+Kd 240 248 255
+newmtl material1161
+Kd 240 248 255
+newmtl material1162
+Kd 240 248 255
+newmtl material1163
+Kd 240 248 255
+newmtl material1164
+Kd 240 248 255
+newmtl material1165
+Kd 205 133 63
+newmtl material1166
+Kd 0 191 255
+newmtl material1167
+Kd 0 191 255
+newmtl material1168
+Kd 255 250 205
+newmtl material1169
+Kd 240 248 255
+newmtl material1170
+Kd 240 248 255
+newmtl material1171
+Kd 240 248 255
+newmtl material1172
+Kd 240 248 255
+newmtl material1173
+Kd 240 248 255
+newmtl material1174
+Kd 240 248 255
+newmtl material1175
+Kd 240 248 255
+newmtl material1176
+Kd 240 248 255
+newmtl material1177
+Kd 240 248 255
+newmtl material1178
+Kd 240 248 255
+newmtl material1179
+Kd 240 248 255
+newmtl material1180
+Kd 240 248 255
+newmtl material1181
+Kd 240 248 255
+newmtl material1182
+Kd 240 248 255
+newmtl material1183
+Kd 240 248 255
+newmtl material1184
+Kd 240 248 255
+newmtl material1185
+Kd 240 248 255
+newmtl material1186
+Kd 240 248 255
+newmtl material1187
+Kd 240 248 255
+newmtl material1188
+Kd 240 248 255
+newmtl material1189
+Kd 240 248 255
+newmtl material1190
+Kd 240 248 255
+newmtl material1191
+Kd 240 248 255
+newmtl material1192
+Kd 240 248 255
+newmtl material1193
+Kd 240 248 255
+newmtl material1194
+Kd 240 248 255
+newmtl material1195
+Kd 240 248 255
+newmtl material1196
+Kd 240 248 255
+newmtl material1197
+Kd 240 248 255
+newmtl material1198
+Kd 240 248 255
+newmtl material1199
+Kd 240 248 255
+newmtl material1200
+Kd 240 248 255
+newmtl material1201
+Kd 240 248 255
+newmtl material1202
+Kd 240 248 255
+newmtl material1203
+Kd 205 133 63
+newmtl material1204
+Kd 0 191 255
+newmtl material1205
+Kd 255 250 205
+newmtl material1206
+Kd 255 250 205
+newmtl material1207
+Kd 205 133 63
+newmtl material1208
+Kd 240 248 255
+newmtl material1209
+Kd 240 248 255
+newmtl material1210
+Kd 240 248 255
+newmtl material1211
+Kd 240 248 255
+newmtl material1212
+Kd 240 248 255
+newmtl material1213
+Kd 240 248 255
+newmtl material1214
+Kd 240 248 255
+newmtl material1215
+Kd 240 248 255
+newmtl material1216
+Kd 240 248 255
+newmtl material1217
+Kd 240 248 255
+newmtl material1218
+Kd 240 248 255
+newmtl material1219
+Kd 240 248 255
+newmtl material1220
+Kd 240 248 255
+newmtl material1221
+Kd 240 248 255
+newmtl material1222
+Kd 240 248 255
+newmtl material1223
+Kd 240 248 255
+newmtl material1224
+Kd 240 248 255
+newmtl material1225
+Kd 240 248 255
+newmtl material1226
+Kd 240 248 255
+newmtl material1227
+Kd 240 248 255
+newmtl material1228
+Kd 240 248 255
+newmtl material1229
+Kd 240 248 255
+newmtl material1230
+Kd 240 248 255
+newmtl material1231
+Kd 240 248 255
+newmtl material1232
+Kd 240 248 255
+newmtl material1233
+Kd 240 248 255
+newmtl material1234
+Kd 240 248 255
+newmtl material1235
+Kd 240 248 255
+newmtl material1236
+Kd 240 248 255
+newmtl material1237
+Kd 240 248 255
+newmtl material1238
+Kd 240 248 255
+newmtl material1239
+Kd 154 205 50
+newmtl material1240
+Kd 154 205 50
+newmtl material1241
+Kd 240 248 255
+newmtl material1242
+Kd 240 248 255
+newmtl material1243
+Kd 240 248 255
+newmtl material1244
+Kd 240 248 255
+newmtl material1245
+Kd 240 248 255
+newmtl material1246
+Kd 240 248 255
+newmtl material1247
+Kd 240 248 255
+newmtl material1248
+Kd 240 248 255
+newmtl material1249
+Kd 240 248 255
+newmtl material1250
+Kd 240 248 255
+newmtl material1251
+Kd 240 248 255
+newmtl material1252
+Kd 240 248 255
+newmtl material1253
+Kd 240 248 255
+newmtl material1254
+Kd 240 248 255
+newmtl material1255
+Kd 240 248 255
+newmtl material1256
+Kd 240 248 255
+newmtl material1257
+Kd 240 248 255
+newmtl material1258
+Kd 240 248 255
+newmtl material1259
+Kd 240 248 255
+newmtl material1260
+Kd 240 248 255
+newmtl material1261
+Kd 240 248 255
+newmtl material1262
+Kd 240 248 255
+newmtl material1263
+Kd 240 248 255
+newmtl material1264
+Kd 240 248 255
+newmtl material1265
+Kd 240 248 255
+newmtl material1266
+Kd 240 248 255
+newmtl material1267
+Kd 0 191 255
+newmtl material1268
+Kd 0 191 255
+newmtl material1269
+Kd 205 133 63
+newmtl material1270
+Kd 240 248 255
+newmtl material1271
+Kd 240 248 255
+newmtl material1272
+Kd 240 248 255
+newmtl material1273
+Kd 240 248 255
+newmtl material1274
+Kd 240 248 255
+newmtl material1275
+Kd 240 248 255
+newmtl material1276
+Kd 240 248 255
+newmtl material1277
+Kd 240 248 255
+newmtl material1278
+Kd 240 248 255
+newmtl material1279
+Kd 240 248 255
+newmtl material1280
+Kd 240 248 255
+newmtl material1281
+Kd 240 248 255
+newmtl material1282
+Kd 240 248 255
+newmtl material1283
+Kd 240 248 255
+newmtl material1284
+Kd 240 248 255
+newmtl material1285
+Kd 240 248 255
+newmtl material1286
+Kd 240 248 255
+newmtl material1287
+Kd 240 248 255
+newmtl material1288
+Kd 240 248 255
+newmtl material1289
+Kd 240 248 255
+newmtl material1290
+Kd 240 248 255
+newmtl material1291
+Kd 240 248 255
+newmtl material1292
+Kd 240 248 255
+newmtl material1293
+Kd 240 248 255
+newmtl material1294
+Kd 240 248 255
+newmtl material1295
+Kd 240 248 255
+newmtl material1296
+Kd 240 248 255
+newmtl material1297
+Kd 240 248 255
+newmtl material1298
+Kd 240 248 255
+newmtl material1299
+Kd 240 248 255
+newmtl material1300
+Kd 154 205 50
+newmtl material1301
+Kd 154 205 50
+newmtl material1302
+Kd 0 191 255
+newmtl material1303
+Kd 240 248 255
+newmtl material1304
+Kd 240 248 255
+newmtl material1305
+Kd 240 248 255
+newmtl material1306
+Kd 240 248 255
+newmtl material1307
+Kd 240 248 255
+newmtl material1308
+Kd 240 248 255
+newmtl material1309
+Kd 240 248 255
+newmtl material1310
+Kd 240 248 255
+newmtl material1311
+Kd 240 248 255
+newmtl material1312
+Kd 240 248 255
+newmtl material1313
+Kd 240 248 255
+newmtl material1314
+Kd 240 248 255
+newmtl material1315
+Kd 240 248 255
+newmtl material1316
+Kd 240 248 255
+newmtl material1317
+Kd 240 248 255
+newmtl material1318
+Kd 240 248 255
+newmtl material1319
+Kd 240 248 255
+newmtl material1320
+Kd 240 248 255
+newmtl material1321
+Kd 240 248 255
+newmtl material1322
+Kd 240 248 255
+newmtl material1323
+Kd 240 248 255
+newmtl material1324
+Kd 240 248 255
+newmtl material1325
+Kd 240 248 255
+newmtl material1326
+Kd 240 248 255
+newmtl material1327
+Kd 240 248 255
+newmtl material1328
+Kd 240 248 255
+newmtl material1329
+Kd 240 248 255
+newmtl material1330
+Kd 240 248 255
+newmtl material1331
+Kd 240 248 255
+newmtl material1332
+Kd 240 248 255
+newmtl material1333
+Kd 240 248 255
+newmtl material1334
+Kd 0 191 255
+newmtl material1335
+Kd 0 191 255
+newmtl material1336
+Kd 154 205 50
+newmtl material1337
+Kd 240 248 255
+newmtl material1338
+Kd 240 248 255
+newmtl material1339
+Kd 240 248 255
+newmtl material1340
+Kd 240 248 255
+newmtl material1341
+Kd 240 248 255
+newmtl material1342
+Kd 240 248 255
+newmtl material1343
+Kd 240 248 255
+newmtl material1344
+Kd 240 248 255
+newmtl material1345
+Kd 240 248 255
+newmtl material1346
+Kd 240 248 255
+newmtl material1347
+Kd 240 248 255
+newmtl material1348
+Kd 240 248 255
+newmtl material1349
+Kd 240 248 255
+newmtl material1350
+Kd 240 248 255
+newmtl material1351
+Kd 240 248 255
+newmtl material1352
+Kd 240 248 255
+newmtl material1353
+Kd 240 248 255
+newmtl material1354
+Kd 240 248 255
+newmtl material1355
+Kd 240 248 255
+newmtl material1356
+Kd 240 248 255
+newmtl material1357
+Kd 240 248 255
+newmtl material1358
+Kd 240 248 255
+newmtl material1359
+Kd 240 248 255
+newmtl material1360
+Kd 240 248 255
+newmtl material1361
+Kd 240 248 255
+newmtl material1362
+Kd 240 248 255
+newmtl material1363
+Kd 240 248 255
+newmtl material1364
+Kd 240 248 255
+newmtl material1365
+Kd 240 248 255
+newmtl material1366
+Kd 240 248 255
+newmtl material1367
+Kd 240 248 255
+newmtl material1368
+Kd 240 248 255
+newmtl material1369
+Kd 240 248 255
+newmtl material1370
+Kd 205 133 63
+newmtl material1371
+Kd 154 205 50
+newmtl material1372
+Kd 240 248 255
+newmtl material1373
+Kd 240 248 255
+newmtl material1374
+Kd 240 248 255
+newmtl material1375
+Kd 240 248 255
+newmtl material1376
+Kd 240 248 255
+newmtl material1377
+Kd 240 248 255
+newmtl material1378
+Kd 240 248 255
+newmtl material1379
+Kd 240 248 255
+newmtl material1380
+Kd 240 248 255
+newmtl material1381
+Kd 240 248 255
+newmtl material1382
+Kd 240 248 255
+newmtl material1383
+Kd 240 248 255
+newmtl material1384
+Kd 240 248 255
+newmtl material1385
+Kd 240 248 255
+newmtl material1386
+Kd 240 248 255
+newmtl material1387
+Kd 240 248 255
+newmtl material1388
+Kd 240 248 255
+newmtl material1389
+Kd 240 248 255
+newmtl material1390
+Kd 240 248 255
+newmtl material1391
+Kd 240 248 255
+newmtl material1392
+Kd 240 248 255
+newmtl material1393
+Kd 240 248 255
+newmtl material1394
+Kd 240 248 255
+newmtl material1395
+Kd 240 248 255
+newmtl material1396
+Kd 240 248 255
+newmtl material1397
+Kd 240 248 255
+newmtl material1398
+Kd 240 248 255
+newmtl material1399
+Kd 205 133 63
+newmtl material1400
+Kd 205 133 63
+newmtl material1401
+Kd 205 133 63
+newmtl material1402
+Kd 240 248 255
+newmtl material1403
+Kd 240 248 255
+newmtl material1404
+Kd 240 248 255
+newmtl material1405
+Kd 240 248 255
+newmtl material1406
+Kd 240 248 255
+newmtl material1407
+Kd 240 248 255
+newmtl material1408
+Kd 240 248 255
+newmtl material1409
+Kd 240 248 255
+newmtl material1410
+Kd 240 248 255
+newmtl material1411
+Kd 240 248 255
+newmtl material1412
+Kd 240 248 255
+newmtl material1413
+Kd 240 248 255
+newmtl material1414
+Kd 240 248 255
+newmtl material1415
+Kd 240 248 255
+newmtl material1416
+Kd 240 248 255
+newmtl material1417
+Kd 240 248 255
+newmtl material1418
+Kd 240 248 255
+newmtl material1419
+Kd 240 248 255
+newmtl material1420
+Kd 240 248 255
+newmtl material1421
+Kd 240 248 255
+newmtl material1422
+Kd 240 248 255
+newmtl material1423
+Kd 240 248 255
+newmtl material1424
+Kd 240 248 255
+newmtl material1425
+Kd 240 248 255
+newmtl material1426
+Kd 240 248 255
+newmtl material1427
+Kd 240 248 255
+newmtl material1428
+Kd 240 248 255
+newmtl material1429
+Kd 240 248 255
+newmtl material1430
+Kd 240 248 255
+newmtl material1431
+Kd 240 248 255
+newmtl material1432
+Kd 240 248 255
+newmtl material1433
+Kd 240 248 255
+newmtl material1434
+Kd 240 248 255
+newmtl material1435
+Kd 240 248 255
+newmtl material1436
+Kd 0 191 255
+newmtl material1437
+Kd 154 205 50
+newmtl material1438
+Kd 240 248 255
+newmtl material1439
+Kd 240 248 255
+newmtl material1440
+Kd 240 248 255
+newmtl material1441
+Kd 240 248 255
+newmtl material1442
+Kd 240 248 255
+newmtl material1443
+Kd 240 248 255
+newmtl material1444
+Kd 240 248 255
+newmtl material1445
+Kd 240 248 255
+newmtl material1446
+Kd 240 248 255
+newmtl material1447
+Kd 240 248 255
+newmtl material1448
+Kd 240 248 255
+newmtl material1449
+Kd 240 248 255
+newmtl material1450
+Kd 240 248 255
+newmtl material1451
+Kd 240 248 255
+newmtl material1452
+Kd 240 248 255
+newmtl material1453
+Kd 240 248 255
+newmtl material1454
+Kd 240 248 255
+newmtl material1455
+Kd 240 248 255
+newmtl material1456
+Kd 240 248 255
+newmtl material1457
+Kd 240 248 255
+newmtl material1458
+Kd 240 248 255
+newmtl material1459
+Kd 240 248 255
+newmtl material1460
+Kd 240 248 255
+newmtl material1461
+Kd 240 248 255
+newmtl material1462
+Kd 240 248 255
+newmtl material1463
+Kd 240 248 255
+newmtl material1464
+Kd 240 248 255
+newmtl material1465
+Kd 240 248 255
+newmtl material1466
+Kd 240 248 255
+newmtl material1467
+Kd 240 248 255
+newmtl material1468
+Kd 240 248 255
+newmtl material1469
+Kd 240 248 255
+newmtl material1470
+Kd 240 248 255
+newmtl material1471
+Kd 240 248 255
+newmtl material1472
+Kd 240 248 255
+newmtl material1473
+Kd 240 248 255
+newmtl material1474
+Kd 240 248 255
+newmtl material1475
+Kd 240 248 255
+newmtl material1476
+Kd 240 248 255
+newmtl material1477
+Kd 240 248 255
+newmtl material1478
+Kd 240 248 255
+newmtl material1479
+Kd 240 248 255
+newmtl material1480
+Kd 240 248 255
+newmtl material1481
+Kd 240 248 255
+newmtl material1482
+Kd 154 205 50
+newmtl material1483
+Kd 154 205 50
+newmtl material1484
+Kd 255 250 205
+newmtl material1485
+Kd 240 248 255
+newmtl material1486
+Kd 240 248 255
+newmtl material1487
+Kd 240 248 255
+newmtl material1488
+Kd 240 248 255
+newmtl material1489
+Kd 240 248 255
+newmtl material1490
+Kd 240 248 255
+newmtl material1491
+Kd 240 248 255
+newmtl material1492
+Kd 240 248 255
+newmtl material1493
+Kd 240 248 255
+newmtl material1494
+Kd 240 248 255
+newmtl material1495
+Kd 240 248 255
+newmtl material1496
+Kd 240 248 255
+newmtl material1497
+Kd 240 248 255
+newmtl material1498
+Kd 240 248 255
+newmtl material1499
+Kd 240 248 255
+newmtl material1500
+Kd 240 248 255
+newmtl material1501
+Kd 240 248 255
+newmtl material1502
+Kd 240 248 255
+newmtl material1503
+Kd 240 248 255
+newmtl material1504
+Kd 240 248 255
+newmtl material1505
+Kd 240 248 255
+newmtl material1506
+Kd 240 248 255
+newmtl material1507
+Kd 240 248 255
+newmtl material1508
+Kd 240 248 255
+newmtl material1509
+Kd 240 248 255
+newmtl material1510
+Kd 240 248 255
+newmtl material1511
+Kd 240 248 255
+newmtl material1512
+Kd 240 248 255
+newmtl material1513
+Kd 240 248 255
+newmtl material1514
+Kd 240 248 255
+newmtl material1515
+Kd 240 248 255
+newmtl material1516
+Kd 240 248 255
+newmtl material1517
+Kd 240 248 255
+newmtl material1518
+Kd 240 248 255
+newmtl material1519
+Kd 240 248 255
+newmtl material1520
+Kd 240 248 255
+newmtl material1521
+Kd 240 248 255
+newmtl material1522
+Kd 240 248 255
+newmtl material1523
+Kd 240 248 255
+newmtl material1524
+Kd 240 248 255
+newmtl material1525
+Kd 240 248 255
+newmtl material1526
+Kd 240 248 255
+newmtl material1527
+Kd 240 248 255
+newmtl material1528
+Kd 240 248 255
+newmtl material1529
+Kd 240 248 255
+newmtl material1530
+Kd 240 248 255
+newmtl material1531
+Kd 240 248 255
+newmtl material1532
+Kd 240 248 255
+newmtl material1533
+Kd 240 248 255
+newmtl material1534
+Kd 240 248 255
+newmtl material1535
+Kd 240 248 255
+newmtl material1536
+Kd 240 248 255
+newmtl material1537
+Kd 240 248 255
+newmtl material1538
+Kd 240 248 255
+newmtl material1539
+Kd 240 248 255
+newmtl material1540
+Kd 240 248 255
+newmtl material1541
+Kd 240 248 255
+newmtl material1542
+Kd 240 248 255
+newmtl material1543
+Kd 240 248 255
+newmtl material1544
+Kd 240 248 255
+newmtl material1545
+Kd 240 248 255
+newmtl material1546
+Kd 240 248 255
+newmtl material1547
+Kd 240 248 255
+newmtl material1548
+Kd 240 248 255
+newmtl material1549
+Kd 240 248 255
+newmtl material1550
+Kd 240 248 255
+newmtl material1551
+Kd 240 248 255
+newmtl material1552
+Kd 240 248 255
+newmtl material1553
+Kd 240 248 255
+newmtl material1554
+Kd 240 248 255
+newmtl material1555
+Kd 240 248 255
+newmtl material1556
+Kd 240 248 255
+newmtl material1557
+Kd 240 248 255
+newmtl material1558
+Kd 240 248 255
+newmtl material1559
+Kd 240 248 255
+newmtl material1560
+Kd 240 248 255
+newmtl material1561
+Kd 240 248 255
+newmtl material1562
+Kd 240 248 255
+newmtl material1563
+Kd 240 248 255
+newmtl material1564
+Kd 240 248 255
+newmtl material1565
+Kd 240 248 255
+newmtl material1566
+Kd 240 248 255
+newmtl material1567
+Kd 240 248 255
+newmtl material1568
+Kd 240 248 255
+newmtl material1569
+Kd 240 248 255
+newmtl material1570
+Kd 240 248 255
+newmtl material1571
+Kd 240 248 255
+newmtl material1572
+Kd 240 248 255
+newmtl material1573
+Kd 240 248 255
+newmtl material1574
+Kd 205 133 63
+newmtl material1575
+Kd 205 133 63
+newmtl material1576
+Kd 0 191 255
+newmtl material1577
+Kd 240 248 255
+newmtl material1578
+Kd 240 248 255
+newmtl material1579
+Kd 240 248 255
+newmtl material1580
+Kd 240 248 255
+newmtl material1581
+Kd 240 248 255
+newmtl material1582
+Kd 240 248 255
+newmtl material1583
+Kd 240 248 255
+newmtl material1584
+Kd 240 248 255
+newmtl material1585
+Kd 240 248 255
+newmtl material1586
+Kd 240 248 255
+newmtl material1587
+Kd 240 248 255
+newmtl material1588
+Kd 240 248 255
+newmtl material1589
+Kd 240 248 255
+newmtl material1590
+Kd 240 248 255
+newmtl material1591
+Kd 240 248 255
+newmtl material1592
+Kd 240 248 255
+newmtl material1593
+Kd 240 248 255
+newmtl material1594
+Kd 240 248 255
+newmtl material1595
+Kd 240 248 255
+newmtl material1596
+Kd 240 248 255
+newmtl material1597
+Kd 240 248 255
+newmtl material1598
+Kd 240 248 255
+newmtl material1599
+Kd 240 248 255
+newmtl material1600
+Kd 240 248 255
+newmtl material1601
+Kd 240 248 255
+newmtl material1602
+Kd 240 248 255
+newmtl material1603
+Kd 240 248 255
+newmtl material1604
+Kd 240 248 255
+newmtl material1605
+Kd 240 248 255
+newmtl material1606
+Kd 240 248 255
+newmtl material1607
+Kd 240 248 255
+newmtl material1608
+Kd 240 248 255
+newmtl material1609
+Kd 240 248 255
+newmtl material1610
+Kd 240 248 255
+newmtl material1611
+Kd 240 248 255
+newmtl material1612
+Kd 240 248 255
+newmtl material1613
+Kd 240 248 255
+newmtl material1614
+Kd 240 248 255
+newmtl material1615
+Kd 240 248 255
+newmtl material1616
+Kd 240 248 255
+newmtl material1617
+Kd 205 133 63
+newmtl material1618
+Kd 240 248 255
+newmtl material1619
+Kd 240 248 255
+newmtl material1620
+Kd 240 248 255
+newmtl material1621
+Kd 240 248 255
+newmtl material1622
+Kd 240 248 255
+newmtl material1623
+Kd 240 248 255
+newmtl material1624
+Kd 240 248 255
+newmtl material1625
+Kd 240 248 255
+newmtl material1626
+Kd 240 248 255
+newmtl material1627
+Kd 240 248 255
+newmtl material1628
+Kd 240 248 255
+newmtl material1629
+Kd 240 248 255
+newmtl material1630
+Kd 240 248 255
+newmtl material1631
+Kd 240 248 255
+newmtl material1632
+Kd 240 248 255
+newmtl material1633
+Kd 240 248 255
+newmtl material1634
+Kd 240 248 255
+newmtl material1635
+Kd 240 248 255
+newmtl material1636
+Kd 240 248 255
+newmtl material1637
+Kd 240 248 255
+newmtl material1638
+Kd 240 248 255
+newmtl material1639
+Kd 240 248 255
+newmtl material1640
+Kd 240 248 255
+newmtl material1641
+Kd 240 248 255
+newmtl material1642
+Kd 240 248 255
+newmtl material1643
+Kd 240 248 255
+newmtl material1644
+Kd 240 248 255
+newmtl material1645
+Kd 240 248 255
+newmtl material1646
+Kd 240 248 255
+newmtl material1647
+Kd 240 248 255
+newmtl material1648
+Kd 240 248 255
+newmtl material1649
+Kd 240 248 255
+newmtl material1650
+Kd 240 248 255
+newmtl material1651
+Kd 240 248 255
+newmtl material1652
+Kd 240 248 255
+newmtl material1653
+Kd 240 248 255
+newmtl material1654
+Kd 240 248 255
+newmtl material1655
+Kd 240 248 255
+newmtl material1656
+Kd 240 248 255
+newmtl material1657
+Kd 240 248 255
+newmtl material1658
+Kd 240 248 255
+newmtl material1659
+Kd 240 248 255
+newmtl material1660
+Kd 240 248 255
+newmtl material1661
+Kd 240 248 255
+newmtl material1662
+Kd 0 191 255
+newmtl material1663
+Kd 154 205 50
+newmtl material1664
+Kd 240 248 255
+newmtl material1665
+Kd 240 248 255
+newmtl material1666
+Kd 240 248 255
+newmtl material1667
+Kd 240 248 255
+newmtl material1668
+Kd 240 248 255
+newmtl material1669
+Kd 240 248 255
+newmtl material1670
+Kd 240 248 255
+newmtl material1671
+Kd 240 248 255
+newmtl material1672
+Kd 240 248 255
+newmtl material1673
+Kd 240 248 255
+newmtl material1674
+Kd 240 248 255
+newmtl material1675
+Kd 240 248 255
+newmtl material1676
+Kd 240 248 255
+newmtl material1677
+Kd 240 248 255
+newmtl material1678
+Kd 240 248 255
+newmtl material1679
+Kd 240 248 255
+newmtl material1680
+Kd 240 248 255
+newmtl material1681
+Kd 240 248 255
+newmtl material1682
+Kd 240 248 255
+newmtl material1683
+Kd 240 248 255
+newmtl material1684
+Kd 240 248 255
+newmtl material1685
+Kd 240 248 255
+newmtl material1686
+Kd 240 248 255
+newmtl material1687
+Kd 240 248 255
+newmtl material1688
+Kd 240 248 255
+newmtl material1689
+Kd 240 248 255
+newmtl material1690
+Kd 240 248 255
+newmtl material1691
+Kd 240 248 255
+newmtl material1692
+Kd 240 248 255
+newmtl material1693
+Kd 240 248 255
+newmtl material1694
+Kd 240 248 255
+newmtl material1695
+Kd 240 248 255
+newmtl material1696
+Kd 240 248 255
+newmtl material1697
+Kd 240 248 255
+newmtl material1698
+Kd 240 248 255
+newmtl material1699
+Kd 255 250 205
+newmtl material1700
+Kd 255 250 205
+newmtl material1701
+Kd 240 248 255
+newmtl material1702
+Kd 240 248 255
+newmtl material1703
+Kd 240 248 255
+newmtl material1704
+Kd 240 248 255
+newmtl material1705
+Kd 240 248 255
+newmtl material1706
+Kd 240 248 255
+newmtl material1707
+Kd 240 248 255
+newmtl material1708
+Kd 240 248 255
+newmtl material1709
+Kd 240 248 255
+newmtl material1710
+Kd 240 248 255
+newmtl material1711
+Kd 240 248 255
+newmtl material1712
+Kd 240 248 255
+newmtl material1713
+Kd 240 248 255
+newmtl material1714
+Kd 240 248 255
+newmtl material1715
+Kd 240 248 255
+newmtl material1716
+Kd 240 248 255
+newmtl material1717
+Kd 240 248 255
+newmtl material1718
+Kd 240 248 255
+newmtl material1719
+Kd 240 248 255
+newmtl material1720
+Kd 240 248 255
+newmtl material1721
+Kd 240 248 255
+newmtl material1722
+Kd 240 248 255
+newmtl material1723
+Kd 240 248 255
+newmtl material1724
+Kd 240 248 255
+newmtl material1725
+Kd 240 248 255
+newmtl material1726
+Kd 240 248 255
+newmtl material1727
+Kd 240 248 255
+newmtl material1728
+Kd 240 248 255
+newmtl material1729
+Kd 240 248 255
+newmtl material1730
+Kd 240 248 255
+newmtl material1731
+Kd 240 248 255
+newmtl material1732
+Kd 240 248 255
+newmtl material1733
+Kd 240 248 255
+newmtl material1734
+Kd 240 248 255
+newmtl material1735
+Kd 240 248 255
+newmtl material1736
+Kd 240 248 255
+newmtl material1737
+Kd 240 248 255
+newmtl material1738
+Kd 240 248 255
+newmtl material1739
+Kd 240 248 255
+newmtl material1740
+Kd 240 248 255
+newmtl material1741
+Kd 240 248 255
+newmtl material1742
+Kd 240 248 255
+newmtl material1743
+Kd 240 248 255
+newmtl material1744
+Kd 240 248 255
+newmtl material1745
+Kd 240 248 255
+newmtl material1746
+Kd 240 248 255
+newmtl material1747
+Kd 240 248 255
+newmtl material1748
+Kd 240 248 255
+newmtl material1749
+Kd 240 248 255
+newmtl material1750
+Kd 240 248 255
+newmtl material1751
+Kd 240 248 255
+newmtl material1752
+Kd 240 248 255
+newmtl material1753
+Kd 240 248 255
+newmtl material1754
+Kd 240 248 255
+newmtl material1755
+Kd 240 248 255
+newmtl material1756
+Kd 240 248 255
+newmtl material1757
+Kd 240 248 255
+newmtl material1758
+Kd 240 248 255
+newmtl material1759
+Kd 240 248 255
+newmtl material1760
+Kd 240 248 255
+newmtl material1761
+Kd 240 248 255
+newmtl material1762
+Kd 240 248 255
+newmtl material1763
+Kd 240 248 255
+newmtl material1764
+Kd 240 248 255
+newmtl material1765
+Kd 240 248 255
+newmtl material1766
+Kd 240 248 255
+newmtl material1767
+Kd 240 248 255
+newmtl material1768
+Kd 240 248 255
+newmtl material1769
+Kd 240 248 255
+newmtl material1770
+Kd 240 248 255
+newmtl material1771
+Kd 240 248 255
+newmtl material1772
+Kd 240 248 255
+newmtl material1773
+Kd 240 248 255
+newmtl material1774
+Kd 240 248 255
+newmtl material1775
+Kd 205 133 63
+newmtl material1776
+Kd 240 248 255
+newmtl material1777
+Kd 240 248 255
+newmtl material1778
+Kd 240 248 255
+newmtl material1779
+Kd 240 248 255
+newmtl material1780
+Kd 240 248 255
+newmtl material1781
+Kd 240 248 255
+newmtl material1782
+Kd 240 248 255
+newmtl material1783
+Kd 240 248 255
+newmtl material1784
+Kd 240 248 255
+newmtl material1785
+Kd 240 248 255
+newmtl material1786
+Kd 240 248 255
+newmtl material1787
+Kd 240 248 255
+newmtl material1788
+Kd 240 248 255
+newmtl material1789
+Kd 240 248 255
+newmtl material1790
+Kd 240 248 255
+newmtl material1791
+Kd 240 248 255
+newmtl material1792
+Kd 240 248 255
+newmtl material1793
+Kd 240 248 255
+newmtl material1794
+Kd 240 248 255
+newmtl material1795
+Kd 240 248 255
+newmtl material1796
+Kd 240 248 255
+newmtl material1797
+Kd 240 248 255
+newmtl material1798
+Kd 240 248 255
+newmtl material1799
+Kd 240 248 255
+newmtl material1800
+Kd 240 248 255
+newmtl material1801
+Kd 240 248 255
+newmtl material1802
+Kd 240 248 255
+newmtl material1803
+Kd 240 248 255
+newmtl material1804
+Kd 240 248 255
+newmtl material1805
+Kd 240 248 255
+newmtl material1806
+Kd 240 248 255
+newmtl material1807
+Kd 205 133 63
+newmtl material1808
+Kd 205 133 63
+newmtl material1809
+Kd 240 248 255
+newmtl material1810
+Kd 240 248 255
+newmtl material1811
+Kd 240 248 255
+newmtl material1812
+Kd 240 248 255
+newmtl material1813
+Kd 240 248 255
+newmtl material1814
+Kd 240 248 255
+newmtl material1815
+Kd 240 248 255
+newmtl material1816
+Kd 240 248 255
+newmtl material1817
+Kd 240 248 255
+newmtl material1818
+Kd 240 248 255
+newmtl material1819
+Kd 240 248 255
+newmtl material1820
+Kd 240 248 255
+newmtl material1821
+Kd 240 248 255
+newmtl material1822
+Kd 240 248 255
+newmtl material1823
+Kd 240 248 255
+newmtl material1824
+Kd 240 248 255
+newmtl material1825
+Kd 240 248 255
+newmtl material1826
+Kd 240 248 255
+newmtl material1827
+Kd 240 248 255
+newmtl material1828
+Kd 240 248 255
+newmtl material1829
+Kd 240 248 255
+newmtl material1830
+Kd 240 248 255
+newmtl material1831
+Kd 240 248 255
+newmtl material1832
+Kd 240 248 255
+newmtl material1833
+Kd 240 248 255
+newmtl material1834
+Kd 240 248 255
+newmtl material1835
+Kd 240 248 255
+newmtl material1836
+Kd 240 248 255
+newmtl material1837
+Kd 240 248 255
+newmtl material1838
+Kd 240 248 255
+newmtl material1839
+Kd 240 248 255
+newmtl material1840
+Kd 240 248 255
+newmtl material1841
+Kd 0 191 255
+newmtl material1842
+Kd 0 191 255
+newmtl material1843
+Kd 154 205 50
+newmtl material1844
+Kd 240 248 255
+newmtl material1845
+Kd 240 248 255
+newmtl material1846
+Kd 240 248 255
+newmtl material1847
+Kd 240 248 255
+newmtl material1848
+Kd 240 248 255
+newmtl material1849
+Kd 240 248 255
+newmtl material1850
+Kd 240 248 255
+newmtl material1851
+Kd 240 248 255
+newmtl material1852
+Kd 240 248 255
+newmtl material1853
+Kd 240 248 255
+newmtl material1854
+Kd 240 248 255
+newmtl material1855
+Kd 240 248 255
+newmtl material1856
+Kd 240 248 255
+newmtl material1857
+Kd 240 248 255
+newmtl material1858
+Kd 240 248 255
+newmtl material1859
+Kd 240 248 255
+newmtl material1860
+Kd 240 248 255
+newmtl material1861
+Kd 240 248 255
+newmtl material1862
+Kd 240 248 255
+newmtl material1863
+Kd 240 248 255
+newmtl material1864
+Kd 240 248 255
+newmtl material1865
+Kd 240 248 255
+newmtl material1866
+Kd 240 248 255
+newmtl material1867
+Kd 240 248 255
+newmtl material1868
+Kd 240 248 255
+newmtl material1869
+Kd 240 248 255
+newmtl material1870
+Kd 240 248 255
+newmtl material1871
+Kd 240 248 255
+newmtl material1872
+Kd 240 248 255
+newmtl material1873
+Kd 205 133 63
+newmtl material1874
+Kd 205 133 63
+newmtl material1875
+Kd 240 248 255
+newmtl material1876
+Kd 240 248 255
+newmtl material1877
+Kd 240 248 255
+newmtl material1878
+Kd 240 248 255
+newmtl material1879
+Kd 240 248 255
+newmtl material1880
+Kd 240 248 255
+newmtl material1881
+Kd 240 248 255
+newmtl material1882
+Kd 240 248 255
+newmtl material1883
+Kd 240 248 255
+newmtl material1884
+Kd 240 248 255
+newmtl material1885
+Kd 240 248 255
+newmtl material1886
+Kd 240 248 255
+newmtl material1887
+Kd 240 248 255
+newmtl material1888
+Kd 240 248 255
+newmtl material1889
+Kd 240 248 255
+newmtl material1890
+Kd 240 248 255
+newmtl material1891
+Kd 240 248 255
+newmtl material1892
+Kd 240 248 255
+newmtl material1893
+Kd 240 248 255
+newmtl material1894
+Kd 240 248 255
+newmtl material1895
+Kd 240 248 255
+newmtl material1896
+Kd 240 248 255
+newmtl material1897
+Kd 240 248 255
+newmtl material1898
+Kd 240 248 255
+newmtl material1899
+Kd 240 248 255
+newmtl material1900
+Kd 240 248 255
+newmtl material1901
+Kd 240 248 255
+newmtl material1902
+Kd 240 248 255
+newmtl material1903
+Kd 205 133 63
+newmtl material1904
+Kd 240 248 255
+newmtl material1905
+Kd 240 248 255
+newmtl material1906
+Kd 240 248 255
+newmtl material1907
+Kd 240 248 255
+newmtl material1908
+Kd 240 248 255
+newmtl material1909
+Kd 240 248 255
+newmtl material1910
+Kd 240 248 255
+newmtl material1911
+Kd 240 248 255
+newmtl material1912
+Kd 240 248 255
+newmtl material1913
+Kd 240 248 255
+newmtl material1914
+Kd 240 248 255
+newmtl material1915
+Kd 240 248 255
+newmtl material1916
+Kd 240 248 255
+newmtl material1917
+Kd 240 248 255
+newmtl material1918
+Kd 240 248 255
+newmtl material1919
+Kd 240 248 255
+newmtl material1920
+Kd 240 248 255
+newmtl material1921
+Kd 240 248 255
+newmtl material1922
+Kd 240 248 255
+newmtl material1923
+Kd 240 248 255
+newmtl material1924
+Kd 240 248 255
+newmtl material1925
+Kd 240 248 255
+newmtl material1926
+Kd 240 248 255
+newmtl material1927
+Kd 240 248 255
+newmtl material1928
+Kd 240 248 255
+newmtl material1929
+Kd 240 248 255
+newmtl material1930
+Kd 240 248 255
+newmtl material1931
+Kd 240 248 255
+newmtl material1932
+Kd 240 248 255
+newmtl material1933
+Kd 240 248 255
+newmtl material1934
+Kd 240 248 255
+newmtl material1935
+Kd 240 248 255
+newmtl material1936
+Kd 240 248 255
+newmtl material1937
+Kd 240 248 255
+newmtl material1938
+Kd 240 248 255
+newmtl material1939
+Kd 240 248 255
+newmtl material1940
+Kd 240 248 255
+newmtl material1941
+Kd 240 248 255
+newmtl material1942
+Kd 205 133 63
+newmtl material1943
+Kd 0 191 255
+newmtl material1944
+Kd 0 191 255
+newmtl material1945
+Kd 205 133 63
+newmtl material1946
+Kd 240 248 255
+newmtl material1947
+Kd 240 248 255
+newmtl material1948
+Kd 240 248 255
+newmtl material1949
+Kd 240 248 255
+newmtl material1950
+Kd 240 248 255
+newmtl material1951
+Kd 240 248 255
+newmtl material1952
+Kd 240 248 255
+newmtl material1953
+Kd 240 248 255
+newmtl material1954
+Kd 240 248 255
+newmtl material1955
+Kd 240 248 255
+newmtl material1956
+Kd 240 248 255
+newmtl material1957
+Kd 240 248 255
+newmtl material1958
+Kd 240 248 255
+newmtl material1959
+Kd 240 248 255
+newmtl material1960
+Kd 240 248 255
+newmtl material1961
+Kd 240 248 255
+newmtl material1962
+Kd 240 248 255
+newmtl material1963
+Kd 240 248 255
+newmtl material1964
+Kd 240 248 255
+newmtl material1965
+Kd 240 248 255
+newmtl material1966
+Kd 240 248 255
+newmtl material1967
+Kd 240 248 255
+newmtl material1968
+Kd 240 248 255
+newmtl material1969
+Kd 240 248 255
+newmtl material1970
+Kd 240 248 255
+newmtl material1971
+Kd 240 248 255
+newmtl material1972
+Kd 240 248 255
+newmtl material1973
+Kd 0 191 255
+newmtl material1974
+Kd 205 133 63
+newmtl material1975
+Kd 240 248 255
+newmtl material1976
+Kd 240 248 255
+newmtl material1977
+Kd 240 248 255
+newmtl material1978
+Kd 240 248 255
+newmtl material1979
+Kd 240 248 255
+newmtl material1980
+Kd 240 248 255
+newmtl material1981
+Kd 240 248 255
+newmtl material1982
+Kd 240 248 255
+newmtl material1983
+Kd 240 248 255
+newmtl material1984
+Kd 240 248 255
+newmtl material1985
+Kd 240 248 255
+newmtl material1986
+Kd 240 248 255
+newmtl material1987
+Kd 240 248 255
+newmtl material1988
+Kd 240 248 255
+newmtl material1989
+Kd 240 248 255
+newmtl material1990
+Kd 240 248 255
+newmtl material1991
+Kd 240 248 255
+newmtl material1992
+Kd 240 248 255
+newmtl material1993
+Kd 240 248 255
+newmtl material1994
+Kd 240 248 255
+newmtl material1995
+Kd 240 248 255
+newmtl material1996
+Kd 240 248 255
+newmtl material1997
+Kd 240 248 255
+newmtl material1998
+Kd 240 248 255
+newmtl material1999
+Kd 240 248 255
+newmtl material2000
+Kd 0 191 255
+newmtl material2001
+Kd 0 191 255
+newmtl material2002
+Kd 154 205 50
+newmtl material2003
+Kd 240 248 255
+newmtl material2004
+Kd 240 248 255
+newmtl material2005
+Kd 240 248 255
+newmtl material2006
+Kd 240 248 255
+newmtl material2007
+Kd 240 248 255
+newmtl material2008
+Kd 240 248 255
+newmtl material2009
+Kd 240 248 255
+newmtl material2010
+Kd 240 248 255
+newmtl material2011
+Kd 240 248 255
+newmtl material2012
+Kd 240 248 255
+newmtl material2013
+Kd 240 248 255
+newmtl material2014
+Kd 240 248 255
+newmtl material2015
+Kd 240 248 255
+newmtl material2016
+Kd 240 248 255
+newmtl material2017
+Kd 240 248 255
+newmtl material2018
+Kd 240 248 255
+newmtl material2019
+Kd 240 248 255
+newmtl material2020
+Kd 240 248 255
+newmtl material2021
+Kd 240 248 255
+newmtl material2022
+Kd 240 248 255
+newmtl material2023
+Kd 240 248 255
+newmtl material2024
+Kd 240 248 255
+newmtl material2025
+Kd 240 248 255
+newmtl material2026
+Kd 240 248 255
+newmtl material2027
+Kd 240 248 255
+newmtl material2028
+Kd 240 248 255
+newmtl material2029
+Kd 240 248 255
+newmtl material2030
+Kd 240 248 255
+newmtl material2031
+Kd 255 250 205
+newmtl material2032
+Kd 255 250 205
+newmtl material2033
+Kd 0 191 255
+newmtl material2034
+Kd 205 133 63
+newmtl material2035
+Kd 205 133 63
+newmtl material2036
+Kd 240 248 255
+newmtl material2037
+Kd 240 248 255
+newmtl material2038
+Kd 240 248 255
+newmtl material2039
+Kd 240 248 255
+newmtl material2040
+Kd 240 248 255
+newmtl material2041
+Kd 240 248 255
+newmtl material2042
+Kd 240 248 255
+newmtl material2043
+Kd 240 248 255
+newmtl material2044
+Kd 240 248 255
+newmtl material2045
+Kd 240 248 255
+newmtl material2046
+Kd 240 248 255
+newmtl material2047
+Kd 240 248 255
+newmtl material2048
+Kd 240 248 255
+newmtl material2049
+Kd 240 248 255
+newmtl material2050
+Kd 240 248 255
+newmtl material2051
+Kd 240 248 255
+newmtl material2052
+Kd 240 248 255
+newmtl material2053
+Kd 240 248 255
+newmtl material2054
+Kd 240 248 255
+newmtl material2055
+Kd 240 248 255
+newmtl material2056
+Kd 240 248 255
+newmtl material2057
+Kd 240 248 255
+newmtl material2058
+Kd 240 248 255
+newmtl material2059
+Kd 240 248 255
+newmtl material2060
+Kd 205 133 63
+newmtl material2061
+Kd 205 133 63
+newmtl material2062
+Kd 205 133 63
+newmtl material2063
+Kd 240 248 255
+newmtl material2064
+Kd 240 248 255
+newmtl material2065
+Kd 240 248 255
+newmtl material2066
+Kd 240 248 255
+newmtl material2067
+Kd 240 248 255
+newmtl material2068
+Kd 240 248 255
+newmtl material2069
+Kd 240 248 255
+newmtl material2070
+Kd 240 248 255
+newmtl material2071
+Kd 240 248 255
+newmtl material2072
+Kd 240 248 255
+newmtl material2073
+Kd 240 248 255
+newmtl material2074
+Kd 240 248 255
+newmtl material2075
+Kd 240 248 255
+newmtl material2076
+Kd 240 248 255
+newmtl material2077
+Kd 240 248 255
+newmtl material2078
+Kd 240 248 255
+newmtl material2079
+Kd 240 248 255
+newmtl material2080
+Kd 240 248 255
+newmtl material2081
+Kd 240 248 255
+newmtl material2082
+Kd 240 248 255
+newmtl material2083
+Kd 240 248 255
+newmtl material2084
+Kd 240 248 255
+newmtl material2085
+Kd 240 248 255
+newmtl material2086
+Kd 240 248 255
+newmtl material2087
+Kd 240 248 255
+newmtl material2088
+Kd 240 248 255
+newmtl material2089
+Kd 240 248 255
+newmtl material2090
+Kd 0 191 255
+newmtl material2091
+Kd 0 191 255
+newmtl material2092
+Kd 240 248 255
+newmtl material2093
+Kd 240 248 255
+newmtl material2094
+Kd 240 248 255
+newmtl material2095
+Kd 240 248 255
+newmtl material2096
+Kd 240 248 255
+newmtl material2097
+Kd 240 248 255
+newmtl material2098
+Kd 240 248 255
+newmtl material2099
+Kd 240 248 255
+newmtl material2100
+Kd 240 248 255
+newmtl material2101
+Kd 240 248 255
+newmtl material2102
+Kd 240 248 255
+newmtl material2103
+Kd 240 248 255
+newmtl material2104
+Kd 240 248 255
+newmtl material2105
+Kd 240 248 255
+newmtl material2106
+Kd 240 248 255
+newmtl material2107
+Kd 240 248 255
+newmtl material2108
+Kd 240 248 255
+newmtl material2109
+Kd 240 248 255
+newmtl material2110
+Kd 240 248 255
+newmtl material2111
+Kd 240 248 255
+newmtl material2112
+Kd 205 133 63
+newmtl material2113
+Kd 240 248 255
+newmtl material2114
+Kd 240 248 255
+newmtl material2115
+Kd 240 248 255
+newmtl material2116
+Kd 240 248 255
+newmtl material2117
+Kd 240 248 255
+newmtl material2118
+Kd 240 248 255
+newmtl material2119
+Kd 240 248 255
+newmtl material2120
+Kd 240 248 255
+newmtl material2121
+Kd 240 248 255
+newmtl material2122
+Kd 240 248 255
+newmtl material2123
+Kd 240 248 255
+newmtl material2124
+Kd 240 248 255
+newmtl material2125
+Kd 240 248 255
+newmtl material2126
+Kd 240 248 255
+newmtl material2127
+Kd 240 248 255
+newmtl material2128
+Kd 240 248 255
+newmtl material2129
+Kd 240 248 255
+newmtl material2130
+Kd 240 248 255
+newmtl material2131
+Kd 240 248 255
+newmtl material2132
+Kd 240 248 255
+newmtl material2133
+Kd 240 248 255
+newmtl material2134
+Kd 205 133 63
+newmtl material2135
+Kd 240 248 255
+newmtl material2136
+Kd 240 248 255
+newmtl material2137
+Kd 240 248 255
+newmtl material2138
+Kd 240 248 255
+newmtl material2139
+Kd 240 248 255
+newmtl material2140
+Kd 240 248 255
+newmtl material2141
+Kd 240 248 255
+newmtl material2142
+Kd 240 248 255
+newmtl material2143
+Kd 240 248 255
+newmtl material2144
+Kd 240 248 255
+newmtl material2145
+Kd 240 248 255
+newmtl material2146
+Kd 240 248 255
+newmtl material2147
+Kd 240 248 255
+newmtl material2148
+Kd 240 248 255
+newmtl material2149
+Kd 240 248 255
+newmtl material2150
+Kd 240 248 255
+newmtl material2151
+Kd 240 248 255
+newmtl material2152
+Kd 240 248 255
+newmtl material2153
+Kd 240 248 255
+newmtl material2154
+Kd 240 248 255
+newmtl material2155
+Kd 240 248 255
+newmtl material2156
+Kd 240 248 255
+newmtl material2157
+Kd 240 248 255
+newmtl material2158
+Kd 240 248 255
+newmtl material2159
+Kd 240 248 255
+newmtl material2160
+Kd 205 133 63
+newmtl material2161
+Kd 154 205 50
+newmtl material2162
+Kd 205 133 63
+newmtl material2163
+Kd 240 248 255
+newmtl material2164
+Kd 240 248 255
+newmtl material2165
+Kd 240 248 255
+newmtl material2166
+Kd 240 248 255
+newmtl material2167
+Kd 240 248 255
+newmtl material2168
+Kd 240 248 255
+newmtl material2169
+Kd 240 248 255
+newmtl material2170
+Kd 240 248 255
+newmtl material2171
+Kd 240 248 255
+newmtl material2172
+Kd 240 248 255
+newmtl material2173
+Kd 240 248 255
+newmtl material2174
+Kd 240 248 255
+newmtl material2175
+Kd 240 248 255
+newmtl material2176
+Kd 240 248 255
+newmtl material2177
+Kd 240 248 255
+newmtl material2178
+Kd 240 248 255
+newmtl material2179
+Kd 240 248 255
+newmtl material2180
+Kd 240 248 255
+newmtl material2181
+Kd 240 248 255
+newmtl material2182
+Kd 240 248 255
+newmtl material2183
+Kd 240 248 255
+newmtl material2184
+Kd 154 205 50
+newmtl material2185
+Kd 205 133 63
+newmtl material2186
+Kd 240 248 255
+newmtl material2187
+Kd 240 248 255
+newmtl material2188
+Kd 240 248 255
+newmtl material2189
+Kd 240 248 255
+newmtl material2190
+Kd 240 248 255
+newmtl material2191
+Kd 240 248 255
+newmtl material2192
+Kd 240 248 255
+newmtl material2193
+Kd 240 248 255
+newmtl material2194
+Kd 240 248 255
+newmtl material2195
+Kd 240 248 255
+newmtl material2196
+Kd 240 248 255
+newmtl material2197
+Kd 240 248 255
+newmtl material2198
+Kd 240 248 255
+newmtl material2199
+Kd 240 248 255
+newmtl material2200
+Kd 240 248 255
+newmtl material2201
+Kd 240 248 255
+newmtl material2202
+Kd 240 248 255
+newmtl material2203
+Kd 240 248 255
+newmtl material2204
+Kd 240 248 255
+newmtl material2205
+Kd 240 248 255
+newmtl material2206
+Kd 240 248 255
+newmtl material2207
+Kd 240 248 255
+newmtl material2208
+Kd 240 248 255
+newmtl material2209
+Kd 240 248 255
+newmtl material2210
+Kd 240 248 255
+newmtl material2211
+Kd 240 248 255
+newmtl material2212
+Kd 240 248 255
+newmtl material2213
+Kd 240 248 255
+newmtl material2214
+Kd 240 248 255
+newmtl material2215
+Kd 0 191 255
+newmtl material2216
+Kd 154 205 50
+newmtl material2217
+Kd 240 248 255
+newmtl material2218
+Kd 240 248 255
+newmtl material2219
+Kd 240 248 255
+newmtl material2220
+Kd 240 248 255
+newmtl material2221
+Kd 240 248 255
+newmtl material2222
+Kd 240 248 255
+newmtl material2223
+Kd 240 248 255
+newmtl material2224
+Kd 240 248 255
+newmtl material2225
+Kd 240 248 255
+newmtl material2226
+Kd 240 248 255
+newmtl material2227
+Kd 240 248 255
+newmtl material2228
+Kd 240 248 255
+newmtl material2229
+Kd 240 248 255
+newmtl material2230
+Kd 240 248 255
+newmtl material2231
+Kd 240 248 255
+newmtl material2232
+Kd 240 248 255
+newmtl material2233
+Kd 240 248 255
+newmtl material2234
+Kd 240 248 255
+newmtl material2235
+Kd 240 248 255
+newmtl material2236
+Kd 240 248 255
+newmtl material2237
+Kd 240 248 255
+newmtl material2238
+Kd 240 248 255
+newmtl material2239
+Kd 240 248 255
+newmtl material2240
+Kd 240 248 255
+newmtl material2241
+Kd 240 248 255
+newmtl material2242
+Kd 240 248 255
+newmtl material2243
+Kd 240 248 255
+newmtl material2244
+Kd 240 248 255
+newmtl material2245
+Kd 240 248 255
+newmtl material2246
+Kd 240 248 255
+newmtl material2247
+Kd 240 248 255
+newmtl material2248
+Kd 240 248 255
+newmtl material2249
+Kd 205 133 63
+newmtl material2250
+Kd 240 248 255
+newmtl material2251
+Kd 240 248 255
+newmtl material2252
+Kd 240 248 255
+newmtl material2253
+Kd 240 248 255
+newmtl material2254
+Kd 240 248 255
+newmtl material2255
+Kd 240 248 255
+newmtl material2256
+Kd 240 248 255
+newmtl material2257
+Kd 240 248 255
+newmtl material2258
+Kd 240 248 255
+newmtl material2259
+Kd 240 248 255
+newmtl material2260
+Kd 240 248 255
+newmtl material2261
+Kd 240 248 255
+newmtl material2262
+Kd 240 248 255
+newmtl material2263
+Kd 240 248 255
+newmtl material2264
+Kd 240 248 255
+newmtl material2265
+Kd 240 248 255
+newmtl material2266
+Kd 240 248 255
+newmtl material2267
+Kd 240 248 255
+newmtl material2268
+Kd 240 248 255
+newmtl material2269
+Kd 240 248 255
+newmtl material2270
+Kd 240 248 255
+newmtl material2271
+Kd 240 248 255
+newmtl material2272
+Kd 240 248 255
+newmtl material2273
+Kd 240 248 255
+newmtl material2274
+Kd 240 248 255
+newmtl material2275
+Kd 240 248 255
+newmtl material2276
+Kd 240 248 255
+newmtl material2277
+Kd 240 248 255
+newmtl material2278
+Kd 240 248 255
+newmtl material2279
+Kd 240 248 255
+newmtl material2280
+Kd 240 248 255
+newmtl material2281
+Kd 240 248 255
+newmtl material2282
+Kd 240 248 255
+newmtl material2283
+Kd 240 248 255
+newmtl material2284
+Kd 240 248 255
+newmtl material2285
+Kd 240 248 255
+newmtl material2286
+Kd 240 248 255
+newmtl material2287
+Kd 240 248 255
+newmtl material2288
+Kd 240 248 255
+newmtl material2289
+Kd 240 248 255
+newmtl material2290
+Kd 240 248 255
+newmtl material2291
+Kd 240 248 255
+newmtl material2292
+Kd 240 248 255
+newmtl material2293
+Kd 240 248 255
+newmtl material2294
+Kd 240 248 255
+newmtl material2295
+Kd 240 248 255
+newmtl material2296
+Kd 240 248 255
+newmtl material2297
+Kd 240 248 255
+newmtl material2298
+Kd 240 248 255
+newmtl material2299
+Kd 240 248 255
+newmtl material2300
+Kd 240 248 255
+newmtl material2301
+Kd 240 248 255
+newmtl material2302
+Kd 240 248 255
+newmtl material2303
+Kd 240 248 255
+newmtl material2304
+Kd 240 248 255
+newmtl material2305
+Kd 255 250 205
+newmtl material2306
+Kd 240 248 255
+newmtl material2307
+Kd 240 248 255
+newmtl material2308
+Kd 240 248 255
+newmtl material2309
+Kd 240 248 255
+newmtl material2310
+Kd 240 248 255
+newmtl material2311
+Kd 240 248 255
+newmtl material2312
+Kd 240 248 255
+newmtl material2313
+Kd 240 248 255
+newmtl material2314
+Kd 240 248 255
+newmtl material2315
+Kd 240 248 255
+newmtl material2316
+Kd 240 248 255
+newmtl material2317
+Kd 240 248 255
+newmtl material2318
+Kd 240 248 255
+newmtl material2319
+Kd 240 248 255
+newmtl material2320
+Kd 240 248 255
+newmtl material2321
+Kd 240 248 255
+newmtl material2322
+Kd 240 248 255
+newmtl material2323
+Kd 240 248 255
+newmtl material2324
+Kd 240 248 255
+newmtl material2325
+Kd 240 248 255
+newmtl material2326
+Kd 240 248 255
+newmtl material2327
+Kd 240 248 255
+newmtl material2328
+Kd 240 248 255
+newmtl material2329
+Kd 240 248 255
+newmtl material2330
+Kd 240 248 255
+newmtl material2331
+Kd 240 248 255
+newmtl material2332
+Kd 240 248 255
+newmtl material2333
+Kd 240 248 255
+newmtl material2334
+Kd 240 248 255
+newmtl material2335
+Kd 240 248 255
+newmtl material2336
+Kd 240 248 255
+newmtl material2337
+Kd 205 133 63
+newmtl material2338
+Kd 255 250 205
+newmtl material2339
+Kd 205 133 63
+newmtl material2340
+Kd 240 248 255
+newmtl material2341
+Kd 240 248 255
+newmtl material2342
+Kd 240 248 255
+newmtl material2343
+Kd 240 248 255
+newmtl material2344
+Kd 240 248 255
+newmtl material2345
+Kd 240 248 255
+newmtl material2346
+Kd 240 248 255
+newmtl material2347
+Kd 240 248 255
+newmtl material2348
+Kd 240 248 255
+newmtl material2349
+Kd 240 248 255
+newmtl material2350
+Kd 240 248 255
+newmtl material2351
+Kd 240 248 255
+newmtl material2352
+Kd 240 248 255
+newmtl material2353
+Kd 240 248 255
+newmtl material2354
+Kd 240 248 255
+newmtl material2355
+Kd 240 248 255
+newmtl material2356
+Kd 240 248 255
+newmtl material2357
+Kd 240 248 255
+newmtl material2358
+Kd 240 248 255
+newmtl material2359
+Kd 240 248 255
+newmtl material2360
+Kd 240 248 255
+newmtl material2361
+Kd 240 248 255
+newmtl material2362
+Kd 240 248 255
+newmtl material2363
+Kd 240 248 255
+newmtl material2364
+Kd 240 248 255
+newmtl material2365
+Kd 240 248 255
+newmtl material2366
+Kd 240 248 255
+newmtl material2367
+Kd 240 248 255
+newmtl material2368
+Kd 240 248 255
+newmtl material2369
+Kd 240 248 255
+newmtl material2370
+Kd 240 248 255
+newmtl material2371
+Kd 240 248 255
+newmtl material2372
+Kd 240 248 255
+newmtl material2373
+Kd 240 248 255
+newmtl material2374
+Kd 240 248 255
+newmtl material2375
+Kd 240 248 255
+newmtl material2376
+Kd 240 248 255
+newmtl material2377
+Kd 240 248 255
+newmtl material2378
+Kd 240 248 255
+newmtl material2379
+Kd 240 248 255
+newmtl material2380
+Kd 240 248 255
+newmtl material2381
+Kd 240 248 255
+newmtl material2382
+Kd 240 248 255
+newmtl material2383
+Kd 240 248 255
+newmtl material2384
+Kd 240 248 255
+newmtl material2385
+Kd 240 248 255
+newmtl material2386
+Kd 240 248 255
+newmtl material2387
+Kd 240 248 255
+newmtl material2388
+Kd 240 248 255
+newmtl material2389
+Kd 240 248 255
+newmtl material2390
+Kd 240 248 255
+newmtl material2391
+Kd 240 248 255
+newmtl material2392
+Kd 240 248 255
+newmtl material2393
+Kd 240 248 255
+newmtl material2394
+Kd 240 248 255
+newmtl material2395
+Kd 240 248 255
+newmtl material2396
+Kd 240 248 255
+newmtl material2397
+Kd 240 248 255
+newmtl material2398
+Kd 240 248 255
+newmtl material2399
+Kd 240 248 255
+newmtl material2400
+Kd 240 248 255
+newmtl material2401
+Kd 240 248 255
+newmtl material2402
+Kd 240 248 255
+newmtl material2403
+Kd 240 248 255
+newmtl material2404
+Kd 240 248 255
+newmtl material2405
+Kd 240 248 255
+newmtl material2406
+Kd 240 248 255
+newmtl material2407
+Kd 240 248 255
+newmtl material2408
+Kd 240 248 255
+newmtl material2409
+Kd 240 248 255
+newmtl material2410
+Kd 240 248 255
+newmtl material2411
+Kd 240 248 255
+newmtl material2412
+Kd 240 248 255
+newmtl material2413
+Kd 240 248 255
+newmtl material2414
+Kd 240 248 255
+newmtl material2415
+Kd 240 248 255
+newmtl material2416
+Kd 240 248 255
+newmtl material2417
+Kd 240 248 255
+newmtl material2418
+Kd 240 248 255
+newmtl material2419
+Kd 240 248 255
+newmtl material2420
+Kd 240 248 255
+newmtl material2421
+Kd 240 248 255
+newmtl material2422
+Kd 240 248 255
+newmtl material2423
+Kd 0 191 255
+newmtl material2424
+Kd 240 248 255
+newmtl material2425
+Kd 240 248 255
+newmtl material2426
+Kd 240 248 255
+newmtl material2427
+Kd 240 248 255
+newmtl material2428
+Kd 240 248 255
+newmtl material2429
+Kd 240 248 255
+newmtl material2430
+Kd 240 248 255
+newmtl material2431
+Kd 240 248 255
+newmtl material2432
+Kd 240 248 255
+newmtl material2433
+Kd 240 248 255
+newmtl material2434
+Kd 240 248 255
+newmtl material2435
+Kd 240 248 255
+newmtl material2436
+Kd 240 248 255
+newmtl material2437
+Kd 240 248 255
+newmtl material2438
+Kd 240 248 255
+newmtl material2439
+Kd 240 248 255
+newmtl material2440
+Kd 240 248 255
+newmtl material2441
+Kd 240 248 255
+newmtl material2442
+Kd 240 248 255
+newmtl material2443
+Kd 240 248 255
+newmtl material2444
+Kd 240 248 255
+newmtl material2445
+Kd 240 248 255
+newmtl material2446
+Kd 240 248 255
+newmtl material2447
+Kd 240 248 255
+newmtl material2448
+Kd 240 248 255
+newmtl material2449
+Kd 240 248 255
+newmtl material2450
+Kd 240 248 255
+newmtl material2451
+Kd 240 248 255
+newmtl material2452
+Kd 240 248 255
+newmtl material2453
+Kd 240 248 255
+newmtl material2454
+Kd 240 248 255
+newmtl material2455
+Kd 240 248 255
+newmtl material2456
+Kd 240 248 255
+newmtl material2457
+Kd 240 248 255
+newmtl material2458
+Kd 240 248 255
+newmtl material2459
+Kd 240 248 255
+newmtl material2460
+Kd 240 248 255
+newmtl material2461
+Kd 240 248 255
+newmtl material2462
+Kd 240 248 255
+newmtl material2463
+Kd 240 248 255
+newmtl material2464
+Kd 240 248 255
+newmtl material2465
+Kd 240 248 255
+newmtl material2466
+Kd 240 248 255
+newmtl material2467
+Kd 240 248 255
+newmtl material2468
+Kd 240 248 255
+newmtl material2469
+Kd 240 248 255
+newmtl material2470
+Kd 240 248 255
+newmtl material2471
+Kd 240 248 255
+newmtl material2472
+Kd 240 248 255
+newmtl material2473
+Kd 240 248 255
+newmtl material2474
+Kd 240 248 255
+newmtl material2475
+Kd 240 248 255
+newmtl material2476
+Kd 240 248 255
+newmtl material2477
+Kd 240 248 255
+newmtl material2478
+Kd 240 248 255
+newmtl material2479
+Kd 240 248 255
+newmtl material2480
+Kd 240 248 255
+newmtl material2481
+Kd 240 248 255
+newmtl material2482
+Kd 154 205 50
+newmtl material2483
+Kd 205 133 63
+newmtl material2484
+Kd 205 133 63
+newmtl material2485
+Kd 240 248 255
+newmtl material2486
+Kd 240 248 255
+newmtl material2487
+Kd 240 248 255
+newmtl material2488
+Kd 240 248 255
+newmtl material2489
+Kd 240 248 255
+newmtl material2490
+Kd 240 248 255
+newmtl material2491
+Kd 240 248 255
+newmtl material2492
+Kd 240 248 255
+newmtl material2493
+Kd 240 248 255
+newmtl material2494
+Kd 240 248 255
+newmtl material2495
+Kd 240 248 255
+newmtl material2496
+Kd 240 248 255
+newmtl material2497
+Kd 240 248 255
+newmtl material2498
+Kd 240 248 255
+newmtl material2499
+Kd 240 248 255
+newmtl material2500
+Kd 240 248 255
+newmtl material2501
+Kd 240 248 255
+newmtl material2502
+Kd 240 248 255
+newmtl material2503
+Kd 240 248 255
+newmtl material2504
+Kd 240 248 255
+newmtl material2505
+Kd 240 248 255
+newmtl material2506
+Kd 240 248 255
+newmtl material2507
+Kd 240 248 255
+newmtl material2508
+Kd 240 248 255
+newmtl material2509
+Kd 240 248 255
+newmtl material2510
+Kd 240 248 255
+newmtl material2511
+Kd 0 191 255
+newmtl material2512
+Kd 205 133 63
+newmtl material2513
+Kd 240 248 255
+newmtl material2514
+Kd 240 248 255
+newmtl material2515
+Kd 240 248 255
+newmtl material2516
+Kd 240 248 255
+newmtl material2517
+Kd 240 248 255
+newmtl material2518
+Kd 240 248 255
+newmtl material2519
+Kd 240 248 255
+newmtl material2520
+Kd 240 248 255
+newmtl material2521
+Kd 240 248 255
+newmtl material2522
+Kd 240 248 255
+newmtl material2523
+Kd 240 248 255
+newmtl material2524
+Kd 240 248 255
+newmtl material2525
+Kd 240 248 255
+newmtl material2526
+Kd 240 248 255
+newmtl material2527
+Kd 240 248 255
+newmtl material2528
+Kd 240 248 255
+newmtl material2529
+Kd 240 248 255
+newmtl material2530
+Kd 240 248 255
+newmtl material2531
+Kd 240 248 255
+newmtl material2532
+Kd 240 248 255
+newmtl material2533
+Kd 240 248 255
+newmtl material2534
+Kd 240 248 255
+newmtl material2535
+Kd 240 248 255
+newmtl material2536
+Kd 240 248 255
+newmtl material2537
+Kd 240 248 255
+newmtl material2538
+Kd 240 248 255
+newmtl material2539
+Kd 240 248 255
+newmtl material2540
+Kd 240 248 255
+newmtl material2541
+Kd 240 248 255
+newmtl material2542
+Kd 240 248 255
+newmtl material2543
+Kd 240 248 255
+newmtl material2544
+Kd 240 248 255
+newmtl material2545
+Kd 240 248 255
+newmtl material2546
+Kd 240 248 255
+newmtl material2547
+Kd 240 248 255
+newmtl material2548
+Kd 240 248 255
+newmtl material2549
+Kd 240 248 255
+newmtl material2550
+Kd 240 248 255
+newmtl material2551
+Kd 240 248 255
+newmtl material2552
+Kd 240 248 255
+newmtl material2553
+Kd 240 248 255
+newmtl material2554
+Kd 240 248 255
+newmtl material2555
+Kd 240 248 255
+newmtl material2556
+Kd 240 248 255
+newmtl material2557
+Kd 240 248 255
+newmtl material2558
+Kd 205 133 63
+newmtl material2559
+Kd 240 248 255
+newmtl material2560
+Kd 240 248 255
+newmtl material2561
+Kd 240 248 255
+newmtl material2562
+Kd 240 248 255
+newmtl material2563
+Kd 240 248 255
+newmtl material2564
+Kd 240 248 255
+newmtl material2565
+Kd 240 248 255
+newmtl material2566
+Kd 240 248 255
+newmtl material2567
+Kd 240 248 255
+newmtl material2568
+Kd 240 248 255
+newmtl material2569
+Kd 240 248 255
+newmtl material2570
+Kd 240 248 255
+newmtl material2571
+Kd 240 248 255
+newmtl material2572
+Kd 240 248 255
+newmtl material2573
+Kd 240 248 255
+newmtl material2574
+Kd 240 248 255
+newmtl material2575
+Kd 240 248 255
+newmtl material2576
+Kd 240 248 255
+newmtl material2577
+Kd 240 248 255
+newmtl material2578
+Kd 240 248 255
+newmtl material2579
+Kd 240 248 255
+newmtl material2580
+Kd 240 248 255
+newmtl material2581
+Kd 205 133 63
+newmtl material2582
+Kd 240 248 255
+newmtl material2583
+Kd 240 248 255
+newmtl material2584
+Kd 240 248 255
+newmtl material2585
+Kd 240 248 255
+newmtl material2586
+Kd 240 248 255
+newmtl material2587
+Kd 240 248 255
+newmtl material2588
+Kd 240 248 255
+newmtl material2589
+Kd 240 248 255
+newmtl material2590
+Kd 240 248 255
+newmtl material2591
+Kd 240 248 255
+newmtl material2592
+Kd 240 248 255
+newmtl material2593
+Kd 240 248 255
+newmtl material2594
+Kd 240 248 255
+newmtl material2595
+Kd 240 248 255
+newmtl material2596
+Kd 240 248 255
+newmtl material2597
+Kd 240 248 255
+newmtl material2598
+Kd 240 248 255
+newmtl material2599
+Kd 240 248 255
+newmtl material2600
+Kd 240 248 255
+newmtl material2601
+Kd 240 248 255
+newmtl material2602
+Kd 240 248 255
+newmtl material2603
+Kd 240 248 255
+newmtl material2604
+Kd 240 248 255
+newmtl material2605
+Kd 240 248 255
+newmtl material2606
+Kd 240 248 255
+newmtl material2607
+Kd 240 248 255
+newmtl material2608
+Kd 240 248 255
+newmtl material2609
+Kd 240 248 255
+newmtl material2610
+Kd 240 248 255
+newmtl material2611
+Kd 154 205 50
+newmtl material2612
+Kd 154 205 50
+newmtl material2613
+Kd 205 133 63
+newmtl material2614
+Kd 240 248 255
+newmtl material2615
+Kd 240 248 255
+newmtl material2616
+Kd 240 248 255
+newmtl material2617
+Kd 240 248 255
+newmtl material2618
+Kd 240 248 255
+newmtl material2619
+Kd 240 248 255
+newmtl material2620
+Kd 240 248 255
+newmtl material2621
+Kd 240 248 255
+newmtl material2622
+Kd 240 248 255
+newmtl material2623
+Kd 240 248 255
+newmtl material2624
+Kd 240 248 255
+newmtl material2625
+Kd 240 248 255
+newmtl material2626
+Kd 240 248 255
+newmtl material2627
+Kd 240 248 255
+newmtl material2628
+Kd 240 248 255
+newmtl material2629
+Kd 240 248 255
+newmtl material2630
+Kd 240 248 255
+newmtl material2631
+Kd 240 248 255
+newmtl material2632
+Kd 240 248 255
+newmtl material2633
+Kd 240 248 255
+newmtl material2634
+Kd 240 248 255
+newmtl material2635
+Kd 240 248 255
+newmtl material2636
+Kd 240 248 255
+newmtl material2637
+Kd 240 248 255
+newmtl material2638
+Kd 240 248 255
+newmtl material2639
+Kd 240 248 255
+newmtl material2640
+Kd 240 248 255
+newmtl material2641
+Kd 240 248 255
+newmtl material2642
+Kd 240 248 255
+newmtl material2643
+Kd 240 248 255
+newmtl material2644
+Kd 205 133 63
+newmtl material2645
+Kd 240 248 255
+newmtl material2646
+Kd 240 248 255
+newmtl material2647
+Kd 240 248 255
+newmtl material2648
+Kd 240 248 255
+newmtl material2649
+Kd 240 248 255
+newmtl material2650
+Kd 240 248 255
+newmtl material2651
+Kd 240 248 255
+newmtl material2652
+Kd 240 248 255
+newmtl material2653
+Kd 240 248 255
+newmtl material2654
+Kd 240 248 255
+newmtl material2655
+Kd 240 248 255
+newmtl material2656
+Kd 240 248 255
+newmtl material2657
+Kd 240 248 255
+newmtl material2658
+Kd 240 248 255
+newmtl material2659
+Kd 240 248 255
+newmtl material2660
+Kd 240 248 255
+newmtl material2661
+Kd 240 248 255
+newmtl material2662
+Kd 240 248 255
+newmtl material2663
+Kd 240 248 255
+newmtl material2664
+Kd 240 248 255
+newmtl material2665
+Kd 240 248 255
+newmtl material2666
+Kd 240 248 255
+newmtl material2667
+Kd 240 248 255
+newmtl material2668
+Kd 240 248 255
+newmtl material2669
+Kd 240 248 255
+newmtl material2670
+Kd 240 248 255
+newmtl material2671
+Kd 240 248 255
+newmtl material2672
+Kd 240 248 255
+newmtl material2673
+Kd 205 133 63
+newmtl material2674
+Kd 154 205 50
+newmtl material2675
+Kd 240 248 255
+newmtl material2676
+Kd 240 248 255
+newmtl material2677
+Kd 240 248 255
+newmtl material2678
+Kd 240 248 255
+newmtl material2679
+Kd 240 248 255
+newmtl material2680
+Kd 240 248 255
+newmtl material2681
+Kd 240 248 255
+newmtl material2682
+Kd 240 248 255
+newmtl material2683
+Kd 240 248 255
+newmtl material2684
+Kd 240 248 255
+newmtl material2685
+Kd 240 248 255
+newmtl material2686
+Kd 240 248 255
+newmtl material2687
+Kd 240 248 255
+newmtl material2688
+Kd 240 248 255
+newmtl material2689
+Kd 240 248 255
+newmtl material2690
+Kd 240 248 255
+newmtl material2691
+Kd 240 248 255
+newmtl material2692
+Kd 240 248 255
+newmtl material2693
+Kd 240 248 255
+newmtl material2694
+Kd 240 248 255
+newmtl material2695
+Kd 240 248 255
+newmtl material2696
+Kd 240 248 255
+newmtl material2697
+Kd 240 248 255
+newmtl material2698
+Kd 240 248 255
+newmtl material2699
+Kd 240 248 255
+newmtl material2700
+Kd 240 248 255
+newmtl material2701
+Kd 240 248 255
+newmtl material2702
+Kd 240 248 255
+newmtl material2703
+Kd 240 248 255
+newmtl material2704
+Kd 240 248 255
+newmtl material2705
+Kd 240 248 255
+newmtl material2706
+Kd 240 248 255
+newmtl material2707
+Kd 240 248 255
+newmtl material2708
+Kd 240 248 255
+newmtl material2709
+Kd 240 248 255
+newmtl material2710
+Kd 240 248 255
+newmtl material2711
+Kd 240 248 255
+newmtl material2712
+Kd 240 248 255
+newmtl material2713
+Kd 240 248 255
+newmtl material2714
+Kd 240 248 255
+newmtl material2715
+Kd 240 248 255
+newmtl material2716
+Kd 240 248 255
+newmtl material2717
+Kd 240 248 255
+newmtl material2718
+Kd 240 248 255
+newmtl material2719
+Kd 240 248 255
+newmtl material2720
+Kd 240 248 255
+newmtl material2721
+Kd 255 250 205
+newmtl material2722
+Kd 154 205 50
+newmtl material2723
+Kd 205 133 63
+newmtl material2724
+Kd 240 248 255
+newmtl material2725
+Kd 240 248 255
+newmtl material2726
+Kd 240 248 255
+newmtl material2727
+Kd 240 248 255
+newmtl material2728
+Kd 240 248 255
+newmtl material2729
+Kd 240 248 255
+newmtl material2730
+Kd 240 248 255
+newmtl material2731
+Kd 240 248 255
+newmtl material2732
+Kd 240 248 255
+newmtl material2733
+Kd 240 248 255
+newmtl material2734
+Kd 240 248 255
+newmtl material2735
+Kd 240 248 255
+newmtl material2736
+Kd 240 248 255
+newmtl material2737
+Kd 240 248 255
+newmtl material2738
+Kd 240 248 255
+newmtl material2739
+Kd 240 248 255
+newmtl material2740
+Kd 240 248 255
+newmtl material2741
+Kd 240 248 255
+newmtl material2742
+Kd 240 248 255
+newmtl material2743
+Kd 240 248 255
+newmtl material2744
+Kd 240 248 255
+newmtl material2745
+Kd 240 248 255
+newmtl material2746
+Kd 240 248 255
+newmtl material2747
+Kd 0 191 255
+newmtl material2748
+Kd 205 133 63
+newmtl material2749
+Kd 240 248 255
+newmtl material2750
+Kd 240 248 255
+newmtl material2751
+Kd 240 248 255
+newmtl material2752
+Kd 240 248 255
+newmtl material2753
+Kd 240 248 255
+newmtl material2754
+Kd 240 248 255
+newmtl material2755
+Kd 240 248 255
+newmtl material2756
+Kd 240 248 255
+newmtl material2757
+Kd 240 248 255
+newmtl material2758
+Kd 240 248 255
+newmtl material2759
+Kd 240 248 255
+newmtl material2760
+Kd 240 248 255
+newmtl material2761
+Kd 240 248 255
+newmtl material2762
+Kd 240 248 255
+newmtl material2763
+Kd 240 248 255
+newmtl material2764
+Kd 240 248 255
+newmtl material2765
+Kd 240 248 255
+newmtl material2766
+Kd 240 248 255
+newmtl material2767
+Kd 240 248 255
+newmtl material2768
+Kd 205 133 63
+newmtl material2769
+Kd 240 248 255
+newmtl material2770
+Kd 240 248 255
+newmtl material2771
+Kd 240 248 255
+newmtl material2772
+Kd 240 248 255
+newmtl material2773
+Kd 240 248 255
+newmtl material2774
+Kd 240 248 255
+newmtl material2775
+Kd 240 248 255
+newmtl material2776
+Kd 240 248 255
+newmtl material2777
+Kd 240 248 255
+newmtl material2778
+Kd 240 248 255
+newmtl material2779
+Kd 240 248 255
+newmtl material2780
+Kd 240 248 255
+newmtl material2781
+Kd 240 248 255
+newmtl material2782
+Kd 240 248 255
+newmtl material2783
+Kd 240 248 255
+newmtl material2784
+Kd 240 248 255
+newmtl material2785
+Kd 240 248 255
+newmtl material2786
+Kd 240 248 255
+newmtl material2787
+Kd 240 248 255
+newmtl material2788
+Kd 240 248 255
+newmtl material2789
+Kd 240 248 255
+newmtl material2790
+Kd 240 248 255
+newmtl material2791
+Kd 240 248 255
+newmtl material2792
+Kd 240 248 255
+newmtl material2793
+Kd 240 248 255
+newmtl material2794
+Kd 240 248 255
+newmtl material2795
+Kd 240 248 255
+newmtl material2796
+Kd 240 248 255
+newmtl material2797
+Kd 240 248 255
+newmtl material2798
+Kd 240 248 255
+newmtl material2799
+Kd 240 248 255
+newmtl material2800
+Kd 240 248 255
+newmtl material2801
+Kd 240 248 255
+newmtl material2802
+Kd 240 248 255
+newmtl material2803
+Kd 240 248 255
+newmtl material2804
+Kd 240 248 255
+newmtl material2805
+Kd 240 248 255
+newmtl material2806
+Kd 240 248 255
+newmtl material2807
+Kd 240 248 255
+newmtl material2808
+Kd 240 248 255
+newmtl material2809
+Kd 240 248 255
+newmtl material2810
+Kd 240 248 255
+newmtl material2811
+Kd 205 133 63
+newmtl material2812
+Kd 240 248 255
+newmtl material2813
+Kd 240 248 255
+newmtl material2814
+Kd 240 248 255
+newmtl material2815
+Kd 240 248 255
+newmtl material2816
+Kd 240 248 255
+newmtl material2817
+Kd 240 248 255
+newmtl material2818
+Kd 240 248 255
+newmtl material2819
+Kd 240 248 255
+newmtl material2820
+Kd 240 248 255
+newmtl material2821
+Kd 240 248 255
+newmtl material2822
+Kd 240 248 255
+newmtl material2823
+Kd 240 248 255
+newmtl material2824
+Kd 240 248 255
+newmtl material2825
+Kd 240 248 255
+newmtl material2826
+Kd 240 248 255
+newmtl material2827
+Kd 240 248 255
+newmtl material2828
+Kd 240 248 255
+newmtl material2829
+Kd 240 248 255
+newmtl material2830
+Kd 240 248 255
+newmtl material2831
+Kd 240 248 255
+newmtl material2832
+Kd 240 248 255
+newmtl material2833
+Kd 205 133 63
+newmtl material2834
+Kd 0 191 255
+newmtl material2835
+Kd 240 248 255
+newmtl material2836
+Kd 240 248 255
+newmtl material2837
+Kd 240 248 255
+newmtl material2838
+Kd 240 248 255
+newmtl material2839
+Kd 240 248 255
+newmtl material2840
+Kd 240 248 255
+newmtl material2841
+Kd 240 248 255
+newmtl material2842
+Kd 240 248 255
+newmtl material2843
+Kd 240 248 255
+newmtl material2844
+Kd 240 248 255
+newmtl material2845
+Kd 240 248 255
+newmtl material2846
+Kd 240 248 255
+newmtl material2847
+Kd 240 248 255
+newmtl material2848
+Kd 240 248 255
+newmtl material2849
+Kd 240 248 255
+newmtl material2850
+Kd 240 248 255
+newmtl material2851
+Kd 240 248 255
+newmtl material2852
+Kd 240 248 255
+newmtl material2853
+Kd 0 191 255
+newmtl material2854
+Kd 154 205 50
+newmtl material2855
+Kd 205 133 63
+newmtl material2856
+Kd 240 248 255
+newmtl material2857
+Kd 240 248 255
+newmtl material2858
+Kd 240 248 255
+newmtl material2859
+Kd 240 248 255
+newmtl material2860
+Kd 240 248 255
+newmtl material2861
+Kd 240 248 255
+newmtl material2862
+Kd 240 248 255
+newmtl material2863
+Kd 240 248 255
+newmtl material2864
+Kd 240 248 255
+newmtl material2865
+Kd 240 248 255
+newmtl material2866
+Kd 240 248 255
+newmtl material2867
+Kd 240 248 255
+newmtl material2868
+Kd 240 248 255
+newmtl material2869
+Kd 240 248 255
+newmtl material2870
+Kd 240 248 255
+newmtl material2871
+Kd 240 248 255
+newmtl material2872
+Kd 240 248 255
+newmtl material2873
+Kd 205 133 63
+newmtl material2874
+Kd 240 248 255
+newmtl material2875
+Kd 240 248 255
+newmtl material2876
+Kd 240 248 255
+newmtl material2877
+Kd 240 248 255
+newmtl material2878
+Kd 240 248 255
+newmtl material2879
+Kd 240 248 255
+newmtl material2880
+Kd 240 248 255
+newmtl material2881
+Kd 240 248 255
+newmtl material2882
+Kd 240 248 255
+newmtl material2883
+Kd 240 248 255
+newmtl material2884
+Kd 240 248 255
+newmtl material2885
+Kd 240 248 255
+newmtl material2886
+Kd 240 248 255
+newmtl material2887
+Kd 240 248 255
+newmtl material2888
+Kd 240 248 255
+newmtl material2889
+Kd 154 205 50
+newmtl material2890
+Kd 205 133 63
+newmtl material2891
+Kd 205 133 63
+newmtl material2892
+Kd 240 248 255
+newmtl material2893
+Kd 240 248 255
+newmtl material2894
+Kd 240 248 255
+newmtl material2895
+Kd 240 248 255
+newmtl material2896
+Kd 240 248 255
+newmtl material2897
+Kd 240 248 255
+newmtl material2898
+Kd 240 248 255
+newmtl material2899
+Kd 240 248 255
+newmtl material2900
+Kd 240 248 255
+newmtl material2901
+Kd 240 248 255
+newmtl material2902
+Kd 240 248 255
+newmtl material2903
+Kd 240 248 255
+newmtl material2904
+Kd 240 248 255
+newmtl material2905
+Kd 240 248 255
+newmtl material2906
+Kd 240 248 255
+newmtl material2907
+Kd 240 248 255
+newmtl material2908
+Kd 205 133 63
+newmtl material2909
+Kd 240 248 255
+newmtl material2910
+Kd 240 248 255
+newmtl material2911
+Kd 240 248 255
+newmtl material2912
+Kd 240 248 255
+newmtl material2913
+Kd 240 248 255
+newmtl material2914
+Kd 240 248 255
+newmtl material2915
+Kd 240 248 255
+newmtl material2916
+Kd 240 248 255
+newmtl material2917
+Kd 240 248 255
+newmtl material2918
+Kd 240 248 255
+newmtl material2919
+Kd 240 248 255
+newmtl material2920
+Kd 240 248 255
+newmtl material2921
+Kd 0 191 255
+newmtl material2922
+Kd 205 133 63
+newmtl material2923
+Kd 240 248 255
+newmtl material2924
+Kd 240 248 255
+newmtl material2925
+Kd 240 248 255
+newmtl material2926
+Kd 240 248 255
+newmtl material2927
+Kd 240 248 255
+newmtl material2928
+Kd 240 248 255
+newmtl material2929
+Kd 240 248 255
+newmtl material2930
+Kd 240 248 255
+newmtl material2931
+Kd 240 248 255
+newmtl material2932
+Kd 0 191 255
+newmtl material2933
+Kd 205 133 63
+newmtl material2934
+Kd 205 133 63
+newmtl material2935
+Kd 240 248 255
+newmtl material2936
+Kd 240 248 255
+newmtl material2937
+Kd 240 248 255
+newmtl material2938
+Kd 240 248 255
+newmtl material2939
+Kd 240 248 255
+newmtl material2940
+Kd 240 248 255
+newmtl material2941
+Kd 205 133 63
+newmtl material2942
+Kd 0 191 255
+newmtl material2943
+Kd 154 205 50
+newmtl material2944
+Kd 154 205 50
+newmtl material2945
+Kd 240 248 255
+newmtl material2946
+Kd 240 248 255
+newmtl material2947
+Kd 240 248 255
+newmtl material2948
+Kd 240 248 255
+newmtl material2949
+Kd 240 248 255
+newmtl material2950
+Kd 240 248 255
+newmtl material2951
+Kd 240 248 255
+newmtl material2952
+Kd 240 248 255
+newmtl material2953
+Kd 240 248 255
+newmtl material2954
+Kd 240 248 255
+newmtl material2955
+Kd 240 248 255
+newmtl material2956
+Kd 240 248 255
+newmtl material2957
+Kd 0 191 255
+newmtl material2958
+Kd 255 250 205
+newmtl material2959
+Kd 205 133 63
+newmtl material2960
+Kd 240 248 255
+newmtl material2961
+Kd 240 248 255
+newmtl material2962
+Kd 240 248 255
+newmtl material2963
+Kd 240 248 255
+newmtl material2964
+Kd 240 248 255
+newmtl material2965
+Kd 240 248 255
+newmtl material2966
+Kd 240 248 255
+newmtl material2967
+Kd 240 248 255
+newmtl material2968
+Kd 240 248 255
+newmtl material2969
+Kd 240 248 255
+newmtl material2970
+Kd 240 248 255
+newmtl material2971
+Kd 240 248 255
+newmtl material2972
+Kd 240 248 255
+newmtl material2973
+Kd 240 248 255
+newmtl material2974
+Kd 240 248 255
+newmtl material2975
+Kd 240 248 255
+newmtl material2976
+Kd 240 248 255
+newmtl material2977
+Kd 205 133 63
+newmtl material2978
+Kd 205 133 63
+newmtl material2979
+Kd 240 248 255
+newmtl material2980
+Kd 240 248 255
+newmtl material2981
+Kd 240 248 255
+newmtl material2982
+Kd 240 248 255
+newmtl material2983
+Kd 255 250 205
+newmtl material2984
+Kd 154 205 50
+newmtl material2985
+Kd 154 205 50
+newmtl material2986
+Kd 205 133 63
+newmtl material2987
+Kd 240 248 255
+newmtl material2988
+Kd 240 248 255
+newmtl material2989
+Kd 240 248 255
+newmtl material2990
+Kd 240 248 255
+newmtl material2991
+Kd 240 248 255
+newmtl material2992
+Kd 240 248 255
+newmtl material2993
+Kd 0 191 255
+newmtl material2994
+Kd 0 191 255
+newmtl material2995
+Kd 205 133 63
+newmtl material2996
+Kd 205 133 63
+newmtl material2997
+Kd 240 248 255
+newmtl material2998
+Kd 240 248 255
+newmtl material2999
+Kd 240 248 255
+newmtl material3000
+Kd 240 248 255
+newmtl material3001
+Kd 240 248 255
+newmtl material3002
+Kd 240 248 255
+newmtl material3003
+Kd 240 248 255
+newmtl material3004
+Kd 240 248 255
+newmtl material3005
+Kd 240 248 255
+newmtl material3006
+Kd 240 248 255
+newmtl material3007
+Kd 205 133 63
+newmtl material3008
+Kd 0 191 255
+newmtl material3009
+Kd 154 205 50
+newmtl material3010
+Kd 240 248 255
+newmtl material3011
+Kd 240 248 255
+newmtl material3012
+Kd 240 248 255
+newmtl material3013
+Kd 240 248 255
+newmtl material3014
+Kd 240 248 255
+newmtl material3015
+Kd 0 191 255
+newmtl material3016
+Kd 240 248 255
+newmtl material3017
+Kd 240 248 255
+newmtl material3018
+Kd 240 248 255
+newmtl material3019
+Kd 240 248 255
+newmtl material3020
+Kd 240 248 255
+newmtl material3021
+Kd 240 248 255
+newmtl material3022
+Kd 240 248 255
+newmtl material3023
+Kd 240 248 255
+newmtl material3024
+Kd 240 248 255
+newmtl material3025
+Kd 240 248 255
+newmtl material3026
+Kd 0 191 255
+newmtl material3027
+Kd 0 191 255
+newmtl material3028
+Kd 205 133 63
+newmtl material3029
+Kd 205 133 63
+newmtl material3030
+Kd 240 248 255
+newmtl material3031
+Kd 240 248 255
+newmtl material3032
+Kd 240 248 255
+newmtl material3033
+Kd 240 248 255
+newmtl material3034
+Kd 240 248 255
+newmtl material3035
+Kd 240 248 255
+newmtl material3036
+Kd 240 248 255
+newmtl material3037
+Kd 240 248 255
+newmtl material3038
+Kd 240 248 255
+newmtl material3039
+Kd 0 191 255
+newmtl material3040
+Kd 240 248 255
+newmtl material3041
+Kd 240 248 255
+newmtl material3042
+Kd 240 248 255
+newmtl material3043
+Kd 240 248 255
+newmtl material3044
+Kd 240 248 255
+newmtl material3045
+Kd 240 248 255
+newmtl material3046
+Kd 240 248 255
+newmtl material3047
+Kd 240 248 255
+newmtl material3048
+Kd 240 248 255
+newmtl material3049
+Kd 240 248 255
+newmtl material3050
+Kd 154 205 50
+newmtl material3051
+Kd 154 205 50
+newmtl material3052
+Kd 205 133 63
+newmtl material3053
+Kd 240 248 255
+newmtl material3054
+Kd 240 248 255
+newmtl material3055
+Kd 240 248 255
+newmtl material3056
+Kd 240 248 255
+newmtl material3057
+Kd 240 248 255
+newmtl material3058
+Kd 240 248 255
+newmtl material3059
+Kd 240 248 255
+newmtl material3060
+Kd 240 248 255
+newmtl material3061
+Kd 240 248 255
+newmtl material3062
+Kd 240 248 255
+newmtl material3063
+Kd 240 248 255
+newmtl material3064
+Kd 240 248 255
+newmtl material3065
+Kd 240 248 255
+newmtl material3066
+Kd 240 248 255
+newmtl material3067
+Kd 240 248 255
+newmtl material3068
+Kd 240 248 255
+newmtl material3069
+Kd 255 250 205
+newmtl material3070
+Kd 255 250 205
+newmtl material3071
+Kd 154 205 50
+newmtl material3072
+Kd 205 133 63
+newmtl material3073
+Kd 240 248 255
+newmtl material3074
+Kd 240 248 255
+newmtl material3075
+Kd 240 248 255
+newmtl material3076
+Kd 240 248 255
+newmtl material3077
+Kd 240 248 255
+newmtl material3078
+Kd 240 248 255
+newmtl material3079
+Kd 240 248 255
+newmtl material3080
+Kd 240 248 255
+newmtl material3081
+Kd 240 248 255
+newmtl material3082
+Kd 240 248 255
+newmtl material3083
+Kd 240 248 255
+newmtl material3084
+Kd 240 248 255
+newmtl material3085
+Kd 240 248 255
+newmtl material3086
+Kd 240 248 255
+newmtl material3087
+Kd 240 248 255
+newmtl material3088
+Kd 240 248 255
+newmtl material3089
+Kd 154 205 50
+newmtl material3090
+Kd 154 205 50
+newmtl material3091
+Kd 0 191 255
+newmtl material3092
+Kd 240 248 255
+newmtl material3093
+Kd 240 248 255
+newmtl material3094
+Kd 240 248 255
+newmtl material3095
+Kd 240 248 255
+newmtl material3096
+Kd 240 248 255
+newmtl material3097
+Kd 240 248 255
+newmtl material3098
+Kd 240 248 255
+newmtl material3099
+Kd 240 248 255
+newmtl material3100
+Kd 240 248 255
+newmtl material3101
+Kd 240 248 255
+newmtl material3102
+Kd 240 248 255
+newmtl material3103
+Kd 154 205 50
+newmtl material3104
+Kd 0 191 255
+newmtl material3105
+Kd 240 248 255
+newmtl material3106
+Kd 240 248 255
+newmtl material3107
+Kd 240 248 255
+newmtl material3108
+Kd 240 248 255
+newmtl material3109
+Kd 240 248 255
+newmtl material3110
+Kd 240 248 255
+newmtl material3111
+Kd 240 248 255
+newmtl material3112
+Kd 240 248 255
+newmtl material3113
+Kd 240 248 255
+newmtl material3114
+Kd 240 248 255
+newmtl material3115
+Kd 0 191 255
+newmtl material3116
+Kd 0 191 255
+newmtl material3117
+Kd 205 133 63
+newmtl material3118
+Kd 240 248 255
+newmtl material3119
+Kd 240 248 255
+newmtl material3120
+Kd 240 248 255
+newmtl material3121
+Kd 240 248 255
+newmtl material3122
+Kd 240 248 255
+newmtl material3123
+Kd 240 248 255
+newmtl material3124
+Kd 240 248 255
+newmtl material3125
+Kd 240 248 255
+newmtl material3126
+Kd 240 248 255
+newmtl material3127
+Kd 240 248 255
+newmtl material3128
+Kd 240 248 255
+newmtl material3129
+Kd 240 248 255
+newmtl material3130
+Kd 240 248 255
+newmtl material3131
+Kd 240 248 255
+newmtl material3132
+Kd 240 248 255
+newmtl material3133
+Kd 240 248 255
+newmtl material3134
+Kd 205 133 63
+newmtl material3135
+Kd 205 133 63
+newmtl material3136
+Kd 240 248 255
+newmtl material3137
+Kd 240 248 255
+newmtl material3138
+Kd 240 248 255
+newmtl material3139
+Kd 240 248 255
+newmtl material3140
+Kd 240 248 255
+newmtl material3141
+Kd 240 248 255
+newmtl material3142
+Kd 240 248 255
+newmtl material3143
+Kd 0 191 255
+newmtl material3144
+Kd 0 191 255
+newmtl material3145
+Kd 205 133 63
+newmtl material3146
+Kd 240 248 255
+newmtl material3147
+Kd 240 248 255
+newmtl material3148
+Kd 240 248 255
+newmtl material3149
+Kd 240 248 255
+newmtl material3150
+Kd 240 248 255
+newmtl material3151
+Kd 240 248 255
+newmtl material3152
+Kd 255 250 205
+newmtl material3153
+Kd 240 248 255
+newmtl material3154
+Kd 240 248 255
+newmtl material3155
+Kd 240 248 255
+newmtl material3156
+Kd 240 248 255
+newmtl material3157
+Kd 154 205 50
+newmtl material3158
+Kd 205 133 63
+newmtl material3159
+Kd 240 248 255
+newmtl material3160
+Kd 240 248 255
+newmtl material3161
+Kd 240 248 255
+newmtl material3162
+Kd 240 248 255
+newmtl material3163
+Kd 240 248 255
+newmtl material3164
+Kd 240 248 255
+newmtl material3165
+Kd 0 191 255
+newmtl material3166
+Kd 154 205 50
+newmtl material3167
+Kd 205 133 63
+newmtl material3168
+Kd 240 248 255
+newmtl material3169
+Kd 240 248 255
+newmtl material3170
+Kd 240 248 255
+newmtl material3171
+Kd 240 248 255
+newmtl material3172
+Kd 240 248 255
+newmtl material3173
+Kd 240 248 255
+newmtl material3174
+Kd 240 248 255
+newmtl material3175
+Kd 240 248 255
+newmtl material3176
+Kd 240 248 255
+newmtl material3177
+Kd 0 191 255
+newmtl material3178
+Kd 205 133 63
+newmtl material3179
+Kd 205 133 63
+newmtl material3180
+Kd 205 133 63
+newmtl material3181
+Kd 240 248 255
+newmtl material3182
+Kd 240 248 255
+newmtl material3183
+Kd 240 248 255
+newmtl material3184
+Kd 240 248 255
+newmtl material3185
+Kd 240 248 255
+newmtl material3186
+Kd 240 248 255
+newmtl material3187
+Kd 240 248 255
+newmtl material3188
+Kd 154 205 50
+newmtl material3189
+Kd 154 205 50
+newmtl material3190
+Kd 240 248 255
+newmtl material3191
+Kd 240 248 255
+newmtl material3192
+Kd 240 248 255
+newmtl material3193
+Kd 240 248 255
+newmtl material3194
+Kd 240 248 255
+newmtl material3195
+Kd 240 248 255
+newmtl material3196
+Kd 240 248 255
+newmtl material3197
+Kd 240 248 255
+newmtl material3198
+Kd 240 248 255
+newmtl material3199
+Kd 240 248 255
+newmtl material3200
+Kd 240 248 255
+newmtl material3201
+Kd 154 205 50
+newmtl material3202
+Kd 154 205 50
+newmtl material3203
+Kd 240 248 255
+newmtl material3204
+Kd 240 248 255
+newmtl material3205
+Kd 240 248 255
+newmtl material3206
+Kd 240 248 255
+newmtl material3207
+Kd 240 248 255
+newmtl material3208
+Kd 240 248 255
+newmtl material3209
+Kd 0 191 255
+newmtl material3210
+Kd 255 250 205
+newmtl material3211
+Kd 205 133 63
+newmtl material3212
+Kd 205 133 63
+newmtl material3213
+Kd 240 248 255
+newmtl material3214
+Kd 240 248 255
+newmtl material3215
+Kd 240 248 255
+newmtl material3216
+Kd 240 248 255
+newmtl material3217
+Kd 240 248 255
+newmtl material3218
+Kd 240 248 255
+newmtl material3219
+Kd 240 248 255
+newmtl material3220
+Kd 255 250 205
+newmtl material3221
+Kd 154 205 50
+newmtl material3222
+Kd 205 133 63
+newmtl material3223
+Kd 205 133 63
+newmtl material3224
+Kd 240 248 255
+newmtl material3225
+Kd 240 248 255
+newmtl material3226
+Kd 240 248 255
+newmtl material3227
+Kd 240 248 255
+newmtl material3228
+Kd 154 205 50
+newmtl material3229
+Kd 240 248 255
+newmtl material3230
+Kd 240 248 255
+newmtl material3231
+Kd 240 248 255
+newmtl material3232
+Kd 240 248 255
+newmtl material3233
+Kd 240 248 255
+newmtl material3234
+Kd 240 248 255
+newmtl material3235
+Kd 240 248 255
+newmtl material3236
+Kd 240 248 255
+newmtl material3237
+Kd 255 250 205
+newmtl material3238
+Kd 240 248 255
+newmtl material3239
+Kd 240 248 255
+newmtl material3240
+Kd 240 248 255
+newmtl material3241
+Kd 240 248 255
+newmtl material3242
+Kd 240 248 255
+newmtl material3243
+Kd 255 250 205
+newmtl material3244
+Kd 240 248 255
+newmtl material3245
+Kd 240 248 255
+newmtl material3246
+Kd 240 248 255
+newmtl material3247
+Kd 240 248 255
+newmtl material3248
+Kd 240 248 255
+newmtl material3249
+Kd 240 248 255
+newmtl material3250
+Kd 240 248 255
+newmtl material3251
+Kd 240 248 255
+newmtl material3252
+Kd 240 248 255
+newmtl material3253
+Kd 240 248 255
+newmtl material3254
+Kd 205 133 63
+newmtl material3255
+Kd 205 133 63
+newmtl material3256
+Kd 240 248 255
+newmtl material3257
+Kd 240 248 255
+newmtl material3258
+Kd 240 248 255
+newmtl material3259
+Kd 240 248 255
+newmtl material3260
+Kd 240 248 255
+newmtl material3261
+Kd 240 248 255
+newmtl material3262
+Kd 240 248 255
+newmtl material3263
+Kd 240 248 255
+newmtl material3264
+Kd 240 248 255
+newmtl material3265
+Kd 240 248 255
+newmtl material3266
+Kd 240 248 255
+newmtl material3267
+Kd 240 248 255
+newmtl material3268
+Kd 240 248 255
+newmtl material3269
+Kd 205 133 63
+newmtl material3270
+Kd 240 248 255
+newmtl material3271
+Kd 240 248 255
+newmtl material3272
+Kd 240 248 255
+newmtl material3273
+Kd 240 248 255
+newmtl material3274
+Kd 240 248 255
+newmtl material3275
+Kd 240 248 255
+newmtl material3276
+Kd 240 248 255
+newmtl material3277
+Kd 240 248 255
+newmtl material3278
+Kd 240 248 255
+newmtl material3279
+Kd 240 248 255
+newmtl material3280
+Kd 240 248 255
+newmtl material3281
+Kd 205 133 63
+newmtl material3282
+Kd 205 133 63
+newmtl material3283
+Kd 255 250 205
+newmtl material3284
+Kd 240 248 255
+newmtl material3285
+Kd 240 248 255
+newmtl material3286
+Kd 240 248 255
+newmtl material3287
+Kd 240 248 255
+newmtl material3288
+Kd 240 248 255
+newmtl material3289
+Kd 240 248 255
+newmtl material3290
+Kd 240 248 255
+newmtl material3291
+Kd 240 248 255
+newmtl material3292
+Kd 240 248 255
+newmtl material3293
+Kd 240 248 255
+newmtl material3294
+Kd 0 191 255
+newmtl material3295
+Kd 154 205 50
+newmtl material3296
+Kd 205 133 63
+newmtl material3297
+Kd 240 248 255
+newmtl material3298
+Kd 240 248 255
+newmtl material3299
+Kd 240 248 255
+newmtl material3300
+Kd 240 248 255
+newmtl material3301
+Kd 240 248 255
+newmtl material3302
+Kd 240 248 255
+newmtl material3303
+Kd 240 248 255
+newmtl material3304
+Kd 240 248 255
+newmtl material3305
+Kd 240 248 255
+newmtl material3306
+Kd 240 248 255
+newmtl material3307
+Kd 240 248 255
+newmtl material3308
+Kd 240 248 255
+newmtl material3309
+Kd 205 133 63
+newmtl material3310
+Kd 255 250 205
+newmtl material3311
+Kd 240 248 255
+newmtl material3312
+Kd 240 248 255
+newmtl material3313
+Kd 240 248 255
+newmtl material3314
+Kd 240 248 255
+newmtl material3315
+Kd 240 248 255
+newmtl material3316
+Kd 205 133 63
+newmtl material3317
+Kd 154 205 50
+newmtl material3318
+Kd 205 133 63
+newmtl material3319
+Kd 240 248 255
+newmtl material3320
+Kd 240 248 255
+newmtl material3321
+Kd 240 248 255
+newmtl material3322
+Kd 240 248 255
+newmtl material3323
+Kd 240 248 255
+newmtl material3324
+Kd 240 248 255
+newmtl material3325
+Kd 240 248 255
+newmtl material3326
+Kd 240 248 255
+newmtl material3327
+Kd 240 248 255
+newmtl material3328
+Kd 240 248 255
+newmtl material3329
+Kd 240 248 255
+newmtl material3330
+Kd 154 205 50
+newmtl material3331
+Kd 240 248 255
+newmtl material3332
+Kd 240 248 255
+newmtl material3333
+Kd 205 133 63
+newmtl material3334
+Kd 240 248 255
+newmtl material3335
+Kd 240 248 255
+newmtl material3336
+Kd 240 248 255
+newmtl material3337
+Kd 240 248 255
+newmtl material3338
+Kd 240 248 255
+newmtl material3339
+Kd 205 133 63
+newmtl material3340
+Kd 205 133 63
+newmtl material3341
+Kd 240 248 255
+newmtl material3342
+Kd 240 248 255
+newmtl material3343
+Kd 240 248 255
+newmtl material3344
+Kd 240 248 255
+newmtl material3345
+Kd 240 248 255
+newmtl material3346
+Kd 240 248 255
+newmtl material3347
+Kd 154 205 50
+newmtl material3348
+Kd 205 133 63
+newmtl material3349
+Kd 154 205 50
+newmtl material3350
+Kd 205 133 63
+newmtl material3351
+Kd 205 133 63
+newmtl material3352
+Kd 205 133 63
+newmtl material3353
+Kd 240 248 255
+newmtl material3354
+Kd 240 248 255
+newmtl material3355
+Kd 240 248 255
+newmtl material3356
+Kd 240 248 255
+newmtl material3357
+Kd 240 248 255
+newmtl material3358
+Kd 154 205 50
+newmtl material3359
+Kd 154 205 50
+newmtl material3360
+Kd 205 133 63
+newmtl material3361
+Kd 240 248 255
+newmtl material3362
+Kd 240 248 255
+newmtl material3363
+Kd 240 248 255
+newmtl material3364
+Kd 205 133 63
+newmtl material3365
+Kd 240 248 255
+newmtl material3366
+Kd 205 133 63
+newmtl material3367
+Kd 205 133 63
+newmtl material3368
+Kd 205 133 63
+newmtl material3369
+Kd 205 133 63
+newmtl material3370
+Kd 154 205 50
+newmtl material3371
+Kd 205 133 63
+newmtl material3372
+Kd 205 133 63
+newmtl material3373
+Kd 255 250 205
+newmtl material3374
+Kd 205 133 63
+newmtl material3375
+Kd 240 248 255
+newmtl material3376
+Kd 154 205 50
+newmtl material3377
+Kd 255 250 205
+newmtl material3378
+Kd 255 250 205
+newmtl material3379
+Kd 205 133 63
+newmtl material3380
+Kd 255 250 205
+newmtl material3381
+Kd 205 133 63
+newmtl material3382
+Kd 205 133 63
+newmtl material3383
+Kd 255 250 205
+newmtl material3384
+Kd 255 250 205
+newmtl material3385
+Kd 255 250 205
+newmtl material3386
+Kd 205 133 63
+newmtl material3387
+Kd 154 205 50
+newmtl material3388
+Kd 0 191 255
+newmtl material3389
+Kd 154 205 50
+newmtl material3390
+Kd 154 205 50
+newmtl material3391
+Kd 205 133 63
+newmtl material3392
+Kd 255 250 205
+newmtl material3393
+Kd 0 191 255
+newmtl material3394
+Kd 0 191 255
+newmtl material3395
+Kd 154 205 50
+newmtl material3396
+Kd 205 133 63
+newmtl material3397
+Kd 154 205 50
+newmtl material3398
+Kd 154 205 50
+newmtl material3399
+Kd 240 248 255
+newmtl material3400
+Kd 205 133 63
+newmtl material3401
+Kd 154 205 50
+newmtl material3402
+Kd 255 250 205
+newmtl material3403
+Kd 255 250 205
+newmtl material3404
+Kd 240 248 255
+newmtl material3405
+Kd 240 248 255
+newmtl material3406
+Kd 240 248 255
+newmtl material3407
+Kd 205 133 63
+newmtl material3408
+Kd 255 250 205
+newmtl material3409
+Kd 240 248 255
+newmtl material3410
+Kd 154 205 50
+newmtl material3411
+Kd 154 205 50
+newmtl material3412
+Kd 255 250 205
+newmtl material3413
+Kd 205 133 63
+newmtl material3414
+Kd 205 133 63
+newmtl material3415
+Kd 205 133 63
+newmtl material3416
+Kd 205 133 63
+newmtl material3417
+Kd 205 133 63
+newmtl material3418
+Kd 205 133 63
+newmtl material3419
+Kd 240 248 255
+newmtl material3420
+Kd 205 133 63
+newmtl material3421
+Kd 240 248 255
+newmtl material3422
+Kd 205 133 63
+newmtl material3423
+Kd 205 133 63
+newmtl material3424
+Kd 205 133 63
+newmtl material3425
+Kd 154 205 50
+newmtl material3426
+Kd 255 250 205
+newmtl material3427
+Kd 154 205 50
+newmtl material3428
+Kd 205 133 63
+newmtl material3429
+Kd 240 248 255
+newmtl material3430
+Kd 240 248 255
+newmtl material3431
+Kd 205 133 63
+newmtl material3432
+Kd 205 133 63
+newmtl material3433
+Kd 205 133 63
+newmtl material3434
+Kd 205 133 63
+newmtl material3435
+Kd 240 248 255
+newmtl material3436
+Kd 205 133 63
+newmtl material3437
+Kd 205 133 63
+newmtl material3438
+Kd 0 191 255
+newmtl material3439
+Kd 255 250 205
+newmtl material3440
+Kd 154 205 50
+newmtl material3441
+Kd 240 248 255
+newmtl material3442
+Kd 240 248 255
+newmtl material3443
+Kd 240 248 255
+newmtl material3444
+Kd 205 133 63
+newmtl material3445
+Kd 154 205 50
+newmtl material3446
+Kd 205 133 63
+newmtl material3447
+Kd 205 133 63
+newmtl material3448
+Kd 205 133 63
+newmtl material3449
+Kd 205 133 63
+newmtl material3450
+Kd 205 133 63
+newmtl material3451
+Kd 205 133 63
+newmtl material3452
+Kd 240 248 255
+newmtl material3453
+Kd 154 205 50
+newmtl material3454
+Kd 0 191 255
+newmtl material3455
+Kd 240 248 255
+newmtl material3456
+Kd 240 248 255
+newmtl material3457
+Kd 240 248 255
+newmtl material3458
+Kd 240 248 255
+newmtl material3459
+Kd 240 248 255
+newmtl material3460
+Kd 205 133 63
+newmtl material3461
+Kd 205 133 63
+newmtl material3462
+Kd 240 248 255
+newmtl material3463
+Kd 240 248 255
+newmtl material3464
+Kd 205 133 63
+newmtl material3465
+Kd 205 133 63
+newmtl material3466
+Kd 240 248 255
+newmtl material3467
+Kd 240 248 255
+newmtl material3468
+Kd 240 248 255
+newmtl material3469
+Kd 240 248 255
+newmtl material3470
+Kd 154 205 50
+newmtl material3471
+Kd 240 248 255
+newmtl material3472
+Kd 240 248 255
+newmtl material3473
+Kd 240 248 255
+newmtl material3474
+Kd 240 248 255
+newmtl material3475
+Kd 240 248 255
+newmtl material3476
+Kd 240 248 255
+newmtl material3477
+Kd 154 205 50
+newmtl material3478
+Kd 205 133 63
+newmtl material3479
+Kd 240 248 255
+newmtl material3480
+Kd 240 248 255
+newmtl material3481
+Kd 205 133 63
+newmtl material3482
+Kd 240 248 255
+newmtl material3483
+Kd 240 248 255
+newmtl material3484
+Kd 240 248 255
+newmtl material3485
+Kd 240 248 255
+newmtl material3486
+Kd 240 248 255
+newmtl material3487
+Kd 240 248 255
+newmtl material3488
+Kd 154 205 50
+newmtl material3489
+Kd 205 133 63
+newmtl material3490
+Kd 205 133 63
+newmtl material3491
+Kd 205 133 63
+newmtl material3492
+Kd 205 133 63
+newmtl material3493
+Kd 240 248 255
+newmtl material3494
+Kd 240 248 255
+newmtl material3495
+Kd 240 248 255
+newmtl material3496
+Kd 154 205 50
+newmtl material3497
+Kd 154 205 50
+newmtl material3498
+Kd 205 133 63
+newmtl material3499
+Kd 205 133 63
+newmtl material3500
+Kd 205 133 63
+newmtl material3501
+Kd 240 248 255
+newmtl material3502
+Kd 240 248 255
+newmtl material3503
+Kd 154 205 50
+newmtl material3504
+Kd 0 191 255
+newmtl material3505
+Kd 154 205 50
+newmtl material3506
+Kd 240 248 255
+newmtl material3507
+Kd 240 248 255
+newmtl material3508
+Kd 240 248 255
+newmtl material3509
+Kd 240 248 255
+newmtl material3510
+Kd 205 133 63
+newmtl material3511
+Kd 205 133 63
+newmtl material3512
+Kd 205 133 63
+newmtl material3513
+Kd 255 250 205
+newmtl material3514
+Kd 0 191 255
+newmtl material3515
+Kd 255 250 205
+newmtl material3516
+Kd 255 250 205
+newmtl material3517
+Kd 205 133 63
+newmtl material3518
+Kd 240 248 255
+newmtl material3519
+Kd 240 248 255
+newmtl material3520
+Kd 154 205 50
+newmtl material3521
+Kd 154 205 50
+newmtl material3522
+Kd 205 133 63
+newmtl material3523
+Kd 205 133 63
+newmtl material3524
+Kd 205 133 63
+newmtl material3525
+Kd 205 133 63
+newmtl material3526
+Kd 240 248 255
+newmtl material3527
+Kd 205 133 63
+newmtl material3528
+Kd 154 205 50
+newmtl material3529
+Kd 154 205 50
+newmtl material3530
+Kd 205 133 63
+newmtl material3531
+Kd 154 205 50
+newmtl material3532
+Kd 154 205 50
+newmtl material3533
+Kd 205 133 63
+newmtl material3534
+Kd 255 250 205
+newmtl material3535
+Kd 205 133 63
+newmtl material3536
+Kd 154 205 50
+newmtl material3537
+Kd 205 133 63
+newmtl material3538
+Kd 255 250 205
+newmtl material3539
+Kd 154 205 50
+newmtl material3540
+Kd 255 250 205
+newmtl material3541
+Kd 255 250 205
+newmtl material3542
+Kd 255 250 205
+newmtl material3543
+Kd 255 250 205
+newmtl material3544
+Kd 0 191 255
+newmtl material3545
+Kd 255 250 205
+newmtl material3546
+Kd 255 250 205
+newmtl material3547
+Kd 0 191 255
+newmtl material3548
+Kd 255 250 205
+newmtl material3549
+Kd 255 250 205
+newmtl material3550
+Kd 154 205 50
+newmtl material3551
+Kd 240 248 255
+newmtl material3552
+Kd 240 248 255
+newmtl material3553
+Kd 255 250 205
+newmtl material3554
+Kd 154 205 50
+newmtl material3555
+Kd 205 133 63
+newmtl material3556
+Kd 240 248 255
+newmtl material3557
+Kd 240 248 255
+newmtl material3558
+Kd 240 248 255
+newmtl material3559
+Kd 154 205 50
+newmtl material3560
+Kd 240 248 255
+newmtl material3561
+Kd 240 248 255
+newmtl material3562
+Kd 240 248 255
+newmtl material3563
+Kd 240 248 255
+newmtl material3564
+Kd 205 133 63
+newmtl material3565
+Kd 255 250 205
+newmtl material3566
+Kd 240 248 255
+newmtl material3567
+Kd 154 205 50
+newmtl material3568
+Kd 240 248 255
+newmtl material3569
+Kd 205 133 63
+newmtl material3570
+Kd 0 191 255
+newmtl material3571
+Kd 0 191 255
+newmtl material3572
+Kd 154 205 50
+newmtl material3573
+Kd 240 248 255
+newmtl material3574
+Kd 240 248 255
+newmtl material3575
+Kd 240 248 255
+newmtl material3576
+Kd 205 133 63
+newmtl material3577
+Kd 255 250 205
+newmtl material3578
+Kd 255 250 205
+newmtl material3579
+Kd 240 248 255
+newmtl material3580
+Kd 240 248 255
+newmtl material3581
+Kd 240 248 255
+newmtl material3582
+Kd 255 250 205
+newmtl material3583
+Kd 205 133 63
+newmtl material3584
+Kd 240 248 255
+newmtl material3585
+Kd 205 133 63
+newmtl material3586
+Kd 154 205 50
+newmtl material3587
+Kd 255 250 205
+newmtl material3588
+Kd 205 133 63
+newmtl material3589
+Kd 154 205 50
+newmtl material3590
+Kd 154 205 50
+newmtl material3591
+Kd 255 250 205
+newmtl material3592
+Kd 255 250 205
+newmtl material3593
+Kd 255 250 205
+newmtl material3594
+Kd 255 250 205
+newmtl material3595
+Kd 255 250 205
+newmtl material3596
+Kd 0 191 255
+newmtl material3597
+Kd 255 250 205
+newmtl material3598
+Kd 0 191 255
+newmtl material3599
+Kd 255 250 205
+newmtl material3600
+Kd 154 205 50
+newmtl material3601
+Kd 0 191 255
+newmtl material3602
+Kd 255 250 205
+newmtl material3603
+Kd 154 205 50
+newmtl material3604
+Kd 205 133 63
+newmtl material3605
+Kd 205 133 63
+newmtl material3606
+Kd 0 191 255
+newmtl material3607
+Kd 205 133 63
+newmtl material3608
+Kd 240 248 255
+newmtl material3609
+Kd 154 205 50
+newmtl material3610
+Kd 205 133 63
+newmtl material3611
+Kd 0 191 255
+newmtl material3612
+Kd 240 248 255
+newmtl material3613
+Kd 240 248 255
+newmtl material3614
+Kd 205 133 63
+newmtl material3615
+Kd 255 250 205
+newmtl material3616
+Kd 255 250 205
+newmtl material3617
+Kd 240 248 255
+newmtl material3618
+Kd 154 205 50
+newmtl material3619
+Kd 0 191 255
+newmtl material3620
+Kd 240 248 255
+newmtl material3621
+Kd 240 248 255
+newmtl material3622
+Kd 240 248 255
+newmtl material3623
+Kd 154 205 50
+newmtl material3624
+Kd 0 191 255
+newmtl material3625
+Kd 240 248 255
+newmtl material3626
+Kd 154 205 50
+newmtl material3627
+Kd 0 191 255
+newmtl material3628
+Kd 205 133 63
+newmtl material3629
+Kd 240 248 255
+newmtl material3630
+Kd 240 248 255
+newmtl material3631
+Kd 154 205 50
+newmtl material3632
+Kd 0 191 255
+newmtl material3633
+Kd 255 250 205
+newmtl material3634
+Kd 0 191 255
+newmtl material3635
+Kd 0 191 255
+newmtl material3636
+Kd 0 191 255
+newmtl material3637
+Kd 240 248 255
+newmtl material3638
+Kd 240 248 255
+newmtl material3639
+Kd 240 248 255
+newmtl material3640
+Kd 255 250 205
+newmtl material3641
+Kd 240 248 255
+newmtl material3642
+Kd 154 205 50
+newmtl material3643
+Kd 255 250 205
+newmtl material3644
+Kd 0 191 255
+newmtl material3645
+Kd 154 205 50
+newmtl material3646
+Kd 154 205 50
+newmtl material3647
+Kd 154 205 50
+newmtl material3648
+Kd 240 248 255
+newmtl material3649
+Kd 205 133 63
+newmtl material3650
+Kd 154 205 50
+newmtl material3651
+Kd 0 191 255
+newmtl material3652
+Kd 255 250 205
+newmtl material3653
+Kd 205 133 63
+newmtl material3654
+Kd 240 248 255
+newmtl material3655
+Kd 240 248 255
+newmtl material3656
+Kd 240 248 255
+newmtl material3657
+Kd 240 248 255
+newmtl material3658
+Kd 205 133 63
+newmtl material3659
+Kd 240 248 255
+newmtl material3660
+Kd 205 133 63
+newmtl material3661
+Kd 240 248 255
+newmtl material3662
+Kd 240 248 255
+newmtl material3663
+Kd 0 191 255
+newmtl material3664
+Kd 0 191 255
+newmtl material3665
+Kd 205 133 63
+newmtl material3666
+Kd 240 248 255
+newmtl material3667
+Kd 240 248 255
+newmtl material3668
+Kd 205 133 63
+newmtl material3669
+Kd 0 191 255
+newmtl material3670
+Kd 0 191 255
+newmtl material3671
+Kd 0 191 255
+newmtl material3672
+Kd 0 191 255
+newmtl material3673
+Kd 0 191 255
+newmtl material3674
+Kd 205 133 63
+newmtl material3675
+Kd 205 133 63
+newmtl material3676
+Kd 0 191 255
+newmtl material3677
+Kd 255 250 205
+newmtl material3678
+Kd 0 191 255
+newmtl material3679
+Kd 0 191 255
+newmtl material3680
+Kd 240 248 255
+newmtl material3681
+Kd 240 248 255
+newmtl material3682
+Kd 205 133 63
+newmtl material3683
+Kd 205 133 63
+newmtl material3684
+Kd 255 250 205
+newmtl material3685
+Kd 154 205 50
+newmtl material3686
+Kd 255 250 205
+newmtl material3687
+Kd 0 191 255
+newmtl material3688
+Kd 154 205 50
+newmtl material3689
+Kd 205 133 63
+newmtl material3690
+Kd 154 205 50
+newmtl material3691
+Kd 240 248 255
+newmtl material3692
+Kd 154 205 50
+newmtl material3693
+Kd 255 250 205
+newmtl material3694
+Kd 154 205 50
+newmtl material3695
+Kd 0 191 255
+newmtl material3696
+Kd 0 191 255
+newmtl material3697
+Kd 154 205 50
+newmtl material3698
+Kd 154 205 50
+newmtl material3699
+Kd 240 248 255
+newmtl material3700
+Kd 240 248 255
+newmtl material3701
+Kd 205 133 63
+newmtl material3702
+Kd 0 191 255
+newmtl material3703
+Kd 205 133 63
+newmtl material3704
+Kd 255 250 205
+newmtl material3705
+Kd 0 191 255
+newmtl material3706
+Kd 205 133 63
+newmtl material3707
+Kd 154 205 50
+newmtl material3708
+Kd 240 248 255
+newmtl material3709
+Kd 205 133 63
+newmtl material3710
+Kd 154 205 50
+newmtl material3711
+Kd 205 133 63
+newmtl material3712
+Kd 255 250 205
+newmtl material3713
+Kd 0 191 255
+newmtl material3714
+Kd 240 248 255
+newmtl material3715
+Kd 240 248 255
+newmtl material3716
+Kd 205 133 63
+newmtl material3717
+Kd 154 205 50
+newmtl material3718
+Kd 240 248 255
+newmtl material3719
+Kd 205 133 63
+newmtl material3720
+Kd 0 191 255
+newmtl material3721
+Kd 205 133 63
+newmtl material3722
+Kd 205 133 63
+newmtl material3723
+Kd 205 133 63
+newmtl material3724
+Kd 205 133 63
+newmtl material3725
+Kd 240 248 255
+newmtl material3726
+Kd 240 248 255
+newmtl material3727
+Kd 205 133 63
+newmtl material3728
+Kd 205 133 63
+newmtl material3729
+Kd 255 250 205
+newmtl material3730
+Kd 255 250 205
+newmtl material3731
+Kd 205 133 63
+newmtl material3732
+Kd 240 248 255
+newmtl material3733
+Kd 240 248 255
+newmtl material3734
+Kd 240 248 255
+newmtl material3735
+Kd 240 248 255
+newmtl material3736
+Kd 240 248 255
+newmtl material3737
+Kd 240 248 255
+newmtl material3738
+Kd 205 133 63
+newmtl material3739
+Kd 205 133 63
+newmtl material3740
+Kd 0 191 255
+newmtl material3741
+Kd 255 250 205
+newmtl material3742
+Kd 255 250 205
+newmtl material3743
+Kd 255 250 205
+newmtl material3744
+Kd 205 133 63
+newmtl material3745
+Kd 154 205 50
+newmtl material3746
+Kd 205 133 63
+newmtl material3747
+Kd 240 248 255
+newmtl material3748
+Kd 240 248 255
+newmtl material3749
+Kd 240 248 255
+newmtl material3750
+Kd 0 191 255
+newmtl material3751
+Kd 154 205 50
+newmtl material3752
+Kd 205 133 63
+newmtl material3753
+Kd 154 205 50
+newmtl material3754
+Kd 255 250 205
+newmtl material3755
+Kd 240 248 255
+newmtl material3756
+Kd 240 248 255
+newmtl material3757
+Kd 240 248 255
+newmtl material3758
+Kd 240 248 255
+newmtl material3759
+Kd 240 248 255
+newmtl material3760
+Kd 205 133 63
+newmtl material3761
+Kd 240 248 255
+newmtl material3762
+Kd 205 133 63
+newmtl material3763
+Kd 240 248 255
+newmtl material3764
+Kd 240 248 255
+newmtl material3765
+Kd 240 248 255
+newmtl material3766
+Kd 154 205 50
+newmtl material3767
+Kd 255 250 205
+newmtl material3768
+Kd 255 250 205
+newmtl material3769
+Kd 205 133 63
+newmtl material3770
+Kd 240 248 255
+newmtl material3771
+Kd 240 248 255
+newmtl material3772
+Kd 240 248 255
+newmtl material3773
+Kd 240 248 255
+newmtl material3774
+Kd 205 133 63
+newmtl material3775
+Kd 240 248 255
+newmtl material3776
+Kd 240 248 255
+newmtl material3777
+Kd 205 133 63
+newmtl material3778
+Kd 154 205 50
+newmtl material3779
+Kd 0 191 255
+newmtl material3780
+Kd 255 250 205
+newmtl material3781
+Kd 240 248 255
+newmtl material3782
+Kd 240 248 255
+newmtl material3783
+Kd 240 248 255
+newmtl material3784
+Kd 205 133 63
+newmtl material3785
+Kd 240 248 255
+newmtl material3786
+Kd 240 248 255
+newmtl material3787
+Kd 240 248 255
+newmtl material3788
+Kd 240 248 255
+newmtl material3789
+Kd 240 248 255
+newmtl material3790
+Kd 205 133 63
+newmtl material3791
+Kd 240 248 255
+newmtl material3792
+Kd 240 248 255
+newmtl material3793
+Kd 240 248 255
+newmtl material3794
+Kd 240 248 255
+newmtl material3795
+Kd 240 248 255
+newmtl material3796
+Kd 255 250 205
+newmtl material3797
+Kd 240 248 255
+newmtl material3798
+Kd 205 133 63
+newmtl material3799
+Kd 240 248 255
+newmtl material3800
+Kd 240 248 255
+newmtl material3801
+Kd 240 248 255
+newmtl material3802
+Kd 240 248 255
+newmtl material3803
+Kd 240 248 255
+newmtl material3804
+Kd 240 248 255
+newmtl material3805
+Kd 205 133 63
+newmtl material3806
+Kd 205 133 63
+newmtl material3807
+Kd 205 133 63
+newmtl material3808
+Kd 0 191 255
+newmtl material3809
+Kd 255 250 205
+newmtl material3810
+Kd 240 248 255
+newmtl material3811
+Kd 240 248 255
+newmtl material3812
+Kd 240 248 255
+newmtl material3813
+Kd 240 248 255
+newmtl material3814
+Kd 205 133 63
+newmtl material3815
+Kd 255 250 205
+newmtl material3816
+Kd 255 250 205
+newmtl material3817
+Kd 205 133 63
+newmtl material3818
+Kd 154 205 50
+newmtl material3819
+Kd 205 133 63
+newmtl material3820
+Kd 255 250 205
+newmtl material3821
+Kd 154 205 50
+newmtl material3822
+Kd 255 250 205
+newmtl material3823
+Kd 205 133 63
+newmtl material3824
+Kd 205 133 63
+newmtl material3825
+Kd 255 250 205
+newmtl material3826
+Kd 0 191 255
+newmtl material3827
+Kd 205 133 63
+newmtl material3828
+Kd 205 133 63
+newmtl material3829
+Kd 240 248 255
+newmtl material3830
+Kd 240 248 255
+newmtl material3831
+Kd 240 248 255
+newmtl material3832
+Kd 240 248 255
+newmtl material3833
+Kd 240 248 255
+newmtl material3834
+Kd 240 248 255
+newmtl material3835
+Kd 240 248 255
+newmtl material3836
+Kd 240 248 255
+newmtl material3837
+Kd 154 205 50
+newmtl material3838
+Kd 205 133 63
+newmtl material3839
+Kd 205 133 63
+newmtl material3840
+Kd 205 133 63
+newmtl material3841
+Kd 154 205 50
+newmtl material3842
+Kd 255 250 205
+newmtl material3843
+Kd 0 191 255
+newmtl material3844
+Kd 0 191 255
+newmtl material3845
+Kd 154 205 50
+newmtl material3846
+Kd 205 133 63
+newmtl material3847
+Kd 205 133 63
+newmtl material3848
+Kd 240 248 255
+newmtl material3849
+Kd 240 248 255
+newmtl material3850
+Kd 240 248 255
+newmtl material3851
+Kd 154 205 50
+newmtl material3852
+Kd 255 250 205
+newmtl material3853
+Kd 205 133 63
+newmtl material3854
+Kd 154 205 50
+newmtl material3855
+Kd 0 191 255
+newmtl material3856
+Kd 0 191 255
+newmtl material3857
+Kd 205 133 63
+newmtl material3858
+Kd 240 248 255
+newmtl material3859
+Kd 240 248 255
+newmtl material3860
+Kd 240 248 255
+newmtl material3861
+Kd 240 248 255
+newmtl material3862
+Kd 255 250 205
+newmtl material3863
+Kd 255 250 205
+newmtl material3864
+Kd 205 133 63
+newmtl material3865
+Kd 240 248 255
+newmtl material3866
+Kd 240 248 255
+newmtl material3867
+Kd 240 248 255
+newmtl material3868
+Kd 205 133 63
+newmtl material3869
+Kd 255 250 205
+newmtl material3870
+Kd 0 191 255
+newmtl material3871
+Kd 255 250 205
+newmtl material3872
+Kd 205 133 63
+newmtl material3873
+Kd 205 133 63
+newmtl material3874
+Kd 205 133 63
+newmtl material3875
+Kd 255 250 205
+newmtl material3876
+Kd 255 250 205
+newmtl material3877
+Kd 154 205 50
+newmtl material3878
+Kd 240 248 255
+newmtl material3879
+Kd 240 248 255
+newmtl material3880
+Kd 240 248 255
+newmtl material3881
+Kd 255 250 205
+newmtl material3882
+Kd 255 250 205
+newmtl material3883
+Kd 154 205 50
+newmtl material3884
+Kd 154 205 50
+newmtl material3885
+Kd 205 133 63
+newmtl material3886
+Kd 205 133 63
+newmtl material3887
+Kd 240 248 255
+newmtl material3888
+Kd 255 250 205
+newmtl material3889
+Kd 154 205 50
+newmtl material3890
+Kd 0 191 255
+newmtl material3891
+Kd 154 205 50
+newmtl material3892
+Kd 240 248 255
+newmtl material3893
+Kd 240 248 255
+newmtl material3894
+Kd 154 205 50
+newmtl material3895
+Kd 205 133 63
+newmtl material3896
+Kd 240 248 255
+newmtl material3897
+Kd 240 248 255
+newmtl material3898
+Kd 240 248 255
+newmtl material3899
+Kd 0 191 255
+newmtl material3900
+Kd 255 250 205
+newmtl material3901
+Kd 205 133 63
+newmtl material3902
+Kd 205 133 63
+newmtl material3903
+Kd 255 250 205
+newmtl material3904
+Kd 205 133 63
+newmtl material3905
+Kd 205 133 63
+newmtl material3906
+Kd 240 248 255
+newmtl material3907
+Kd 240 248 255
+newmtl material3908
+Kd 240 248 255
+newmtl material3909
+Kd 205 133 63
+newmtl material3910
+Kd 0 191 255
+newmtl material3911
+Kd 0 191 255
+newmtl material3912
+Kd 154 205 50
+newmtl material3913
+Kd 240 248 255
+newmtl material3914
+Kd 240 248 255
+newmtl material3915
+Kd 240 248 255
+newmtl material3916
+Kd 205 133 63
+newmtl material3917
+Kd 255 250 205
+newmtl material3918
+Kd 0 191 255
+newmtl material3919
+Kd 255 250 205
+newmtl material3920
+Kd 255 250 205
+newmtl material3921
+Kd 154 205 50
+newmtl material3922
+Kd 255 250 205
+newmtl material3923
+Kd 255 250 205
+newmtl material3924
+Kd 205 133 63
+newmtl material3925
+Kd 240 248 255
+newmtl material3926
+Kd 240 248 255
+newmtl material3927
+Kd 205 133 63
+newmtl material3928
+Kd 205 133 63
+newmtl material3929
+Kd 0 191 255
+newmtl material3930
+Kd 154 205 50
+newmtl material3931
+Kd 205 133 63
+newmtl material3932
+Kd 205 133 63
+newmtl material3933
+Kd 205 133 63
+newmtl material3934
+Kd 154 205 50
+newmtl material3935
+Kd 205 133 63
+newmtl material3936
+Kd 154 205 50
+newmtl material3937
+Kd 0 191 255
+newmtl material3938
+Kd 0 191 255
+newmtl material3939
+Kd 0 191 255
+newmtl material3940
+Kd 205 133 63
+newmtl material3941
+Kd 154 205 50
+newmtl material3942
+Kd 154 205 50
+newmtl material3943
+Kd 205 133 63
+newmtl material3944
+Kd 154 205 50
+newmtl material3945
+Kd 255 250 205
+newmtl material3946
+Kd 255 250 205
+newmtl material3947
+Kd 255 250 205
+newmtl material3948
+Kd 154 205 50
+newmtl material3949
+Kd 240 248 255
+newmtl material3950
+Kd 240 248 255
+newmtl material3951
+Kd 240 248 255
+newmtl material3952
+Kd 240 248 255
+newmtl material3953
+Kd 0 191 255
+newmtl material3954
+Kd 0 191 255
+newmtl material3955
+Kd 255 250 205
+newmtl material3956
+Kd 154 205 50
+newmtl material3957
+Kd 240 248 255
+newmtl material3958
+Kd 240 248 255
+newmtl material3959
+Kd 154 205 50
+newmtl material3960
+Kd 205 133 63
+newmtl material3961
+Kd 240 248 255
+newmtl material3962
+Kd 255 250 205
+newmtl material3963
+Kd 0 191 255
+newmtl material3964
+Kd 0 191 255
+newmtl material3965
+Kd 154 205 50
+newmtl material3966
+Kd 205 133 63
+newmtl material3967
+Kd 154 205 50
+newmtl material3968
+Kd 154 205 50
+newmtl material3969
+Kd 205 133 63
+newmtl material3970
+Kd 154 205 50
+newmtl material3971
+Kd 154 205 50
+newmtl material3972
+Kd 0 191 255
+newmtl material3973
+Kd 0 191 255
+newmtl material3974
+Kd 0 191 255
+newmtl material3975
+Kd 0 191 255
+newmtl material3976
+Kd 255 250 205
+newmtl material3977
+Kd 205 133 63
+newmtl material3978
+Kd 205 133 63
+newmtl material3979
+Kd 240 248 255
+newmtl material3980
+Kd 240 248 255
+newmtl material3981
+Kd 205 133 63
+newmtl material3982
+Kd 205 133 63
+newmtl material3983
+Kd 240 248 255
+newmtl material3984
+Kd 205 133 63
+newmtl material3985
+Kd 255 250 205
+newmtl material3986
+Kd 255 250 205
+newmtl material3987
+Kd 154 205 50
+newmtl material3988
+Kd 205 133 63
+newmtl material3989
+Kd 240 248 255
+newmtl material3990
+Kd 240 248 255
+newmtl material3991
+Kd 240 248 255
+newmtl material3992
+Kd 205 133 63
+newmtl material3993
+Kd 205 133 63
+newmtl material3994
+Kd 240 248 255
+newmtl material3995
+Kd 154 205 50
+newmtl material3996
+Kd 154 205 50
+newmtl material3997
+Kd 205 133 63
+newmtl material3998
+Kd 205 133 63
+newmtl material3999
+Kd 240 248 255
+newmtl material4000
+Kd 240 248 255
+newmtl material4001
+Kd 240 248 255
+newmtl material4002
+Kd 240 248 255
+newmtl material4003
+Kd 240 248 255
+newmtl material4004
+Kd 240 248 255
+newmtl material4005
+Kd 240 248 255
+newmtl material4006
+Kd 240 248 255
+newmtl material4007
+Kd 205 133 63
+newmtl material4008
+Kd 0 191 255
+newmtl material4009
+Kd 205 133 63
+newmtl material4010
+Kd 240 248 255
+newmtl material4011
+Kd 240 248 255
+newmtl material4012
+Kd 240 248 255
+newmtl material4013
+Kd 240 248 255
+newmtl material4014
+Kd 240 248 255
+newmtl material4015
+Kd 240 248 255
+newmtl material4016
+Kd 240 248 255
+newmtl material4017
+Kd 240 248 255
+newmtl material4018
+Kd 240 248 255
+newmtl material4019
+Kd 240 248 255
+newmtl material4020
+Kd 240 248 255
+newmtl material4021
+Kd 240 248 255
+newmtl material4022
+Kd 240 248 255
+newmtl material4023
+Kd 240 248 255
+newmtl material4024
+Kd 240 248 255
+newmtl material4025
+Kd 240 248 255
+newmtl material4026
+Kd 240 248 255
+newmtl material4027
+Kd 240 248 255
+newmtl material4028
+Kd 240 248 255
+newmtl material4029
+Kd 240 248 255
+newmtl material4030
+Kd 240 248 255
+newmtl material4031
+Kd 205 133 63
+newmtl material4032
+Kd 0 191 255
+newmtl material4033
+Kd 240 248 255
+newmtl material4034
+Kd 240 248 255
+newmtl material4035
+Kd 240 248 255
+newmtl material4036
+Kd 240 248 255
+newmtl material4037
+Kd 240 248 255
+newmtl material4038
+Kd 240 248 255
+newmtl material4039
+Kd 240 248 255
+newmtl material4040
+Kd 255 250 205
+newmtl material4041
+Kd 0 191 255
+newmtl material4042
+Kd 0 191 255
+newmtl material4043
+Kd 205 133 63
+newmtl material4044
+Kd 240 248 255
+newmtl material4045
+Kd 240 248 255
+newmtl material4046
+Kd 240 248 255
+newmtl material4047
+Kd 240 248 255
+newmtl material4048
+Kd 240 248 255
+newmtl material4049
+Kd 240 248 255
+newmtl material4050
+Kd 205 133 63
+newmtl material4051
+Kd 0 191 255
+newmtl material4052
+Kd 255 250 205
+newmtl material4053
+Kd 240 248 255
+newmtl material4054
+Kd 240 248 255
+newmtl material4055
+Kd 240 248 255
+newmtl material4056
+Kd 240 248 255
+newmtl material4057
+Kd 240 248 255
+newmtl material4058
+Kd 240 248 255
+newmtl material4059
+Kd 0 191 255
+newmtl material4060
+Kd 154 205 50
+newmtl material4061
+Kd 240 248 255
+newmtl material4062
+Kd 240 248 255
+newmtl material4063
+Kd 240 248 255
+newmtl material4064
+Kd 240 248 255
+newmtl material4065
+Kd 240 248 255
+newmtl material4066
+Kd 240 248 255
+newmtl material4067
+Kd 240 248 255
+newmtl material4068
+Kd 154 205 50
+newmtl material4069
+Kd 255 250 205
+newmtl material4070
+Kd 154 205 50
+newmtl material4071
+Kd 0 191 255
+newmtl material4072
+Kd 0 191 255
+newmtl material4073
+Kd 240 248 255
+newmtl material4074
+Kd 240 248 255
+newmtl material4075
+Kd 240 248 255
+newmtl material4076
+Kd 240 248 255
+newmtl material4077
+Kd 240 248 255
+newmtl material4078
+Kd 205 133 63
+newmtl material4079
+Kd 255 250 205
+newmtl material4080
+Kd 255 250 205
+newmtl material4081
+Kd 205 133 63
+newmtl material4082
+Kd 205 133 63
+newmtl material4083
+Kd 255 250 205
+newmtl material4084
+Kd 0 191 255
+newmtl material4085
+Kd 240 248 255
+newmtl material4086
+Kd 240 248 255
+newmtl material4087
+Kd 240 248 255
+newmtl material4088
+Kd 240 248 255
+newmtl material4089
+Kd 205 133 63
+newmtl material4090
+Kd 205 133 63
+newmtl material4091
+Kd 240 248 255
+newmtl material4092
+Kd 240 248 255
+newmtl material4093
+Kd 240 248 255
+newmtl material4094
+Kd 240 248 255
+newmtl material4095
+Kd 240 248 255
+newmtl material4096
+Kd 240 248 255
+newmtl material4097
+Kd 240 248 255
+newmtl material4098
+Kd 240 248 255
+newmtl material4099
+Kd 205 133 63
+newmtl material4100
+Kd 205 133 63
+newmtl material4101
+Kd 0 191 255
+newmtl material4102
+Kd 255 250 205
+newmtl material4103
+Kd 240 248 255
+newmtl material4104
+Kd 240 248 255
+newmtl material4105
+Kd 240 248 255
+newmtl material4106
+Kd 154 205 50
+newmtl material4107
+Kd 255 250 205
+newmtl material4108
+Kd 0 191 255
+newmtl material4109
+Kd 205 133 63
+newmtl material4110
+Kd 0 191 255
+newmtl material4111
+Kd 154 205 50
+newmtl material4112
+Kd 205 133 63
+newmtl material4113
+Kd 205 133 63
+newmtl material4114
+Kd 240 248 255
+newmtl material4115
+Kd 240 248 255
+newmtl material4116
+Kd 240 248 255
+newmtl material4117
+Kd 255 250 205
+newmtl material4118
+Kd 0 191 255
+newmtl material4119
+Kd 205 133 63
+newmtl material4120
+Kd 0 191 255
+newmtl material4121
+Kd 0 191 255
+newmtl material4122
+Kd 0 191 255
+newmtl material4123
+Kd 255 250 205
+newmtl material4124
+Kd 255 250 205
+newmtl material4125
+Kd 240 248 255
+newmtl material4126
+Kd 240 248 255
+newmtl material4127
+Kd 255 250 205
+newmtl material4128
+Kd 255 250 205
+newmtl material4129
+Kd 0 191 255
+newmtl material4130
+Kd 255 250 205
+newmtl material4131
+Kd 205 133 63
+newmtl material4132
+Kd 240 248 255
+newmtl material4133
+Kd 240 248 255
+newmtl material4134
+Kd 240 248 255
+newmtl material4135
+Kd 154 205 50
+newmtl material4136
+Kd 0 191 255
+newmtl material4137
+Kd 154 205 50
+newmtl material4138
+Kd 205 133 63
+newmtl material4139
+Kd 205 133 63
+newmtl material4140
+Kd 240 248 255
+newmtl material4141
+Kd 240 248 255
+newmtl material4142
+Kd 154 205 50
+newmtl material4143
+Kd 0 191 255
+newmtl material4144
+Kd 255 250 205
+newmtl material4145
+Kd 154 205 50
+newmtl material4146
+Kd 205 133 63
+newmtl material4147
+Kd 154 205 50
+newmtl material4148
+Kd 0 191 255
+newmtl material4149
+Kd 255 250 205
+newmtl material4150
+Kd 255 250 205
+newmtl material4151
+Kd 205 133 63
+newmtl material4152
+Kd 205 133 63
+newmtl material4153
+Kd 0 191 255
+newmtl material4154
+Kd 0 191 255
+newmtl material4155
+Kd 0 191 255
+newmtl material4156
+Kd 255 250 205
+newmtl material4157
+Kd 0 191 255
+newmtl material4158
+Kd 0 191 255
+newmtl material4159
+Kd 0 191 255
+newmtl material4160
+Kd 0 191 255

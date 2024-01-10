@@ -109,44 +109,11 @@ DemiCote* Carte::ajouteDemiCote(const Point &p, DemiCote* oppose)
 	return dc;
 }
 
-/*void Carte::flip(DemiCote *dc){
-    DemiCote* dcOppose = dc->oppose();
-
-    dc->precedent()->d_suivant = dc->suivant();
-    dc->suivant()->d_precedent = dc->precedent();
-
-    dc->coordonnees() = dc->suivant()->oppose()->coordonnees();
-    dc->d_suivant = dc->suivant()->oppose()->suivant();
-    dc->d_precedent = dc->suivant()->precedent();
-    dc->d_sommet = dc->precedent()->sommet();
-
-    dc->precedent()->d_suivant = dc;
-    dc->suivant()->d_precedent = dc;
-
-    dcOppose->precedent()->d_suivant = dcOppose->d_suivant;
-    dcOppose->suivant()->d_precedent = dcOppose->d_precedent;
-
-    dcOppose->coordonnees() = dcOppose->suivant()->oppose()->coordonnees();
-    dcOppose->d_suivant =  dcOppose->suivant()->oppose()->suivant();
-    dcOppose->d_precedent = dcOppose->suivant()->precedent();
-    dc->d_sommet = dc->precedent()->sommet();
-
-    dcOppose->precedent()->d_suivant = dcOppose;
-    dcOppose->suivant()->d_precedent = dcOppose;
-}*/
-/**
- * Flip le DemiCote d et son opposé.
- * @param d {DemiCote} DemiCote d.
- */
 void Carte::flip(DemiCote* d) {
     flipDemiCote(d);
     flipDemiCote(d->oppose());
 }
 
-/**
- * Flip le DemiCote d.
- * @param d {DemiCote} DemiCote d.
- */
 void Carte::flipDemiCote(DemiCote* d) {
     auto demiCoteDepart = d->suivant()->oppose();
 
@@ -164,95 +131,48 @@ void Carte::flipDemiCote(DemiCote* d) {
     d->d_sommet = demiCoteDepart->sommet();
 }
 
-int estIllegal(DemiCote* dc){
-    Point currentPoint = dc->precedent()->oppose()->coordonnees();
-    Point a = dc->coordonnees();
-    Point b = dc->suivant()->oppose()->coordonnees();
-    Point c = dc->oppose()->coordonnees();
-
-    return currentPoint.dansCercle(a, b, c);
-}
-
 void Carte::delaunay() {
-    /*std::stack<DemiCote*> pile;
-    //Marque les cotés exterieurs
+    stack<DemiCote*> pile;
 
-    DemiCote* dcExt = this->demiCoteParticulier();
-    std::cout << d_tabDemiCotes.size() << std::endl;
-
+    // Initialisation des côtés externes
+    DemiCote* dcPart = this->demiCoteParticulier();
     do {
-        dcExt->changeMarque(1);
-        dcExt->oppose()->changeMarque(1);
-        dcExt = dcExt->oppose()->suivant();
-    } while(dcExt != this->demiCoteParticulier());
-    for(auto dc: d_tabDemiCotes){
+        dcPart->changeMarque(1);
+        dcPart->oppose()->changeMarque(1);
+        dcPart = dcPart->oppose()->suivant();
+    } while (dcPart != this->demiCoteParticulier());
 
-        if(dc->marque() != 1){
+    // Ajout des côtés non externes à la pile
+    for (int i = 0; i < this->nbDemiCotes(); i++) {
+        DemiCote* dc = this->demiCote(i);
+        if (dc->marque() != 1) {
             dc->changeMarque(1);
             dc->oppose()->changeMarque(1);
-            pile.push(dc);
+            pile.push(this->demiCote(i));
         }
     }
-
-    do{
-
-        DemiCote* dc = pile.top();
+    //Tant que la pile n'est pas vide
+    while (!pile.empty()) {
+        //Récupère le premier demi côté de la pile
+        DemiCote* currentDc = pile.top();
+        //Enlève le demi côté de la pile
         pile.pop();
-        std::cout << pile.size() << std::endl;
+        //Supprime la marque du demi coté et de son opposé
+        currentDc->changeMarque(0);
+        currentDc->oppose()->changeMarque(0);
 
-        dc->changeMarque(0);
-        dc->oppose()->changeMarque(0);
-
-        if(estIllegal(dc) != -1){
-
-            for (auto dcVoisin : { dc->oppose()->precedent(), dc->oppose()->suivant(), dc->precedent(), dc->suivant() }) {
-                if (dcVoisin->marque() == 0) {
-                    dcVoisin->changeMarque(1);
-                    dcVoisin->oppose()->changeMarque(1);
-                    pile.push(dcVoisin);
+        //Verifie si le point du coté precedent/opposé au demi coté courrant est dans le cercle
+        if (currentDc->precedent()->oppose()->sommet()->coordonnees().dansCercle(currentDc->coordonnees(), currentDc->suivant()->oppose()->coordonnees(), currentDc->oppose()->coordonnees()) < 0) {
+            //Ajoute les cotés adjacent au point traité à la pile car leur etat a pu changer
+            for (auto nearDc : { currentDc->oppose()->precedent(), currentDc->oppose()->suivant(), currentDc->precedent(), currentDc->suivant() }) {
+                if (nearDc->marque() == 0) {
+                    nearDc->changeMarque(1);
+                    nearDc->oppose()->changeMarque(1);
+                    pile.push(nearDc);
                 }
             }
-            flip(dc);
-        }
-    } while(!pile.empty());*/
-    const int nbDemiCotes = this->nbDemiCotes();
-    stack<DemiCote*> currentGlobal;
-
-    // Marque les demi côtés exterieurs
-    DemiCote* loopCote = this->demiCoteParticulier();
-    do {
-        loopCote->changeMarque(1);
-        loopCote->oppose()->changeMarque(1);
-        loopCote = loopCote->oppose()->suivant();
-    } while (loopCote != this->demiCoteParticulier());
-
-    // Ajoute les demi côtés non marqués à la pile
-    for (int i = 0; i < nbDemiCotes; i++) {
-        DemiCote* currentDemiCote = this->demiCote(i);
-        if (currentDemiCote->marque() != 1) {
-            currentDemiCote->changeMarque(1);
-            currentDemiCote->oppose()->changeMarque(1);
-            currentGlobal.push(this->demiCote(i));
-        }
-    }
-
-    while (!currentGlobal.empty()) {
-        DemiCote* demiCoteTraited = currentGlobal.top();
-        currentGlobal.pop();
-        demiCoteTraited->changeMarque(0);
-        demiCoteTraited->oppose()->changeMarque(0);
-        Sommet* first = demiCoteTraited->precedent()->oppose()->sommet();
-        float insideCircle = first->coordonnees().dansCercle(demiCoteTraited->coordonnees(), demiCoteTraited->suivant()->oppose()->coordonnees(), demiCoteTraited->oppose()->coordonnees());
-
-        if (insideCircle < 0) {
-            for (auto neighbor : { demiCoteTraited->oppose()->precedent(), demiCoteTraited->oppose()->suivant(), demiCoteTraited->precedent(), demiCoteTraited->suivant() }) {
-                if (neighbor->marque() == 0) {
-                    neighbor->changeMarque(1);
-                    neighbor->oppose()->changeMarque(1);
-                    currentGlobal.push(neighbor);
-                }
-            }
-            flip(demiCoteTraited);
+            //effectu le flip
+            flip(currentDc);
         }
     }
 }
@@ -262,8 +182,8 @@ std::set<TriangleIndices, TriangleCompare> Carte::getTriangles() {
 
     for (const DemiCote* dc : d_tabDemiCotes) {
         int index1 = dc->sommet()->index();
-        int index2 = dc->suivant()->sommet()->index();
-        int index3 = dc->suivant()->suivant()->sommet()->index();
+        int index2 = dc->precedent()->oppose()->sommet()->index();
+        int index3 = dc->precedent()->oppose()->precedent()->oppose()->sommet()->index();
 
         TriangleIndices triangle = std::make_tuple(index1, index2, index3);
         triangles.insert(triangle);

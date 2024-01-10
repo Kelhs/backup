@@ -17,21 +17,6 @@ int Point::aGauche(const Point &a, const Point &b) const
 }
 
 int Point::dansCercle(const Point &a, const Point &b, const Point &c) const {
-    /*double det = (a.x() - this->x()) * (a.y() - this->y()) * ((b.x() - this->x()) * (b.x() - this->x()) + (b.y() - this->y()) * (b.y() - this->y()))
-                 - (b.x() - this->x()) * (b.y() - this->y()) * ((a.x() - this->x()) * (a.x() - this->x()) + (a.y() - this->y()) * (a.y() - this->y()))
-                 + (c.x() - this->x()) * (c.y() - this->y()) * ((a.x() - this->x()) * (a.x() - this->x()) + (a.y() - this->y()) * (a.y() - this->y()))
-                 - (a.x() - this->x()) * (c.y() - this->y()) * ((c.x() - this->x()) * (c.x() - this->x()) + (c.y() - this->y()) * (c.y() - this->y()))
-                 + (b.x() - this->x()) * (c.y() - this->y()) * ((c.x() - this->x()) * (c.x() - this->x()) + (c.y() - this->y()) * (c.y() - this->y()))
-                 - (c.x() - this->x()) * (b.y() - this->y()) * ((b.x() - this->x()) * (b.x() - this->x()) + (b.y() - this->y()) * (b.y() - this->y()));
-
-
-    if (det > 0) {
-        return 1; // Le point est à l'intérieur du cercle
-    } else if (det < 0) {
-        return -1; // Le point est à l'extérieur du cercle
-    } else {
-        return 0; // Le point est sur le cercle
-    }*/
     double mathA = a.x() - x();
     double mathB = a.y() - y();
     double mathC = mathA * mathA + mathB * mathB;
